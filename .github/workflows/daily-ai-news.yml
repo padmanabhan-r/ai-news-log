@@ -19,11 +19,12 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install openai feedparser
+        run: pip install openai tavily-python
 
       - name: Fetch AI news
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: python scripts/fetch_ai_news.py
 
       - name: Commit and push

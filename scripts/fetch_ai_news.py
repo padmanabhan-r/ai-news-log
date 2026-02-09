@@ -1,60 +1,35 @@
 import os
-from datetime import date, datetime, timedelta
+from datetime import date
 from openai import OpenAI
-import feedparser
-
-# AI news RSS feeds
-RSS_FEEDS = [
-    "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "https://venturebeat.com/category/ai/feed/",
-    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
-]
-
-def fetch_recent_articles():
-    """Fetch articles from the last 24 hours"""
-    articles = []
-    yesterday = datetime.now() - timedelta(days=1)
-
-    for feed_url in RSS_FEEDS:
-        try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:10]:  # Top 10 from each feed
-                # Parse publication date
-                pub_date = None
-                if hasattr(entry, 'published_parsed'):
-                    pub_date = datetime(*entry.published_parsed[:6])
-                elif hasattr(entry, 'updated_parsed'):
-                    pub_date = datetime(*entry.updated_parsed[:6])
-
-                # Only include recent articles
-                if pub_date and pub_date >= yesterday:
-                    articles.append({
-                        'title': entry.title,
-                        'link': entry.link,
-                        'summary': entry.get('summary', '')[:300]
-                    })
-        except Exception as e:
-            print(f"Error fetching {feed_url}: {e}")
-
-    return articles[:15]  # Return top 15 most recent
+from tavily import TavilyClient
 
 def generate():
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    # Initialize clients
+    openai_client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    tavily_client = TavilyClient(api_key=os.environ["TAVILY_API_KEY"])
+
     today = date.today().isoformat()
 
-    # Fetch recent articles
-    articles = fetch_recent_articles()
+    # Search for AI news using Tavily
+    try:
+        search_response = tavily_client.search(
+            query=f"artificial intelligence AI machine learning news {today}",
+            search_depth="advanced",
+            max_results=15
+        )
 
-    if not articles:
-        content = "No major AI developments today."
-    else:
-        # Format articles for GPT
-        articles_text = "\n\n".join([
-            f"Title: {a['title']}\nLink: {a['link']}\nSummary: {a['summary']}"
-            for a in articles
-        ])
+        results = search_response.get('results', [])
 
-        prompt = f"""Here are recent AI news articles. Summarize 10 of the most important/interesting ones.
+        if not results:
+            content = "No major AI developments today."
+        else:
+            # Format results for GPT
+            articles_text = "\n\n".join([
+                f"Title: {r['title']}\nURL: {r['url']}\nContent: {r['content'][:400]}"
+                for r in results
+            ])
+
+            prompt = f"""Here are recent AI news articles from today. Summarize 10 of the most important/interesting ones.
 
 {articles_text}
 
@@ -64,17 +39,21 @@ Rules:
 - 1-2 lines per bullet, include the link
 - Neutral, factual tone
 - No hype, no emojis
-- Format: - **[Title]**: Brief summary ([source](link))
+- Format: - **[Title]**: Brief summary ([source](url))
 """
 
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
-            max_tokens=1000,
-        )
+            response = openai_client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.3,
+                max_tokens=1000,
+            )
 
-        content = response.choices[0].message.content.strip()
+            content = response.choices[0].message.content.strip()
+
+    except Exception as e:
+        print(f"Error: {e}")
+        content = "Error fetching AI news today."
 
     if content:
         with open("ai-news.md", "a") as f:
