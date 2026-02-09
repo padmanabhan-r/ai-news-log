@@ -1,15 +1,13 @@
 # Daily AI News Log
 
-A publicly available, automated daily log of major AI developments.
+A public, automated daily log of notable AI developments.
 
-This repository is updated once per day using a grounded large language model
-with Google Search enabled to summarize notable AI-related news from the
+Each entry is generated once per day using a grounded large language model
+with Google Search enabled, summarizing major AI-related news from the
 previous 24 hours.
 
-The goal is signal over noise:
+Focus areas:
 - AI models and research
 - Infrastructure and chips
 - Regulation and policy
-- Industry moves with technical impact
-
-Entries are generated automatically and appended daily.
+- Industry developments with technical impact

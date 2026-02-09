@@ -1,0 +1,35 @@
+name: Daily AI News (Grounded)
+
+on:
+  schedule:
+    - cron: "30 2 * * *"   # daily, UTC
+  workflow_dispatch:
+
+jobs:
+  ai-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install google-genai
+
+      - name: Fetch grounded AI news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_ai_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "padmanabhan-r"
+          git config user.email "53633680+padmanabhan-r@users.noreply.github.com"
+          git add ai-news.md
+          git diff --cached --quiet || git commit -m "docs: daily grounded AI news"
+          git push
