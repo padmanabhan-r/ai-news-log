@@ -1,37 +1,30 @@
 import os
 from datetime import date
-from openai import OpenAI
+from perplexity import Perplexity
 
 def generate():
-    client = OpenAI(
-        api_key=os.environ["PERPLEXITY_API_KEY"],
-        base_url="https://api.perplexity.ai"
-    )
+    client = Perplexity(api_key=os.environ["PERPLEXITY_API_KEY"])
 
     today = date.today().isoformat()
 
-    prompt = f"""
-Search the web and summarize 3-5 important AI-related news items from TODAY ({today}).
-
-Rules:
-- AI / ML / LLMs / robotics / chips / regulation only
-- Bullet points
-- 1-2 lines per bullet
-- Neutral, factual tone
-- No hype, no emojis
-- If there is no major news, say "No major AI developments today."
-"""
-
-    response = client.chat.completions.create(
-        model="sonar-pro",
-        messages=[
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.2,
-        max_tokens=300,
+    # Search for AI news from today
+    search = client.search.create(
+        query=f"AI artificial intelligence machine learning news {today}",
+        max_results=10,
+        max_tokens_per_page=2048
     )
 
-    content = response.choices[0].message.content.strip()
+    if not search.results:
+        content = "No major AI developments today."
+    else:
+        # Format the results as a summary
+        items = []
+        for i, result in enumerate(search.results[:5]):  # Top 5 results
+            snippet = result.snippet[:150].strip()
+            if snippet:
+                items.append(f"- **{result.title}**: {snippet}... ([source]({result.url}))")
+
+        content = "\n".join(items) if items else "No major AI developments today."
 
     if not content:
         return
