@@ -54,12 +54,12 @@ def generate():
             for a in articles
         ])
 
-        prompt = f"""Here are recent AI news articles. Summarize 3-5 of the most important/interesting ones.
+        prompt = f"""Here are recent AI news articles. Summarize 10 of the most important/interesting ones.
 
 {articles_text}
 
 Rules:
-- Pick 3-5 most significant items
+- Pick 10 most significant items
 - Bullet points format
 - 1-2 lines per bullet, include the link
 - Neutral, factual tone
@@ -71,7 +71,7 @@ Rules:
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
-            max_tokens=400,
+            max_tokens=1000,
         )
 
         content = response.choices[0].message.content.strip()
