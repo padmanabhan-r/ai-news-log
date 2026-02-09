@@ -4,13 +4,14 @@ from openai import OpenAI
 
 def generate():
     client = OpenAI(
-        api_key=os.environ["OPENAI_API_KEY"]
+        api_key=os.environ["PERPLEXITY_API_KEY"],
+        base_url="https://api.perplexity.ai"
     )
 
     today = date.today().isoformat()
 
     prompt = f"""
-Summarize 3-5 important AI-related news items from TODAY ({today}).
+Search the web and summarize 3-5 important AI-related news items from TODAY ({today}).
 
 Rules:
 - AI / ML / LLMs / robotics / chips / regulation only
@@ -22,7 +23,7 @@ Rules:
 """
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="sonar-pro",
         messages=[
             {"role": "user", "content": prompt}
         ],

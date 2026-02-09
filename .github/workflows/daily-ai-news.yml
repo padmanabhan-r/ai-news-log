@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch AI news
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: python scripts/fetch_ai_news.py
 
       - name: Commit and push
