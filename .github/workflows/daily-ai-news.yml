@@ -2,7 +2,7 @@ name: Daily AI News
 
 on:
   schedule:
-    - cron: "30 23 * * *"  # 5:00 AM IST (11:30 PM UTC)
+    - cron: "0 0 * * *"  # 5:30 AM IST (00:00 UTC)
   workflow_dispatch:
 
 jobs:
