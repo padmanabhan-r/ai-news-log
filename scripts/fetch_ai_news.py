@@ -1,61 +1,42 @@
 import os
 from datetime import date
-from google import genai
-from google.genai import types
-
+from openai import OpenAI
 
 def generate():
-    client = genai.Client(
-        api_key=os.environ["GEMINI_API_KEY"]
+    client = OpenAI(
+        api_key=os.environ["OPENAI_API_KEY"]
     )
 
     today = date.today().isoformat()
 
     prompt = f"""
-Using Google Search grounding, summarize 3-5 important AI-related news items
-from TODAY ({today}).
+Summarize 3-5 important AI-related news items from TODAY ({today}).
 
 Rules:
 - AI / ML / LLMs / robotics / chips / regulation only
 - Bullet points
 - 1-2 lines per bullet
 - Neutral, factual tone
-- Include a source link per bullet
 - No hype, no emojis
+- If there is no major news, say "No major AI developments today."
 """
 
-    contents = [
-        types.Content(
-            role="user",
-            parts=[types.Part.from_text(text=prompt)],
-        ),
-    ]
-
-    tools = [
-        types.Tool(
-            googleSearch=types.GoogleSearch()
-        ),
-    ]
-
-    config = types.GenerateContentConfig(
-        thinking_config=types.ThinkingConfig(
-            thinking_level="HIGH",
-        ),
-        tools=tools,
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.2,
+        max_tokens=300,
     )
 
-    response_text = ""
+    content = response.choices[0].message.content.strip()
 
-    for chunk in client.models.generate_content_stream(
-        model="gemini-3-flash-preview",
-        contents=contents,
-        config=config,
-    ):
-        if chunk.text:
-            response_text += chunk.text
+    if not content:
+        return
 
     with open("ai-news.md", "a") as f:
-        f.write(f"\n\n## {today}\n{response_text.strip()}\n")
+        f.write(f"\n\n## {today}\n{content}\n")
 
 
 if __name__ == "__main__":
