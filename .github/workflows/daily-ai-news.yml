@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "padmanabhan-r"
           git config user.email "53633680+padmanabhan-r@users.noreply.github.com"
-          git add ai-news.md
+          git add *-ai-news.md
           git diff --cached --quiet || git commit -m "docs: daily AI news"
           git push
