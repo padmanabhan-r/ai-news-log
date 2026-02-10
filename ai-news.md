@@ -47,3 +47,25 @@ Grounded summaries of notable AI developments.
 - **This Job Has Become the Ultimate Case Study for Why AI Won't Replace Radiologists**: A case study highlights how AI is enhancing the efficiency of radiologists rather than replacing them, showcasing its supportive role in healthcare. ([CNN](https://www.cnn.com/2026/02/09/tech/ai-replacing-jobs-concerns-radiology))
 
 - **When AI Clicks “Pay”: The Emerging Compliance Risks of Agentic AI**: The article explores the compliance risks associated with AI systems that autonomously make financial decisions, raising concerns for businesses. ([JD Supra](https://www.jdsupra.com/legalnews/when-ai-clicks-pay-the-emerging-4898967/))
+
+
+## 2026-02-10
+- **Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant**: Databricks CEO Ali Ghodsi discusses the future of SaaS in the context of AI advancements, suggesting that traditional models may soon be outdated. ([source](https://recentai.news/))
+
+- **Anthropic’s India expansion collides with a local company that already had the name**: Anthropic faces a naming conflict in India as it attempts to expand its operations, highlighting challenges in international branding. ([source](https://recentai.news/))
+
+- **ChatGPT rolls out ads**: OpenAI's ChatGPT introduces advertisements within its platform, marking a significant shift in its monetization strategy. ([source](https://recentai.news/))
+
+- **Alphabet taps $20B bond sale to fund AI capex**: Alphabet has initiated a $20 billion bond sale aimed at financing its capital expenditures related to AI development. ([source](https://recentai.news/))
+
+- **Under the hood of the AI economy with Databricks CEO Ali Ghodsi**: A deep dive into the AI economy featuring insights from Databricks CEO, focusing on the integration of AI in business practices. ([source](https://recentai.news/))
+
+- **Some companies tie AI to layoffs, but the reality is more complicated**: A report discusses how AI implementation in companies like Amazon is leading to workforce changes, but the relationship is nuanced. ([source](https://www.akronlegalnews.com/editorial/37880))
+
+- **AI drives shift in new-type power systems**: A discussion on how AI is transforming power systems, moving from theoretical applications to practical implementations in data-centric methodologies. ([source](https://www.chinadaily.com.cn/a/202602/10/WS698a8b6ba310d6866eb38667.html))
+
+- **Reading 2.0: How AI is changing our books**: An exploration of AI's impact on literature, particularly in the illustration of children's books, raising questions about creativity and emotional depth. ([source](https://www.dw.com/en/reading-20-how-ai-is-changing-our-books/video-75614619))
+
+- **CNBC Daily Open: Takaichi and the AI trade in focus this week**: This article highlights the intersection of AI developments and market trends, particularly in relation to economic forecasts and stock movements. ([source](https://www.cnbc.com/2026/02/10/cnbc-daily-open-takaichi-and-the-ai-trade-in-focus-this-week.html))
+
+- **MSCI February Index Review Announcement Scheduled**: MSCI announces its upcoming index review, which may include adjustments related to AI and technology sectors, impacting investment strategies. ([source](https://finance.yahoo.com/news/msci-february-index-review-announcement-231900899.html))
