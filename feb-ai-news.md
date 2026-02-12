@@ -21,3 +21,24 @@
 - **Vidya AI Introduces AI-Based Grading and Learning Assistant to Modernize STEM Classrooms**: Introduces a new AI-driven educational tool aimed at enhancing grading and learning experiences in STEM fields. ([source](https://www.manilatimes.net/2026/02/11/tmt-newswire/globenewswire/vidya-ai-introduces-ai-based-grading-and-learning-assistant-to-modernize-stem-classrooms/2275731))
 
 - **Valentine's Day: How vulnerable are you to AI-enabled romance scams**: Discusses the rise of AI-driven romance scams, particularly around Valentine's Day, highlighting the significant financial risks to individuals. ([source](https://moreeonlinenews.com.au/2026/02/11/valentines-day-how-vulnerable-are-you-to-ai-enabled-romance-scams/))
+
+## 2026-02-12
+- **Musk reorganizes xAI after SpaceX merger and ahead of ...**: Elon Musk has announced a merger between SpaceX and xAI, aiming to integrate AI models into SpaceX operations for autonomous spacecraft development. ([Reuters](https://www.reuters.com/business/musk-says-xai-was-reorganized-2026-02-11/))
+
+- **AI Is Changing Pharma's Bottom Line Now—But Not Through ...**: Major pharmaceutical companies are increasingly utilizing AI, not primarily for drug discovery, but for operational efficiencies that save billions. ([BioSpace](https://www.biospace.com/business/ai-is-changing-pharmas-bottom-line-now-but-not-through-splashy-drug-discovery))
+
+- **AI Can Now 'know' When It's About To Fail Before Answering ...**: New advancements in AI allow systems to predict potential failures before providing answers, enhancing reliability in AI responses. ([Quantum Zeitgeist](https://quantumzeitgeist.com/ai-can-now-know-when-about/))
+
+- **2026: The time for AI to really deliver**: The AI industry is witnessing a shift towards practical experimentation, with organizations becoming more willing to implement AI solutions after years of cautious investment. ([Yahoo Finance](https://finance.yahoo.com/news/2026-time-ai-really-deliver-102841377.html))
+
+- **Reflections on Two Years of AI Advancements**: A retrospective highlights significant improvements in AI capabilities over the past two years, influencing how people use AI in their daily work. ([Hatz AI](https://hatz.ai/articles/reflections-on-two-years-of-ai-advancements))
+
+- **The Future of Artificial Intelligence | IBM**: Researchers warn that the availability of human-generated data for training AI models may diminish by 2026, prompting exploration of synthetic data generation. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **Smart AI Policy Means Examining Its Real Harms and Benefits**: A discussion on the potential harms of AI, emphasizing the need for policies that address the implications of AI in critical societal areas. ([EFF](https://www.eff.org/deeplinks/2026/02/smart-ai-policy-means-understanding-its-real-harms-and-benefits))
+
+- **Machine Learning & Artificial Intelligence Working Group - USGIF**: A working group focused on advancements in AI and machine learning technologies, particularly in defense applications, is set to convene. ([USGIF](https://usgif.org/event/machine-learning-artificial-intelligence-working-group/))
+
+- **Call for Speakers - 2026 Think!AI - A Beyond Big Data Summit**: The Pittsburgh Technology Council is seeking speakers for its AI Summit, focusing on applied AI examples across various industries. ([Pittsburgh Technology Council](https://www.pghtech.org/events/AI-Summit2026))
+
+- **As AI enters the operating room, reports arise of botched surgeries ...**: Concerns have been raised about the safety and effectiveness of AI technologies in medical settings, highlighting regulatory challenges. ([BusinessWorld](https://www.bworldonline.com/technology/2026/02/12/729899/as-ai-enters-the-operating-room-reports-arise-of-botched-surgeries-and-misidentified-body-parts/?amp))
