@@ -42,3 +42,24 @@
 - **Call for Speakers - 2026 Think!AI - A Beyond Big Data Summit**: The Pittsburgh Technology Council is seeking speakers for its AI Summit, focusing on applied AI examples across various industries. ([Pittsburgh Technology Council](https://www.pghtech.org/events/AI-Summit2026))
 
 - **As AI enters the operating room, reports arise of botched surgeries ...**: Concerns have been raised about the safety and effectiveness of AI technologies in medical settings, highlighting regulatory challenges. ([BusinessWorld](https://www.bworldonline.com/technology/2026/02/12/729899/as-ai-enters-the-operating-room-reports-arise-of-botched-surgeries-and-misidentified-body-parts/?amp))
+
+## 2026-02-13
+- **Global Robotics and AI Meet 2026**: A conference scheduled for November 19-21, 2026, in Osaka, Japan, will gather AI scientists, robotics engineers, and industry professionals to discuss advancements in intelligent systems and autonomous technologies. ([source](https://robotics2026.com/))
+
+- **Upstart Announces New CEO**: Upstart Holdings, an AI lending marketplace, will see co-founder Paul Gu take over as CEO on May 1, 2026, while co-founder Dave Girouard transitions to Executive Chairman. ([source](https://dwealth.news/2026/02/ai-finance-news-for-the-week-ending-2-13-26/))
+
+- **AI to Enhance Call Center Agents**: UJET's CEO claims that AI will empower call center agents, transforming them into 'superheroes' rather than replacing them, despite predictions that AI could be more costly than human agents by 2030. ([source](https://www.theregister.com/2026/02/13/call_center_ai_superheroes/))
+
+- **TRB Conference on Data and AI for Transportation**: The Transportation Research Board is hosting a series of meetings focused on the integration of data and AI into transportation investments, emphasizing community quality of life. ([source](https://www.nationalacademies.org/events/918))
+
+- **AI Insiders Warn of Risks**: Two former employees from OpenAI and Anthropic have resigned, expressing alarm over the rapid development of AI technologies and the potential dangers they pose to society. ([source](https://www.afr.com/technology/the-world-is-in-peril-why-two-ai-insiders-quit-in-alarm-20260213-p5o1yc)) 
+
+- **Merriam-Webster's Definition of Machine**: The dictionary provides insights into the definition and usage of the term "machine," highlighting its role in various contexts. ([source](https://www.merriam-webster.com/dictionary/machine))
+
+- **Cambridge Dictionary on Machine**: The Cambridge English Dictionary offers a definition of "machine," emphasizing its function and relevance in everyday language. ([source](https://dictionary.cambridge.org/us/dictionary/english/machine))
+
+- **Simple English Wikipedia on Machine**: An overview of the concept of a machine, detailing its basic functions and types in a simplified manner. ([source](https://simple.wikipedia.org/wiki/Machine))
+
+- **Britannica's Definition of Machine**: The Britannica Dictionary elaborates on the term "machine," discussing its components and applications in technology. ([source](https://www.britannica.com/dictionary/machine))
+
+- **Computer Hope on Machines**: A resource explaining what constitutes a machine, its types, and how machines have evolved, particularly in computing. ([source](https://www.computerhope.com/jargon/m/machine.htm))
