@@ -84,3 +84,24 @@
 - **Cloudflare turns websites into faster food for AI agents**: Cloudflare is optimizing web content delivery for AI agents by converting complex HTML into simpler Markdown formats, enhancing processing speed. ([source](https://www.prnewswire.com/news-releases/tune-in-to-bloomberg-tv-on-saturday-february-14th-to-watch-a-new-episode-of-advancements-302680749.html))
 
 - **DroneShield's AI in Counter-Drone Systems**: DroneShield is utilizing AI and machine learning in its counter-drone defense systems to enhance security for military and commercial clients. ([source](https://simplify.jobs/p/3ac95cdf-72b1-48eb-8ec1-f89f6c2d0556/Systems-Engineer-Sensors--Effectors-AU))
+
+## 2026-02-15
+- **Special Issue on Artificial Intelligence and Machine Learning for ...**: A call for papers focusing on AI/ML applications in smart buildings and cities, addressing predictive maintenance, urban design, and ethical considerations. ([ASME](https://www.asme.org/publications-submissions/journals/administration/call-for-papers/special-issue-on-artificial-intelligence-and-machine-learning-for-smart,-high-performance,-and-resilient-buildings-and-cities))
+
+- **January 2026 AI News Roundup: Productivity, Products, Physical AI ...**: Highlights skepticism from AI pioneer Yann LeCun regarding the limitations of large language models, while discussing his startup's focus on open-source world models. ([PTech Partners](https://www.ptechpartners.com/2026/02/05/january-2026-ai-news-roundup-productivity-products-physical-ai-jobs-and-ai-training-ai/))
+
+- **AI Market Highlights – Feb, 2026: Analysis, Trends & Opportunities**: The AI market is valued at $375.93 billion in 2026, projected to grow to $2.48 trillion by 2034, indicating a significant transition to mission-critical infrastructure. ([Neural Arb](https://www.neuralarb.com/2026/02/13/ai-market-highlights-february-2026/))
+
+- **Spotify Introduces Prompted Playlist AI Feature**: Spotify launches a new AI feature that allows users to describe the music they want, generating personalized playlists based on user input. ([gHacks](https://www.ghacks.net/category/ai/))
+
+- **AI: Unpacking the Black Box | February 2026 - WTVP**: A discussion on the transformative impact of AI in government, defense, and manufacturing, exploring ethical implications and national security concerns. ([WTVP](https://www.wtvp.org/blogs/programming/unpacking-the-black-box-february-2026/))
+
+- **AI News Today: Latest Artificial Intelligence Updates 2025**: An overview of the rapid evolution in the AI industry, emphasizing ongoing developments and innovations across various sectors. ([is4.ai](https://www.is4.ai/blog/our-blog-1/ai-news-today-latest-developments-40))
+
+- **Weekly Digest | 9 - 15 February 2026**: Insights from the AI for Good Global Summit, focusing on enhancing open-source large language models for industrial applications and a global call for AI use cases. ([LinkedIn](https://www.linkedin.com/pulse/weekly-digest-9-15-february-2026-ai-for-good-global-summit-un-uu4gf))
+
+- **Anthropic's Chief on A.I.: 'We Don't Know if the Models Are Conscious'**: Discussion on the evolving role of AI in biology, suggesting that AI could take on tasks traditionally performed by biologists, including proposing experiments. ([NY Times](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html))
+
+- **AI Updates — February 6, 2026: Agents Are Eating Your Stack**: Analysis of the current AI landscape, highlighting that challenges now lie in orchestration, security, and supervision rather than model quality. ([Medium](https://medium.com/@alexbuzunov/ai-updates-february-6-2026-agents-are-eating-your-stack-72aeda6ba33d))
+
+- **The 5th Workshop on Machine Learning and Systems ...**: Announcement of an upcoming workshop focusing on machine learning applications, emphasizing advancements in hardware and ML frameworks. ([EuroMLSys](https://euromlsys.eu/))
