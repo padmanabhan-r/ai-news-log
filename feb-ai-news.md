@@ -105,3 +105,24 @@
 - **AI Updates — February 6, 2026: Agents Are Eating Your Stack**: Analysis of the current AI landscape, highlighting that challenges now lie in orchestration, security, and supervision rather than model quality. ([Medium](https://medium.com/@alexbuzunov/ai-updates-february-6-2026-agents-are-eating-your-stack-72aeda6ba33d))
 
 - **The 5th Workshop on Machine Learning and Systems ...**: Announcement of an upcoming workshop focusing on machine learning applications, emphasizing advancements in hardware and ML frameworks. ([EuroMLSys](https://euromlsys.eu/))
+
+## 2026-02-16
+- **Impulse AI launches no-code autonomous machine learning platform**: Impulse AI has introduced a platform that automates data preparation, model training, deployment, and monitoring, achieving a top 2.5% ranking in a Kaggle competition. ([source](https://radicaldatascience.wordpress.com/2026/02/10/ai-news-briefs-bulletin-board-for-february-2026/))
+
+- **AI for Good Global Summit**: A session at the summit will explore recent advances in causal discovery, focusing on understanding cause and effect in observational data, a key challenge for building explainable AI. ([source](https://www.linkedin.com/pulse/weekly-digest-16-22-february-2026-ai-for-good-global-summit-un-v1dwf))
+
+- **Geo Week examines AI's role in infrastructure**: At Geo Week, experts will discuss how AI can address America's $1 trillion aging infrastructure crisis by managing transportation networks and utilities at scale. ([source](https://www.roboticstomorrow.com/news/2026/02/11/geo-week-examines-how-ai-is-tackling-americas-trillion-dollar-aging-infrastructure-crisis/26134/))
+
+- **AI Impact Summit 2026**: Leading tech CEOs from Accenture, OpenAI, and Qualcomm will share insights on the future of AI ahead of the AI Impact Summit in New Delhi, scheduled for February 16-20, 2026. ([source](https://www.livemint.com/technology/tech-news/ais-next-chapter-will-be-what-accenture-openai-qualcomm-other-ceos-say-ahead-of-india-ai-impact-summit-2026-11771145368667.html))
+
+- **Applications open for AI Program**: The AI Program for 2026-2027 is now accepting applications, providing participants with a network of peers and industry professionals to enhance their career journeys. ([source](https://www.breakthroughtech.org/programs/the-ai-program/))
+
+- **AIM-AHEAD program for AI in healthcare**: The NIH's AIM-AHEAD initiative aims to enhance AI/ML capabilities in research and community partnerships, focusing on electronic health records and healthcare interoperability. ([source](https://www.aim-ahead.net/aim-ahead-fhir-fast-healthcare-interoperability-resources-collaborative-training-program/))
+
+- **Workshop on Machine Learning for Space Weather**: A workshop will be held to discuss the application of machine learning in space weather forecasting, highlighting various learning methods and their significance. ([source](https://www.unoosa.org/oosa/en/ourwork/psa/schedule/2026/workshop_on_ml_gnss-2026.html))
+
+- **AI's impact on childhood**: A discussion at the AI Summit in India will address how AI systems are reshaping childhood and the importance of ensuring these technologies remain beneficial for future generations. ([source](https://www.facebook.com/parispeaceforum/posts/-ai-is-reshaping-childhood-how-to-ensure-it-remains-beneficial-to-the-next-gener/1379894990844044/))
+
+- **AI in primary care education**: A new curriculum focused on artificial intelligence and machine learning is being developed for medical students and primary care physicians to enhance their educational experience. ([source](https://stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum/))
+
+- **AI in pharmaceutical development**: An article discusses how AI and machine learning can significantly benefit pharmaceutical research and development, streamlining processes and improving outcomes. ([source](https://www.uc.edu/news/articles/2024/03/pharmacy-times--how-ai-machine-learning-can-benefit-pharmaceutical-development-research.html))
