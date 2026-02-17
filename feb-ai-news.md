@@ -126,3 +126,24 @@
 - **AI in primary care education**: A new curriculum focused on artificial intelligence and machine learning is being developed for medical students and primary care physicians to enhance their educational experience. ([source](https://stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum/))
 
 - **AI in pharmaceutical development**: An article discusses how AI and machine learning can significantly benefit pharmaceutical research and development, streamlining processes and improving outcomes. ([source](https://www.uc.edu/news/articles/2024/03/pharmacy-times--how-ai-machine-learning-can-benefit-pharmaceutical-development-research.html))
+
+## 2026-02-17
+- **2026 AI/ML Conference - Cupix**: Scheduled for February 17-18, 2026, in Austin, TX, this conference will focus on the evolving role of AI and machine learning technologies in the AEC/O industry. ([source](https://www.cupix.com/events/2026-ai-ml-conference))
+
+- **Impulse AI Launches No-Code Platform**: Impulse AI has introduced a no-code autonomous machine learning platform that automates data preparation, model training, deployment, and monitoring, achieving a top rank in a Kaggle competition. ([source](https://radicaldatascience.wordpress.com/2026/02/10/ai-news-briefs-bulletin-board-for-february-2026/))
+
+- **AI/ML Conference Updates**: The upcoming AI/ML Conference will feature member-only group meetings focusing on research tracks in AI and robotics, aiming to transition from pilot projects to operational AI solutions. ([source](https://www.linkedin.com/posts/builtworlds_next-months-aiml-conference-will-kick-off-activity-7422718932849115138-mMJE))
+
+- **Olmo 3 Model Presentation**: A new family of AI models, Olmo 3, has been introduced, enhancing reasoning, coding, and instruction-following capabilities while ensuring full transparency in development. ([source](https://www.cs.utexas.edu/forum-for-ai))
+
+- **AI's Impact on Data Security**: A report discusses how AI is transforming organizational workflows and risk management, with generative AI becoming a standard tool for employees. ([source](https://www.govinfosecurity.com/blogs/2026-predictions-ai-breaking-identity-data-security-p-4042))
+
+- **Manufacturers' AI Investment**: A survey by Infosys reveals that over 50% of manufacturers are investing around $2 million per AI implementation, highlighting the growing reliance on AI technologies. ([source](https://www.deccanherald.com/news_sitemap.xml))
+
+- **AI for Building Damage Assessment**: Researchers have developed AI technology that can summarize building damage from images, facilitating rapid assessments after disasters. ([source](https://quantumzeitgeist.com/ai-now-summarises-building-damage-images/))
+
+- **Dreame's AI Innovations**: Dreame has unveiled an embodied AI laundry robot and an AI washer-dryer set, showcasing advancements in household robotics. ([source](https://www.prnewswire.com/news-releases/dreame-unveils-embodied-ai-laundry-robot-and-l9-ai-washer--dryer-set-in-silicon-valley-302674886.html))
+
+- **Privacy in Generative AI**: A special session at the Arizona Institute for AI and Society will address privacy concerns related to generative AI, focusing on governance and ethical considerations. ([source](https://responsibleai.arizona.edu/events/ai-rcoe-special-session-privacy-age-generative-ai))
+
+- **Modern SIEM Market Growth**: The modern SIEM market is projected to reach $13.55 billion by 2029, driven by AI integration and rising cyber threats, indicating a shift towards advanced security solutions. ([source](https://laotiantimes.com/2026/02/17/modern-siem-market-to-reach-13-55-billion-by-2029-driven-by-ai-cloud-native-platforms-and-rising-cyber-threats/))
