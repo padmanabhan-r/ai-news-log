@@ -147,3 +147,24 @@
 - **Privacy in Generative AI**: A special session at the Arizona Institute for AI and Society will address privacy concerns related to generative AI, focusing on governance and ethical considerations. ([source](https://responsibleai.arizona.edu/events/ai-rcoe-special-session-privacy-age-generative-ai))
 
 - **Modern SIEM Market Growth**: The modern SIEM market is projected to reach $13.55 billion by 2029, driven by AI integration and rising cyber threats, indicating a shift towards advanced security solutions. ([source](https://laotiantimes.com/2026/02/17/modern-siem-market-to-reach-13-55-billion-by-2029-driven-by-ai-cloud-native-platforms-and-rising-cyber-threats/))
+
+## 2026-02-18
+- **2026 AI/ML Conference**: Scheduled for February 17-18, 2026, in Austin, TX, this conference will explore the evolving role of AI and ML technologies in the architecture, engineering, and construction industries. ([Cupix](https://www.cupix.com/events/2026-ai-ml-conference))
+
+- **First Hype Cycle Of AI Development Put Tech Above Humans**: A study indicates that the rush to adopt AI has prioritized technology over human-centered development, particularly in safety-critical fields. ([Mirage News](https://www.miragenews.com/first-hype-cycle-of-ai-development-put-tech-1621542/))
+
+- **Geo Week Examines How AI is Tackling America's Trillion-Dollar Aging Infrastructure Crisis**: AI is being highlighted as a crucial tool for managing and modernizing America's aging infrastructure, with discussions taking place at Geo Week in Denver from February 16-18, 2026. ([Robotics Tomorrow](https://www.roboticstomorrow.com/news/2026/02/11/geo-week-examines-how-ai-is-tackling-americas-trillion-dollar-aging-infrastructure-crisis/26134/))
+
+- **Agentic AI Program for Data Engineers 2026 Update**: Interview Kickstart has launched a new program aimed at data engineers, focusing on the design and deployment of AI systems in large-scale environments. ([Manila Times](https://www.manilatimes.net/2026/02/18/tmt-newswire/globenewswire/agentic-ai-program-for-data-engineers-2026-update-interview-kickstart-course-to-design-deploy-and-scale-ai-systems/2279838))
+
+- **Ramco Systems Introduces Chia, an Enterprise-Grade Conversational AI Agent**: Ramco Systems has launched Chia, a conversational AI platform designed to enhance customer engagement and automate complex support interactions for enterprises. ([Laotian Times](https://laotiantimes.com/2026/02/18/ramco-systems-introduces-chia-an-enterprise-grade-conversational-ai-agent-for-better-customer-experience/))
+
+- **AI: Unpacking the Black Box**: A discussion on how AI is transforming government, defense, and manufacturing, focusing on the implications for national security and ethical challenges. ([WTVP](https://www.wtvp.org/blogs/programming/unpacking-the-black-box-february-2026/))
+
+- **AI·Robotics Automate 57% of Human Tasks, Study Finds**: A report from McKinsey Global Institute reveals that AI and robotics are capable of automating over half of human tasks, while emphasizing the irreplaceability of leadership and communication skills. ([Chosun](https://www.chosun.com/english/market-money-en/2026/02/18/T6ZG32GGZREHDPSXF5XTV7G6LM/))
+
+- **AI in Asset Management: 5 Machine Learning Mistakes to Avoid**: An article discussing common pitfalls in machine learning applications within asset management, aimed at improving strategies and outcomes. ([Advisor Perspectives](https://www.advisorperspectives.com/articles/2026/02/17/ai-management-5-machine-mistakes-avoid))
+
+- **ByteDance's Doubao Dominates Spring Festival Gala With 1.9 Billion AI Interactions**: Doubao, a conversational AI app by ByteDance, achieved significant engagement during the Spring Festival, highlighting its marketing effectiveness. ([Caixin Global](https://www.caixinglobal.com/2026-02-18/bytedances-doubao-dominates-spring-festival-gala-with-19-billion-ai-interactions-102415609.html))
+
+- **Alabama Data Centers Multiply as Artificial Intelligence Fuels Growth**: The rise of AI is driving the expansion of data centers in Alabama, reflecting the increasing demand for AI-related infrastructure and services. ([WBRC](https://www.wbrc.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/))
