@@ -168,3 +168,24 @@
 - **ByteDance's Doubao Dominates Spring Festival Gala With 1.9 Billion AI Interactions**: Doubao, a conversational AI app by ByteDance, achieved significant engagement during the Spring Festival, highlighting its marketing effectiveness. ([Caixin Global](https://www.caixinglobal.com/2026-02-18/bytedances-doubao-dominates-spring-festival-gala-with-19-billion-ai-interactions-102415609.html))
 
 - **Alabama Data Centers Multiply as Artificial Intelligence Fuels Growth**: The rise of AI is driving the expansion of data centers in Alabama, reflecting the increasing demand for AI-related infrastructure and services. ([WBRC](https://www.wbrc.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/))
+
+## 2026-02-19
+- **Former Google Engineer Convicted of Trade Secret Theft**: A former Google software engineer was found guilty of stealing over 500 confidential files related to Google's AI infrastructure, including details on TPU chips. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **Professor Xing to Present AI Breakthroughs**: Professor Xing from Carnegie Mellon University will discuss advancements in world models and parameter-efficient reasoning models at an upcoming event. ([Edge AI Vision](https://www.edge-ai-vision.com/2026/02/edge-ai-and-vision-insights-february-18-2026-edition/))
+
+- **AI and Machine Learning Ethical Challenges**: The emergence of generative AI models has raised significant ethical challenges, emphasizing the need for human oversight in AI development. ([Johns Hopkins University](https://ep.jhu.edu/news/advancements-in-ai-and-machine-learning/))
+
+- **USGIF Machine Learning Working Group Meeting**: The United States Geospatial Intelligence Foundation is holding a virtual meeting on machine learning and AI, scheduled for February 19, 2026. ([USGIF](https://usgif.org/machine-learning-artificial-intelligence-working-group/))
+
+- **India's AI Impact Summit Focus**: At the AI Impact Summit, India is advocating for a collaborative platform for "Trusted AI Commons," aimed at consolidating resources and tools for AI development. ([Indian Express](https://indianexpress.com/article/business/india-pitch-at-ai-impact-summit-2026-democratising-ai-respecting-sovereignty-10539806/))
+
+- **AI Sparks Layoffs in Tech Sector**: A report indicates that AI advancements are a key factor in significant layoffs within the tech industry, affecting job roles and functions. ([Channel News](https://www.channelnews.com.au/ai-sparks-massive-layoffs-in-the-profitable-tech-sector/))
+
+- **Onshore Raises $31 Million for AI Tax Platform**: Onshore has secured $31 million in funding to enhance its AI-driven tax platform, aiming to modernize the tax industry significantly. ([Venture Burn](https://ventureburn.com/onshore-raises-31m/))
+
+- **Canadians Feel More Vulnerable to Fraud Due to AI**: A TD Bank poll reveals that 75% of Canadians feel more susceptible to financial fraud due to advancements in AI technology. ([Yahoo News](https://ca.news.yahoo.com/canadians-ai-them-feeling-more-182734701.html))
+
+- **Meta Deepens Ties with Nvidia**: OpenAI has alerted US lawmakers about DeepSeek, a Chinese competitor allegedly using sophisticated methods to extract data from US AI models for its chatbot development. ([Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/02/19/2003852526))
+
+- **The Evolution of AI Education**: A guide highlights the significant progression of AI from research labs to impactful innovations, emphasizing the importance of education in keeping pace with its rapid development. ([Calmu](https://www.calmu.edu/news/future-of-artificial-intelligence))
