@@ -189,3 +189,24 @@
 - **Meta Deepens Ties with Nvidia**: OpenAI has alerted US lawmakers about DeepSeek, a Chinese competitor allegedly using sophisticated methods to extract data from US AI models for its chatbot development. ([Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/02/19/2003852526))
 
 - **The Evolution of AI Education**: A guide highlights the significant progression of AI from research labs to impactful innovations, emphasizing the importance of education in keeping pace with its rapid development. ([Calmu](https://www.calmu.edu/news/future-of-artificial-intelligence))
+
+## 2026-02-20
+- **Impulse AI launches no-code autonomous machine learning platform**: Impulse AI has introduced a platform that automates data preparation, model training, deployment, and monitoring, achieving a top 2.5% ranking in a Kaggle competition. ([source](https://radicaldatascience.wordpress.com/2026/02/03/ai-news-briefs-bulletin-board-for-february-2026/))
+
+- **Forthcoming machine learning and AI seminars: February 2026 edition**: A series of seminars focused on AI topics, including a talk on the importance of openness in AI by Sayeed Choudhury, will be held throughout February. ([source](https://aihub.org/2026/02/04/forthcoming-machine-learning-and-ai-seminars-february-2026-edition/))
+
+- **AI, HPC Power Fusion, Self-Driving Cars by 2026**: Experts predict that advances in high-performance computing (HPC) and AI will significantly impact daily life in 2026, emphasizing their growing importance. ([source](https://www.miragenews.com/ai-hpc-power-fusion-self-driving-cars-by-2026-1623049/))
+
+- **Disney's AI Strategy**: Disney is investing in AI and collaboration technologies to enhance its storytelling capabilities and is seeking a Vice President for Collaboration. ([source](https://creators.spotify.com/pod/profile/ninjaai/episodes/AIs-Hidden-Revolution-5-Surprising-Truths-Beyond-the-Chatbot-e3aufp3))
+
+- **AI Con USA 2026**: This conference will gather leaders in technology and engineering to discuss practical AI applications, AI strategy, and agentic systems, providing networking opportunities for professionals. ([source](https://www.montrealinternational.com/en/events/ai-con-usa-2026/))
+
+- **FileFlex GuardianAI™ Launch**: FileFlex has introduced GuardianAI™, a zero-trust governance infrastructure for AI agents, aimed at enhancing security and policy enforcement. ([source](https://www.providencejournal.com/press-release/story/27024/transforming-cx-techsommet-presents-ai-the-next-era-of-contact-centers-virtual-event-platinum-sponsor-asapp/))
+
+- **Upcoming Workshop on Machine Learning and Space Weather**: A workshop focused on the application of machine learning to space weather and GNSS will take place in San José from February 16-20, 2026. ([source](https://www.unoosa.org/oosa/en/ourwork/psa/schedule/2026/workshop_on_ml_gnss-2026.html))
+
+- **Stanford HAI and AWS launch AI marketing lab**: Stanford HAI and AWS have established a marketing science lab aimed at improving AI measurement practices in marketing. ([source](https://www.edtechinnovationhub.com/news/stanford-hai-and-aws-launch-marketing-science-lab-focused-on-ai-measurement))
+
+- **AI Alignment and Collective Coherence Event**: Dartmouth will host an event discussing AI alignment and the role of universities in shaping AI's future on February 18, 2026. ([source](https://sites.dartmouth.edu/genai/events/))
+
+- **OpenAI Deep Research now powered by GPT-5.2**: OpenAI has upgraded its Deep Research feature to utilize GPT-5.2, introducing new interaction capabilities for users. ([source](https://macaron.im/blog/glm-5-vs-minimax-m2-5-2026))
