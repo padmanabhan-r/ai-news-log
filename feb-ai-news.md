@@ -273,3 +273,24 @@
 - **Decentralized AI and Crypto: Why This Emerging Trend Could Transform Markets in 2026**: The article discusses how decentralized AI and cryptocurrency could reshape market dynamics and enhance accessibility in 2026. ([Interactive Crypto](https://www.interactivecrypto.com/how-decentralized-ai-is-leveling-the-playing-field-1771805073764))
 
 - **AI/ML STIG Lecture Series, 23 Feb 2026**: NASA prepares for its first crewed lunar mission under the Artemis program, highlighting the integration of AI and machine learning in space exploration efforts. ([NASA Science](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-23-feb-2026/))
+
+## 2026-02-24
+- **Impulse AI Launches No-Code Autonomous Machine Learning Platform**: Impulse AI has introduced a platform that automates data preparation, model training, deployment, and monitoring, achieving a top 2.5% ranking in a Kaggle competition. ([source](https://radicaldatascience.wordpress.com/2026/02/03/ai-news-briefs-bulletin-board-for-february-2026/))
+
+- **New AI Curriculum for Computer Science Students**: A new curriculum for computer science students includes early AI courses that emphasize understanding AI models through mathematics and systems skills. ([source](https://www.readaboutai.com/february-24-2026/))
+
+- **AI in Mental Health**: A guide for mental health professionals discusses the capabilities, ethics, and safety concerns of using AI in their practices. ([source](https://www.apa.org/topics/artificial-intelligence-machine-learning/more))
+
+- **NASA's Perseverance Rover Operates with AI**: NASA's Perseverance rover successfully navigated 456 meters autonomously over two days, showcasing advancements in AI-driven space exploration. ([source](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **Investment Surge in AI by U.S. Hyperscalers**: Analysts predict a 42% year-on-year increase in capital expenditure by major U.S. tech companies like Alphabet and Microsoft, reflecting growing investment in AI infrastructure. ([source](https://www.mk.co.kr/en/stock/11969878))
+
+- **AI Chatbot Compliance in the UK**: AI chatbot providers, including ChatGPT, will face new regulations in the UK regarding illegal content, with potential fines for non-compliance. ([source](https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates))
+
+- **Guide Labs Introduces Interpretable LLM**: Guide Labs has launched a new interpretable large language model (LLM), aiming to enhance transparency in AI-generated outputs. ([source](https://recentai.news/))
+
+- **AI Trends Webinar by Oracle and Deloitte**: A webinar will explore modern data strategies and technologies that support scalable enterprise AI, focusing on RAG and vector databases. ([source](https://www.oracle.com/artificial-intelligence/))
+
+- **AI News Show on YouTube**: A new YouTube show features daily AI news, tool demonstrations, and discussions on ethical and policy issues surrounding AI technologies. ([source](https://www.youtube.com/watch?v=0nk6XjD9-B0))
+
+- **Dartmouth's AI Events**: Dartmouth is hosting events focused on critical AI information literacy and the intersection of AI and spatial reasoning, highlighting ongoing educational initiatives in AI. ([source](https://sites.dartmouth.edu/genai/events/))
