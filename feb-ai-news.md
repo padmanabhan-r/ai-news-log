@@ -294,3 +294,24 @@
 - **AI News Show on YouTube**: A new YouTube show features daily AI news, tool demonstrations, and discussions on ethical and policy issues surrounding AI technologies. ([source](https://www.youtube.com/watch?v=0nk6XjD9-B0))
 
 - **Dartmouth's AI Events**: Dartmouth is hosting events focused on critical AI information literacy and the intersection of AI and spatial reasoning, highlighting ongoing educational initiatives in AI. ([source](https://sites.dartmouth.edu/genai/events/))
+
+## 2026-02-25
+- **AI Exposes Active Fund Managers' Predictable Trades**: A study from Harvard Business School reveals that AI can predict many trading decisions made by active fund managers, prompting a reevaluation of the value of active management fees. ([Finance News Network](https://www.finnewsnetwork.com.au/archives/finance_news_network4072743.html))
+
+- **AI Chip Startups Soak Up $1.1B in VC Funding This Week**: A surge in venture capital funding sees AI chip startups receiving $1.1 billion, highlighting the growing investment in AI hardware. ([The Register](https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_chips_vc_funding_1point1billion/))
+
+- **EC-Council Launches AI Certification Courses**: KPMG Estonia has introduced AI training courses aimed at enhancing skills in IT audit and cybersecurity, including a Certified Artificial Intelligence Professional program. ([LinkedIn](https://www.linkedin.com/posts/wesleyalvarez_attention-students-and-faculty-our-ec-council-activity-7428170031076773889-jePZ))
+
+- **Data Center Capacity Crisis Puts 2026 Road Maps at Risk**: The ongoing capacity crisis in data centers poses risks to planned developments in 2026, affecting various sectors reliant on AI and cloud computing. ([GovInfoSecurity](https://www.govinfosecurity.com/data-center-capacity-crisis-puts-2026-road-maps-at-risk-a-30842))
+
+- **C3 AI to Announce Financial Results for Fiscal Third Quarter 2026**: C3 AI plans to release its financial results for the third quarter, indicating ongoing developments in the enterprise AI software market. ([C3 AI](https://ir.c3.ai/news-releases/news-release-details/c3-ai-announce-financial-results-fiscal-third-quarter-2026))
+
+- **Stanford Researchers Develop Deep Learning Model for Brain Data**: A new deep learning model from Stanford transforms complex brain data into understandable trajectories, potentially aiding in the study of thought and neurological diseases. ([Stanford HAI](https://hai.stanford.edu/))
+
+- **AI Hype vs. Reality: Acknowledging AI Washing**: OpenAI's CEO Sam Altman discusses the phenomenon of "AI washing," where companies exaggerate their AI capabilities, highlighting the gap between AI's potential and its real-world applications. ([Metaintro](https://www.metaintro.com/blog/ai-hype-reality-changing-white-collar-work-2026))
+
+- **Anthropic Targets More Industries With Claude Cowork Plugins**: Anthropic is expanding its AI offerings with new plugins for its Claude coworking platform, aiming to enhance productivity across various sectors. ([AI Business](https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins))
+
+- **Can AI Be Truly Creative and What Does This Mean for Copyright?**: New research calls for copyright reform in light of AI's potential for creativity, questioning the implications for intellectual property rights. ([University of Auckland](https://www.auckland.ac.nz/en/news/2026/02/25/can-ai-be-truly-creative-and-what-does-this-mean-for-copyright-.html))
+
+- **Unlocking AI's Potential to Serve Humanity**: A focus on how AI can be harnessed for societal benefit, emphasizing the importance of responsible development and deployment of AI technologies. ([ITU](https://aiforgood.itu.int/))
