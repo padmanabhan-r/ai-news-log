@@ -315,3 +315,24 @@
 - **Can AI Be Truly Creative and What Does This Mean for Copyright?**: New research calls for copyright reform in light of AI's potential for creativity, questioning the implications for intellectual property rights. ([University of Auckland](https://www.auckland.ac.nz/en/news/2026/02/25/can-ai-be-truly-creative-and-what-does-this-mean-for-copyright-.html))
 
 - **Unlocking AI's Potential to Serve Humanity**: A focus on how AI can be harnessed for societal benefit, emphasizing the importance of responsible development and deployment of AI technologies. ([ITU](https://aiforgood.itu.int/))
+
+## 2026-02-26
+- **Voice Control in AI**: Discussions at the Web Summit Qatar highlighted the growing importance of voice interfaces and audio-generation models in AI control and consumer interaction. ([Al Jazeera Arabic](https://www.linkedin.com/pulse/ai-news-roundup-1-15-february-2026-ali-moheyaldeen-c3zcc))
+
+- **AI Governance and Regulation**: A recent report emphasized that AI is now being evaluated not just as a productivity tool but as a regulated substitute for high-margin professional workflows, necessitating governance and security measures. ([YouTube](https://www.youtube.com/watch?v=DtPhGjRZsvs))
+
+- **AI in Orthopedics**: Upcoming conferences will focus on the integration of AI and machine learning in orthopedic practices, showcasing advancements and applications in the field. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Shift to Deployable AI Tools**: A wave of practical AI tools has been launched, marking a transition from theoretical demonstrations to deployable solutions, including Google’s Antigravity IDE and SEON’s identity verification system. ([Champaign Magazine](https://champaignmagazine.com/2026/02/02/ai-by-ai-weekly-top-5-january-26-february-1-2026/))
+
+- **AI Ethics in Education**: An event at Oglethorpe University sparked discussions on the ethical implications of AI in higher education, as stakeholders navigate its potential benefits and challenges. ([Evrimagaci](https://evrimagaci.org/gpt/oglethorpe-event-sparks-debate-on-ai-ethics-in-education-528761?srsltid=AfmBOoqxz8O0W6NQ1W3KhWBE6BPQJVG1M_5nwFe3qltvXPXGBVcE_9LE))
+
+- **AI and the Stock Market**: A report from Citrini Research raised concerns about the impact of AI on the stock market, igniting debate among investors and analysts regarding its future implications. ([New York Times](https://www.nytimes.com/2026/02/25/business/citrini-ai-stock-market.html))
+
+- **Human-Centric AI Future**: The AI Impact Summit 2026 in New Delhi focused on shaping a human-centric future for AI, bringing together global leaders to discuss its societal implications. ([Philstar](https://www.philstar.com/opinion/2026/02/26/2510458/shaping-human-centric-future-ai))
+
+- **Data and AI in Transportation**: The Transportation Research Board is hosting a conference to address the long-term effects of AI and data on transportation systems, emphasizing the need for innovation in this sector. ([National Academies](https://www.nationalacademies.org/events/918))
+
+- **AI Training Initiatives**: The AIM-AHEAD training series is set to provide foundational data science and AI training, focusing on practical applications in clinical and biomedical research. ([AIM-AHEAD](https://www.aim-ahead.net/))
+
+- **Quantum Computing and AI Security**: Keeper Security is enhancing its defenses against future quantum computing threats, highlighting the intersection of AI and quantum technologies in cybersecurity. ([Quantum Zeitgeist](https://quantumzeitgeist.com/keeper-security-quantum-computing-defenses/))
