@@ -357,3 +357,24 @@
 - **Artificial Intelligence Seminars | Department of Computer Science**: Cornell University's Department of Computer Science will host a series of AI seminars in Spring 2026, featuring various speakers and topics. ([source](https://www.cs.cornell.edu/events/artificial-intelligence-seminars))
 
 - **AI News: CNN's coverage on artificial intelligence and related updates**: The UK government is set to enforce strict regulations on AI chatbot providers to ensure compliance with laws against illegal content. ([source](https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates))
+
+## 2026-02-28
+- **AIMLx26: An artificial intelligence and machine learning expo at Florida State University**: Florida State University will host AIMLx26, an expo focused on the future of AI and machine learning, featuring prominent organizations like OpenAI and MIT. ([source](https://datascience.fsu.edu/event/aimlx26-artificial-intelligence-and-machine-learning-expo-florida-state-university))
+
+- **FSU AIMLX26 Showcases the Future of Agentic AI**: The AIMLx26 expo will explore advancements in Agentic AI, highlighting real-world applications and innovations from leading researchers. ([source](https://saiwa.ai/news/aimlx26-agentic-ai-expo/))
+
+- **Machine Learning and Heterogeneous Treatment Effects Conference**: The second edition of the "Frontiers of Causal Inference and Machine Learning" conference will take place in April 2026, inviting paper submissions until February 28, 2026. ([source](https://www.linkedin.com/posts/richard-hendra-67b60a4_ciml-training-conference-frontiers-of-activity-7431796919426850816-ejCl))
+
+- **The AI Workforce Development Enters Phase 2.0**: A new whitepaper outlines the second phase of AI workforce development, offering various AI certification programs for job seekers. ([source](https://www.usaii.org/ai-insights/the-ai-workforce-development-enters-phase-2-0-usaii-whitepaper-2026))
+
+- **AI, HPC Power Fusion, Self-Driving Cars by 2026**: Researchers from Georgia Tech predict that advancements in high-performance computing (HPC) and AI will significantly impact daily life, including energy management and transportation by 2026. ([source](https://www.miragenews.com/ai-hpc-power-fusion-self-driving-cars-by-2026-1623049/))
+
+- **Welcome to the QUAD: CFP - 2026 International Conference**: An upcoming conference will focus on the integration of AI in healthcare and education, emphasizing the potential for improved human well-being through digital technology. ([source](https://hodges-model.blogspot.com/2026/02/int-conf-ai-health-education-japan.html))
+
+- **Google Workers Seek 'Red Lines' on Military A.I.**: Google DeepMind employees are advocating for clear ethical boundaries regarding the use of AI in military applications, reflecting growing concerns in the tech community. ([source](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html))
+
+- **Shaping a human-centric future for AI**: At the AI Impact Summit 2026 in New Delhi, global leaders discussed the importance of a human-centric approach to AI development and its implications for society. ([source](https://mb.com.ph/2026/02/28/shaping-a-human-centric-future-for-ai))
+
+- **Hegseth, Anthropic CEO to meet as debate grows over military AI use**: A meeting is set to address the ongoing debate about the ethical implications of using AI in military contexts, highlighting concerns from various stakeholders. ([source](https://www.broomfieldenterprise.com/2026/02/24/hegseth-anthropic-military-ai/))
+
+- **New ASML machines are ready for manufacturers**: ASML has announced the readiness of new machines for manufacturers, which may impact the AI hardware landscape amid ongoing geopolitical tensions. ([source](https://www.taipeitimes.com/News/biz/archives/2026/02/28/2003853003))
