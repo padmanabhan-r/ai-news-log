@@ -21,3 +21,24 @@
 - **AI's Role in Planet Hunting**: Astronomers are utilizing AI to analyze exoplanet data, significantly speeding up the discovery process by identifying subtle signals. ([Economic Times](https://m.economictimes.com/news/international/us/how-artificial-intelligence-is-rewriting-planet-hunting/articleshow/128808411.cms))
 
 - **The Rise of AI in Space Exploration**: AI is becoming integral to space missions, enhancing data analysis and operational efficiency in various projects. ([Orbital Today](https://orbitaltoday.com/2026/03/01/the-rise-of-ai-in-space-20-missions-projects-defining-the-next-era-of-exploration/))
+
+## 2026-03-02
+- **Meta's $60bn AI Chip Deal**: Meta has announced a significant five-year agreement to purchase AI chips from AMD, taking a 10% stake in the company. This move reflects their strategy to diversify silicon solutions for various workloads. ([LinkedIn](https://www.linkedin.com/pulse/ai-weekly-digest-march-2-2026-pa-media-jhcfe))
+
+- **C3 AI Investor Presentations**: C3 AI is set to present at two investor conferences, highlighting its developments and strategies in AI technology. This includes participation in the Citizens Technology Conference in San Francisco. ([C3 AI](https://ir.c3.ai/news-releases/news-release-details/c3-ai-present-two-investor-conferences-march-2-2026))
+
+- **Azure AI Connect Event**: Microsoft is hosting a five-day virtual event focused on the Azure AI platform, aimed at developers and data scientists to enhance their understanding of AI integration in cloud services. ([Microsoft Tech Community](https://techcommunity.microsoft.com/event/43624d95-1cb4-43ab-8b6e-e67b78fe8b98/azure-ai-connect---march-2-to-march-6-2026/4491662))
+
+- **Generative AI Business Implications at MIT**: An event at MIT will discuss the business implications of generative AI, addressing challenges like workforce transformation and responsible deployment in organizations. ([MIT IDE](https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/))
+
+- **AI in Cancer Research Workshop**: The Center for Advancing Science and Technology is organizing a workshop to explore the integration of AI in cancer research and care, scheduled for March 9-10, 2026. ([National Academies](https://www.nationalacademies.org/units/CAST-CAST%20EO-25-P-696/events))
+
+- **Japan's AI Adoption Challenges**: Despite significant government investment in digital transformation, many workers in Japan have yet to utilize AI technologies, highlighting a gap in awareness and application. ([Japan Times](https://www.japantimes.co.jp/news/2026/03/02/japan/society/ai-awareness-japan-jobs/))
+
+- **AI's Role in Energy Transition**: A report discusses how AI and advanced technologies are reshaping the energy landscape, focusing on their potential to reduce carbon emissions and improve grid management. ([MHI Spectra](https://spectra.mhi.com/energy-transition/report-how-ai-and-advanced-technologies-will-reshape-the-energy-landscape))
+
+- **AI's Impact on Job Skills**: An OECD report provides insights into how AI is changing the demand for skills in the labor market, particularly in jobs that do not require specialized AI expertise. ([OECD](https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html))
+
+- **AI in Education**: A New York Times article explores how AI is reshaping classroom dynamics, with teachers sharing their experiences of integrating AI tools into learning environments. ([NY Times](https://www.nytimes.com/2026/02/26/learning/teachers-on-how-ai-is-reshaping-the-classroom.html))
+
+- **Teaching with AI Workshops**: The Association of American Colleges and Universities is offering workshops aimed at preparing faculty for the integration of AI in higher education, focusing on its pedagogical implications. ([AAC&U](https://www.aacu.org/trending-topics/ai))
