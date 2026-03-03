@@ -42,3 +42,24 @@
 - **AI in Education**: A New York Times article explores how AI is reshaping classroom dynamics, with teachers sharing their experiences of integrating AI tools into learning environments. ([NY Times](https://www.nytimes.com/2026/02/26/learning/teachers-on-how-ai-is-reshaping-the-classroom.html))
 
 - **Teaching with AI Workshops**: The Association of American Colleges and Universities is offering workshops aimed at preparing faculty for the integration of AI in higher education, focusing on its pedagogical implications. ([AAC&U](https://www.aacu.org/trending-topics/ai))
+
+## 2026-03-03
+- **Will You Be Ready to Comply with Freddie Mac's AI Requirements**: Freddie Mac has set a deadline of March 3, 2026, for mortgage sellers and servicers to comply with new AI and ML governance requirements in their processes. ([Ncontracts](https://www.ncontracts.com/nsight-blog/freddie-mac-ai-requirements))
+
+- **IR Readiness for New Freddie Mac AI/ML Guidelines - Insights**: Freddie Mac's Bulletin 2025-16 introduces a governance framework for AI and ML usage, effective March 3, 2026, aimed at promoting ethical and transparent practices in the mortgage industry. ([Informativeresearch](https://insights.informativeresearch.com/industry-news/ir-readiness-for-new-freddie-mac-ai/ml-guidelines))
+
+- **Freddie Mac AI Governance Framework Deadline: March 3, 2026**: The new AI governance framework from Freddie Mac will require compliance from mortgage sellers and servicers, focusing on operational aspects of AI usage. ([LinkedIn](https://www.linkedin.com/posts/lpruss_ai-governance-credit-activity-7429245792831315968-nhMF))
+
+- **Freddie Mac issues updates mandating AI governance**: Effective March 3, 2026, Freddie Mac mandates compliance with new AI policies for businesses involved in loans sold or serviced for the government-sponsored enterprise. ([National Mortgage News](https://www.nationalmortgagenews.com/news/freddie-mac-updates-selling-guide-to-mandate-ai-policies))
+
+- **Freddie Mac's AI Requirements Take Effect March 3, 2026**: Freddie Mac is enhancing its governance requirements for AI and ML, which will take effect on March 3, 2026, impacting approved Seller/Servicers. ([Garris Horn LLP](https://www.garrishorn.com/blog/mhfmanrnzp5fn4emi1l8s689joiyvd))
+
+- **FHFA Announces AI Governance Framework in Bulletin**: The FHFA has released a comprehensive governance framework for AI and ML, detailing requirements and best practices to ensure transparency and accountability. ([JD Supra](https://www.jdsupra.com/legalnews/fhfa-announces-ai-governance-framework-1637792/))
+
+- **Samsung announces advances in AI-native networks**: At Mobile World Congress 2026, Samsung showcased its advancements in AI-enhanced radio access networks, developed in collaboration with NVIDIA. ([New Electronics](https://www.newelectronics.co.uk/content/news/mwc-samsung-advances-ai-native-networks-with-nvidia-in-multi-cell-vran-test))
+
+- **Forthcoming machine learning and AI seminars: March 2026 edition**: Upcoming seminars on AI and machine learning are scheduled for March 2026, featuring discussions on explainable AI and other topics. ([AI Hub](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **Artificial Intelligence News & Press Releases from PR Newswire**: Baidu and Uber have partnered with Dubai's Roads and Transport Authority to enhance AI applications in transportation, highlighting ongoing innovations in the field. ([PR Newswire](https://www.prnewswire.com/news-releases/latest-news-topics/artificial-intelligence/?page=30))
+
+- **AI and machine learning compliance**: GxP-CC offers services to ensure that AI and ML systems meet regulatory expectations, promoting transparency and compliance in intelligent system deployment. ([GxP-CC](https://www.gxp-cc.com/services/ai-and-machine-learning-compliance/))
