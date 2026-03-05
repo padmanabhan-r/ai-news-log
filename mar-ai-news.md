@@ -84,3 +84,24 @@
 - **AI Integration in Business**: The emergence of the Inference Economy is changing how businesses value AI, focusing on model execution efficiency rather than data volume. ([Boston Institute of Analytics](https://bostoninstituteofanalytics.org/blog/state-of-ai-machine-learning-feb-21-feb-27-2026-key-trends-and-growth-statistics/))
 
 - **AI Conferences**: Several international conferences on machine learning, AI, and data science are scheduled for March 2026, highlighting ongoing academic engagement in the field. ([Main Event](https://mainevent.info/international-conference-on-machine-learning-artificial-intelligence-and-data-science-event-0012603))
+
+## 2026-03-05
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed its creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies, showcasing significant advancements in AI capabilities. ([AI-Weekly](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Upcoming AI Seminars**: The Institute for Ethics in AI at the University of Oxford and the Finnish Centre for AI are organizing seminars in March 2026, focusing on model-based distributionally robust optimization and Bayesian ambiguity sets. ([AI Hub](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **AI Events in March 2026**: A series of AI and machine learning events are scheduled in March 2026, including Tech Show London and Big Data & AI World, highlighting the growing focus on AI technologies globally. ([Times of AI](https://www.timesofai.com/))
+
+- **New AI Certificate Program**: The University of Waterloo is launching an Artificial Intelligence Certificate program aimed at developers and data professionals, starting on March 31, 2026, focusing on hands-on training in machine learning and neural networks. ([WatSPEED](https://watspeed.uwaterloo.ca/programs-and-courses/campaign-machine-learning.html))
+
+- **Hierarchical Pretraining for Few-Shot Learning**: Research from Kitware, Inc. demonstrates that hierarchical pretraining can enhance few-shot learning performance by leveraging abundant unlabeled acoustic data, potentially applicable in various fields with limited labeled data. ([Kitware](https://www.kitware.com/naml-2026/))
+
+- **AI26 Conference Announcement**: The Lamarr Institute for Machine Learning and Artificial Intelligence is hosting the AI26 conference in Bonn, focusing on the intersection of scientific foundations and real-world AI applications. ([Lamarr Institute](https://lamarr-institute.org/))
+
+- **AI in Energy Research**: A new study highlights how AI can accelerate the discovery of next-generation energy materials, proposing the concept of "Self-Driving Laboratories" for autonomous experimentation in energy research. ([Mirage News](https://www.miragenews.com/ai-boosts-discovery-of-next-gen-energy-materials-1630472/))
+
+- **AI Days 2026 at Vanderbilt University**: Vanderbilt University is organizing AI Days 2026, featuring workshops and presentations aimed at enhancing practical skills and understanding of AI's ethical implications in various sectors. ([Vanderbilt University](https://www.vanderbilt.edu/datascience/ai-days-2026/))
+
+- **AI Integration in Everyday Products**: gHacks reports on the integration of AI technologies into various digital products, including operating systems and productivity software, reflecting ongoing advancements in AI tools and applications. ([gHacks](https://www.ghacks.net/category/ai/))
+
+- **AI's Role in Workforce Transformation**: A report discusses the significant impact of AI on the workforce, emphasizing the need for adaptation to avoid obsolescence in various job sectors. ([AI Impact News](https://aiimpactnews.com/))
