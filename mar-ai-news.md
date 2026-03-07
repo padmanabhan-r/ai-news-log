@@ -126,3 +126,24 @@
 - **Azitra Cancels Stockholder Meeting**: Azitra, Inc. announced the cancellation of its special stockholder meeting originally scheduled for March 6, 2026, due to insufficient shareholder participation. ([PR Newswire](https://www.prnewswire.com/news-releases/azitra-inc-announces-cancellation-of-2026-special-meeting-of-stockholders-302705612.html))
 
 - **AI Supremacy Insights**: A new platform provides insights and updates at the intersection of AI, technology, and business, featuring research summaries and contributions from the AI community. ([AI Supremacy](https://www.ai-supremacy.com/s/ai-world-))
+
+## 2026-03-07
+- **Letting Machines Decide What Matters**: AI systems are now influencing the focus of research in particle detectors, shaping the studies conducted by physicists. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **AI Master Course Starting from Sat, Mar 7, 2026**: A new course will educate participants on AI technology, algorithms, and data analysis, emphasizing the importance of human oversight in AI development. ([Greatandhra.com](https://www.greatandhra.com/articles/news/ai-master-course-starting-from-sat-mar-7-2026-153110))
+
+- **Digital Marketing Summit 2026**: The upcoming summit in Seoul will gather marketing professionals to discuss the latest trends and innovations in digital marketing, including AI applications. ([Times of AI](https://www.timesofai.com/))
+
+- **Claude Overtakes ChatGPT on Trends**: A report indicates that Claude, an AI model, has surpassed ChatGPT in certain performance metrics, highlighting the competitive landscape of AI technologies. ([gHacks](https://www.ghacks.net/category/ai/))
+
+- **UNC Computer Science showcases foundational AI research**: The University of North Carolina hosted an event to highlight AI research, focusing on interdisciplinary collaborations to solve complex problems. ([UNC](https://college.unc.edu/2026/03/computer-science-showcase/))
+
+- **When Artificial Intelligence Discriminates**: A discussion on the legal implications of AI in hiring practices, emphasizing the need for compliance and oversight to avoid discrimination. ([Employment Law Worldview](https://www.employmentlawworldview.com/when-artificial-intelligence-discriminates-employer-compliance-in-the-rise-of-ai-hiring-us/))
+
+- **Scientists are failing to disclose their use of AI**: A study reveals that many researchers do not disclose their use of AI tools in publications, despite journal mandates, particularly among non-English-speaking authors. ([Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study/))
+
+- **Federal Court Authorizes Notice in Lawsuit Challenging AI Hiring**: A federal court has allowed a notice to be sent regarding a lawsuit that challenges the use of AI hiring software for potential age discrimination violations. ([Commercial Appeal](https://www.commercialappeal.com/press-release/story/71547/federal-court-authorizes-notice-in-lawsuit-challenging-ai-hiring-software-for-potential-age-discrimination-act-by-3-7-26/))
+
+- **Scholar publishes new book on UI/UX design process**: A new book explores the integration of AI in user interface design, focusing on usability and case studies in various applications. ([Gates Cambridge](https://www.gatescambridge.org/about/news/scholar-publishes-new-book-on-ui-ux-design-process/))
+
+- **AI Impact News**: A summary of current trends and impacts of AI across various industries, emphasizing the need for adaptation in the face of rapid technological advancements. ([AI Impact News](https://aiimpactnews.com/index.php/tag/artificial-intelligence/))
