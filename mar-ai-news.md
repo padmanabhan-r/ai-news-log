@@ -147,3 +147,24 @@
 - **Scholar publishes new book on UI/UX design process**: A new book explores the integration of AI in user interface design, focusing on usability and case studies in various applications. ([Gates Cambridge](https://www.gatescambridge.org/about/news/scholar-publishes-new-book-on-ui-ux-design-process/))
 
 - **AI Impact News**: A summary of current trends and impacts of AI across various industries, emphasizing the need for adaptation in the face of rapid technological advancements. ([AI Impact News](https://aiimpactnews.com/index.php/tag/artificial-intelligence/))
+
+## 2026-03-08
+- **Claude’s consumer growth surge continues after Pentagon deal debacle**: Despite a recent setback involving a Pentagon deal, Claude AI's consumer growth remains strong, indicating resilience in the face of challenges. ([Recent AI News](https://recentai.news/))
+
+- **Marvell stock surges 20% as CEO touts continuing AI demand in 2027**: Marvell Technology's shares rose significantly after the CEO highlighted ongoing strong demand for AI technologies, signaling investor confidence in the sector. ([Recent AI News](https://recentai.news/))
+
+- **Meta reportedly testing AI Shopping Research tool in the U.S.**: Meta is piloting a new AI Shopping Research tool aimed at enhancing consumer shopping experiences, reflecting the company's ongoing investment in AI-driven retail solutions. ([Times of AI](https://www.timesofai.com/))
+
+- **Claude AI is down today for many, Anthropic confirms massive outage**: Users of Claude AI experienced significant downtime, with Anthropic acknowledging a major outage affecting service availability. ([Times of AI](https://www.timesofai.com/))
+
+- **Environmentally Sustainable AI: Spike-based machine intelligence**: A discussion on the growing energy demands of AI and the need for sustainable practices in AI development was highlighted at a recent summit. ([LinkedIn](https://www.linkedin.com/pulse/weekly-digest-2-8-march-2026-ai-for-good-global-summit-un-vk2kf))
+
+- **AI systems in particle detectors now shape what physicists study**: AI technologies are increasingly being utilized in particle physics, influencing research directions and study focuses within the field. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **Precision & Digital Agriculture Hackathon**: The University of Illinois is hosting a hackathon focused on precision and digital agriculture, encouraging student participation in innovative agricultural solutions. ([Digital Agriculture](https://digitalag.illinois.edu/precision-digital-agriculture-hackathon/))
+
+- **Pentagon's chief tech officer says he clashed with AI company**: The Pentagon's CTO revealed conflicts with an AI company, shedding light on the complexities of government and private sector collaborations in AI development. ([Daily Camera](https://www.dailycamera.com/2026/03/06/us-pentagon-ai-anthropic/))
+
+- **A Strange Pattern Is Appearing in AI Models, and It Looks Surprisingly Human**: Researchers have observed unusual patterns in AI models that mimic human-like behaviors, raising questions about the implications for AI development and ethics. ([Economic Times](https://m.economictimes.com/news/international/us/a-strange-pattern-is-appearing-in-ai-models-and-it-looks-surprisingly-human/amp_articleshow/129206400.cms))
+
+- **AI-driven tools to streamline donor engagement**: A session at a recent conference explored how AI and machine learning can modernize donor relations and improve engagement strategies in nonprofit organizations. ([CASE](https://www.case.org/conferences-training/district-vii-viii-annual-conference-2026/sessions))
