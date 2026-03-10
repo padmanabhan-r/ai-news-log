@@ -189,3 +189,24 @@
 - **Smart Production Solutions China 2026**: An upcoming conference in Guangzhou will focus on the intersection of AI, robotics, and IoT, showcasing innovations in smart production technologies ([Times of AI](https://www.timesofai.com/)).
 
 - **Data Innovation Summit 2026**: Scheduled for March 6-8 in Stockholm, this summit will explore advancements in AI and data innovation, bringing together industry leaders to discuss the future of technology ([Times of AI](https://www.timesofai.com/)).
+
+## 2026-03-10
+- **New AI Model Releases News | March, 2026**: Open-weight AI competition is heating up as Chinese labs release models that match or exceed proprietary Western models, prompting a shift in focus for proprietary labs towards reliability and support. ([source](https://blog.mean.ceo/new-ai-model-releases-news-march-2026/))
+
+- **AI-Weekly for Tuesday, March 3, 2026 - Issue 206**: An AI developed over a year has surpassed the creator's world record in the game Tempest, showcasing advancements in machine learning techniques and engineering challenges. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **How AI Is Transforming Mathematical Proof Verification**: A significant achievement in formalizing a twenty-first-century Fields Medal proof has been made, marking a milestone in mathematical verification through AI. ([source](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **Microsoft adds higher-priced Office tier with AI**: Microsoft has introduced a new premium tier for Office that incorporates AI features, aiming to boost sales and enhance user productivity. ([source](https://recentai.news/))
+
+- **Dstillery's Melinda Han Williams Named to ADWEEK's AI Power 50**: Melinda Han Williams, Chief Data Scientist at Dstillery, has been recognized for her contributions to AI innovation in advertising. ([source](https://www.manilatimes.net/2026/03/10/tmt-newswire/globenewswire/dstillerys-melinda-han-williams-named-to-adweeks-ai-power-50/2296279))
+
+- **Crowdsourced Context for Coding Agents**: Meta has launched a Context Hub to provide coding agents with updated documentation, addressing common mistakes made by these systems due to outdated training data. ([source](https://recentai.news/))
+
+- **Forthcoming machine learning and AI seminars: March 2026 edition**: A series of seminars focusing on various AI topics, including model-based optimization and ethical considerations in AI, are scheduled for March 2026. ([source](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **AI and Earth Observation**: A workshop on the intersection of AI and earth observation is set to explore innovative services and applications, building on previous discussions about AI's role in climate preparedness. ([source](https://defence-industry-space.ec.europa.eu/artificial-intelligence-and-earth-observation-innovation-services-2026-03-09_en))
+
+- **Neuromorphic Computing: Is it the Future of AI and AI Hardware?**: An exploration of neuromorphic computing as a potential future direction for AI hardware, focusing on its implications for AI development. ([source](https://www.usaii.org/ai-insights/neuromorphic-computing-is-it-the-future-of-ai-and-ai-hardware))
+
+- **AI News: Artificial Intelligence Updates, Tool, Trends**: Coverage of the latest developments in AI technologies, including tools and policy changes affecting the integration of AI across various sectors. ([source](https://www.ghacks.net/category/ai/))
