@@ -210,3 +210,24 @@
 - **Neuromorphic Computing: Is it the Future of AI and AI Hardware?**: An exploration of neuromorphic computing as a potential future direction for AI hardware, focusing on its implications for AI development. ([source](https://www.usaii.org/ai-insights/neuromorphic-computing-is-it-the-future-of-ai-and-ai-hardware))
 
 - **AI News: Artificial Intelligence Updates, Tool, Trends**: Coverage of the latest developments in AI technologies, including tools and policy changes affecting the integration of AI across various sectors. ([source](https://www.ghacks.net/category/ai/))
+
+## 2026-03-11
+- **New AI model forecasts bladder cancer survival outcomes**: Researchers at Fondazione Policlinico Universitario Agostino Gemelli IRCCS developed a machine learning algorithm that predicts survival and cause of death for bladder cancer patients after radical cystectomy, marking a significant advancement in medical AI applications ([EurekAlert!](https://www.eurekalert.org/news-releases/1119275)).
+
+- **Aston Martin partners with AI developer Cohere**: The Aston Martin Aramco Formula One Team has entered a multi-year partnership with Toronto-based AI firm Cohere, which will provide generative AI solutions to enhance the team's performance and operations ([Research Money](https://researchmoneyinc.com/article/the-short-report-march-11-2026)).
+
+- **Upcoming AI seminars announced**: A series of machine learning and AI seminars are scheduled for March 2026, featuring speakers from notable institutions discussing various topics, including AI's impact on creativity ([AI Hub](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/)).
+
+- **Science Café on AI in the Physical World**: An event hosted by Carleton Science will explore the applications of artificial intelligence in the physical world, taking place on March 11, 2026, at the Ottawa Public Library ([Carleton University](https://carleton.ca/hci/cu-events/science-cafe-artificial-intelligence-in-the-physical-world/)).
+
+- **12th Annual LDV Vision Summit**: This virtual summit will cover topics related to computer vision and AI across various sectors, including healthcare and robotics, with a keynote on investing in visual technology businesses ([LDV](https://www.ldv.co/visionsummit)).
+
+- **USC study on AI self-learning**: A new study from USC Viterbi School of Engineering challenges the traditional view that AI performance is solely dependent on the quantity of data, suggesting that AI can learn effectively from limited information ([Mirage News](https://www.miragenews.com/usc-ai-masters-unknown-through-self-learning-1634490/)).
+
+- **AI Weekly Round-Up**: A summary of recent developments in AI, including free courses and professional development opportunities, highlighting resources from institutions like the Alan Turing Institute and Google ([LinkedIn](https://www.linkedin.com/pulse/your-ai-weekly-round-up-march-05-11-2026-fatih-caksen-h0fte?utm_source=rss&utm_campaign=articles_sitemaps)).
+
+- **AI in the Physical World**: A report discusses the trend of AI moving from cloud-based systems to embedded applications in physical devices, enhancing real-time decision-making in various industries ([Sigma Technology](https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/)).
+
+- **Rhizome's AI-powered grid planning solution**: Rhizome has launched an AI-driven grid planning tool in collaboration with Horizon Networks in New Zealand, aimed at improving climate risk management for utilities ([Manila Times](https://www.manilatimes.net/2026/03/11/tmt-newswire/globenewswire/rhizome-deploys-ai-powered-grid-planning-solution-for-horizon-networks-in-new-zealand/2297387)).
+
+- **Call for Applications for INOVAIT Pilot Fund**: INOVAIT has opened applications for its Pilot Fund, aimed at supporting research and development projects that utilize AI and machine learning in image-guided therapy technologies ([INOVAIT](https://inovait.ca/inovait-opens-call-for-applications-for-the-winter-2026-pilot-fund/)).
