@@ -231,3 +231,24 @@
 - **Rhizome's AI-powered grid planning solution**: Rhizome has launched an AI-driven grid planning tool in collaboration with Horizon Networks in New Zealand, aimed at improving climate risk management for utilities ([Manila Times](https://www.manilatimes.net/2026/03/11/tmt-newswire/globenewswire/rhizome-deploys-ai-powered-grid-planning-solution-for-horizon-networks-in-new-zealand/2297387)).
 
 - **Call for Applications for INOVAIT Pilot Fund**: INOVAIT has opened applications for its Pilot Fund, aimed at supporting research and development projects that utilize AI and machine learning in image-guided therapy technologies ([INOVAIT](https://inovait.ca/inovait-opens-call-for-applications-for-the-winter-2026-pilot-fund/)).
+
+## 2026-03-12
+- **Adaption Labs Introduces Research Grant Program**: Adaption Labs, Inc. has launched a grant program providing academic researchers with free access to their platform to support work in machine learning and AI. ([source](https://radicaldatascience.wordpress.com/2026/03/10/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed the creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Upcoming AI Events Announced**: A calendar of AI events has been updated, highlighting the [R] CVPR'26 SPAR-3D Workshop and the NVIDIA GTC 2026 conference scheduled for March 16th in San Jose. ([source](https://www.dailyneuraldigest.com/digest/2026-03-07-daily-digest/))
+
+- **AI & Big Data Expo North America 2026**: This expo in San Jose will gather AI leaders and data scientists to discuss the integration of AI and big data in organizational operations. ([source](https://www.clarionledger.com/press-release/story/122456/ai-big-data-expo-north-america-2026-comes-to-san-jose-as-demand-for-ai-and-data-driven-solutions-accelerates/))
+
+- **NRC's AI Symposium Scheduled**: The National Research Council will hold its second annual AI Symposium on March 12, focusing on practical applications of data and AI. ([source](https://www.instagram.com/p/DURt_5EDJ-0/))
+
+- **AI/R Achieves Gold Level with Databricks**: AI/R has been recognized as a Gold partner in the Databricks Partner Program, emphasizing its leadership in AI and data solutions. ([source](https://www.manilatimes.net/2026/03/12/tmt-newswire/globenewswire/air-achieves-gold-level-in-databricks-partner-program/2298266))
+
+- **Foundation Models Report by National Academies**: A new report discusses how foundation models trained on vast data could transform scientific discovery and innovation, particularly in the U.S. Department of Energy. ([source](https://www.nationalacademies.org/units/CAST-CAST%20EO-25-P-696/events?upcoming=1))
+
+- **Machine Learning in Orthopedics Conference**: A conference focused on AI and machine learning applications in orthopedics is set to take place, showcasing advancements in the field. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Tender Notices for AI Services**: Recent tender notices include opportunities for training services in AI and cybersecurity infrastructure in Germany and Poland. ([source](https://www.tendernews.com/tenders/latest-tender/machine-learning-artificial-intelligence.html))
+
+- **Machine Learning Models for Postoperative Predictions**: Research indicates that machine learning models can effectively predict postoperative surgical site infections in children, enhancing surgical outcomes. ([source](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/march-3-2026-issue/machine-learning-models-can-help-predict-postoperative-ssi-in-children/))
