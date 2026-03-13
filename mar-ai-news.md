@@ -252,3 +252,24 @@
 - **Tender Notices for AI Services**: Recent tender notices include opportunities for training services in AI and cybersecurity infrastructure in Germany and Poland. ([source](https://www.tendernews.com/tenders/latest-tender/machine-learning-artificial-intelligence.html))
 
 - **Machine Learning Models for Postoperative Predictions**: Research indicates that machine learning models can effectively predict postoperative surgical site infections in children, enhancing surgical outcomes. ([source](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/march-3-2026-issue/machine-learning-models-can-help-predict-postoperative-ssi-in-children/))
+
+## 2026-03-13
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed its creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies. This achievement highlights significant advancements in AI capabilities. ([AI-Weekly](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Claude AI Outage**: Anthropic has confirmed a massive outage affecting Claude AI, leading to disruptions for many users. ([Times of AI](https://www.timesofai.com/))
+
+- **ChatGPT Backlash**: Following a deal with the U.S. Department of Defense, ChatGPT is facing backlash as Claude AI rises to prominence, becoming the top AI tool. ([Times of AI](https://www.timesofai.com/))
+
+- **AI in Mathematical Proof Verification**: AI has been used to formalize a twenty-first-century Fields Medal proof for the first time, showcasing its transformative impact on mathematical verification processes. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **Machine Learning for Pediatric SSI Prediction**: A study has developed machine learning models aimed at predicting surgical site infections in children, addressing a significant gap in existing predictive models. ([American College of Surgeons](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/march-3-2026-issue/machine-learning-models-can-help-predict-postoperative-ssi-in-children/))
+
+- **AI Models and Prediction Transparency**: New AI models are enhancing prediction transparency, which is crucial for building trust in AI systems and their applications. ([Mirage News](https://www.miragenews.com/ai-models-boost-prediction-transparency-1633313/))
+
+- **AI Regulations Impact**: An analysis discusses how rules for publicly available data are shaping the future of AI, particularly in the context of European regulations. ([ITIF](https://itif.org/publications/2026/03/13/how-rules-for-publicly-available-data-are-shaping-the-future-of-ai/))
+
+- **Generative AI for Social Impact**: A presentation highlights the use of generative AI in optimizing resources for public health and conservation, showcasing its potential for global social impact. ([Georgia Tech](https://calendar.gatech.edu/event/2026/03/13/generative-ai-global-social-impact-towards-solving-deployment-bottleneck))
+
+- **AI Alignment and Preference Optimization**: A seminar discussed the complexities of AI alignment, focusing on whether preference optimization effectively aligns with human preferences. ([Cornell University](https://www.cs.cornell.edu/events/artificial-intelligence-seminars))
+
+- **AI in Drug Discovery**: At the MIT AI Conference, advancements in integrating high-resolution single-cell functional data with AI models for drug discovery were presented, emphasizing the role of AI in healthcare. ([MIT ILP](https://ilp.mit.edu/AI26))
