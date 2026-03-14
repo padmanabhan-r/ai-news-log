@@ -273,3 +273,24 @@
 - **AI Alignment and Preference Optimization**: A seminar discussed the complexities of AI alignment, focusing on whether preference optimization effectively aligns with human preferences. ([Cornell University](https://www.cs.cornell.edu/events/artificial-intelligence-seminars))
 
 - **AI in Drug Discovery**: At the MIT AI Conference, advancements in integrating high-resolution single-cell functional data with AI models for drug discovery were presented, emphasizing the role of AI in healthcare. ([MIT ILP](https://ilp.mit.edu/AI26))
+
+## 2026-03-14
+- **Kimi K2.5 (Moonshot AI)**: A new Chinese AI release features "visual agentic intelligence" with a swarm of up to 100 sub-agents, significantly improving execution time by 4.5 times compared to single-agent setups. ([source](https://www.linkedin.com/pulse/gen-ai-news-learning-resource-mar-14-2026-minha-hwang-nk6nc))
+
+- **Groundbreaking AI Achievement in Gaming**: An AI surpassed the world record in the game Tempest, utilizing 15 million frames and advanced strategies, showcasing significant advancements in machine learning. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Tevogen.AI Reports Advancements**: Tevogen.AI announced improvements in its platform for drug development, enhancing precision in identifying biological targets before clinical trials. ([source](https://www.manilatimes.net/2026/03/14/tmt-newswire/globenewswire/tevogenai-reports-advancements-in-predictcell-beta-demonstrates-improved-precision-metrics-and-expands-proprietary-ai-infrastructure/2299802))
+
+- **Morgan Stanley's AI Breakthrough Warning**: A report from Morgan Stanley indicates that a significant leap in AI capabilities is imminent, driven by increased computational power at leading AI labs. ([source](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/))
+
+- **China's Technology and AI Dominance Plan**: China has unveiled a strategic plan to dominate future technology and AI, outlining its ambitions for the next five years. ([source](https://www.abc.net.au/news/2026-03-14/china-future-five-years-plan-tech-ai-dominance/106450274))
+
+- **AI & Big Data Expo North America 2026**: The upcoming expo in San Jose highlights the growing demand for AI and data-driven solutions across various industries. ([source](https://www.shreveporttimes.com/press-release/story/41036/ai-big-data-expo-north-america-2026-comes-to-san-jose-as-demand-for-ai-and-data-driven-solutions-accelerates/))
+
+- **Sony AI's Integrated Approach**: Sony AI President discussed the company's strategy for integrating AI across its ecosystem, emphasizing the role of reinforcement learning in future developments. ([source](https://ai.sony/blog/Advancing-AI-Highlights-from-February-2026/))
+
+- **Tekedia AI Lab Program Launch**: The Tekedia AI Lab program aims to transition participants from basic AI prompting to advanced architectural skills in AI development. ([source](https://www.facebook.com/nekekwe/posts/tekedia-ai-lab-program-starting-march-14-2026-is-where-you-move-from-prompting-t/1559639435645707/))
+
+- **February 2026 AI News Roundup**: A comprehensive review of AI developments in February, focusing on funding, innovations, and the International AI Safety Report presented at a major event. ([source](https://www.ptechpartners.com/2026/03/03/february-2026-ai-news-roundup-scale-up-and-shakeup-funding-and-feuds-and-innovation-with-impact/))
+
+- **The Superworker Moment**: A report discusses the need to rethink education and skills development in response to the evolving demands of AI in the labor market. ([source](https://economy.ac/review/2026/03/202603288649))
