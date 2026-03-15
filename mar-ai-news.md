@@ -294,3 +294,24 @@
 - **February 2026 AI News Roundup**: A comprehensive review of AI developments in February, focusing on funding, innovations, and the International AI Safety Report presented at a major event. ([source](https://www.ptechpartners.com/2026/03/03/february-2026-ai-news-roundup-scale-up-and-shakeup-funding-and-feuds-and-innovation-with-impact/))
 
 - **The Superworker Moment**: A report discusses the need to rethink education and skills development in response to the evolving demands of AI in the labor market. ([source](https://economy.ac/review/2026/03/202603288649))
+
+## 2026-03-15
+- **Adaption Research Grant Program Launched**: Adaption Labs, Inc. has introduced a grant program providing academic researchers complimentary access to its platform to support work in machine learning and AI. This initiative aims to facilitate research across various disciplines. ([source](https://radicaldatascience.wordpress.com/2026/03/12/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **Tender for AI Management System in Brazil**: A tender has been issued in Brazil for the rental of licenses for a computerized public management system that includes cloud storage and technical support. The deadline for submissions is March 25, 2026. ([source](https://www.tendernews.com/tenders/latest-tender/machine-learning-artificial-intelligence.html))
+
+- **Fatima Institute Fellowship Deadline Extended**: The application deadline for the Fatima Institute for Global AI Research Fellowship has been extended to March 15, 2026, targeting aspiring PhD students and researchers from developing countries. ([source](https://www.linkedin.com/posts/hyusuf7_airesearch-fellowship-phdjourney-activity-7436652000915652608-9ETp))
+
+- **AI Governance and Military Applications Debated**: Recent discussions highlight the growing importance of AI governance, particularly concerning military applications, as competition in AI expands beyond technical capabilities to include policy alignment and robotics deployment. ([source](https://champaignmagazine.com/2026/03/08/ai-by-ai-weekly-top-5-march-2-8-2026/))
+
+- **AI Opportunities in Education Discussed**: A recent talk emphasized the transformative potential of generative AI in education, addressing both opportunities for personalized learning and challenges related to academic integrity. ([source](https://www.linkedin.com/pulse/weekly-digest-9-15-march-2026-ai-for-good-global-summit-un-6jj9f))
+
+- **AI in Orthopedic Care**: The integration of AI and machine learning in orthopedic care is enhancing diagnosis and treatment planning, allowing for more precise surgical procedures and improved patient outcomes. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **AI Update on Recent Developments**: A weekly update covers significant advancements in AI, including discussions on governance solutions and the competitive landscape of AI-driven technologies. ([source](https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week))
+
+- **AI and Quantum Technologies' Future Impact**: Experts predict that advancements in AI, robotics, and quantum technologies will significantly shape future societal and technological landscapes. ([source](https://sundayguardianlive.com/news/ai-robotics-and-quantum-technologies-to-shape-future-experts-176450/))
+
+- **AI Checkers and Governance Solutions**: The competitive landscape for AI-driven governance solutions is evolving, with a focus on regulatory frameworks and market leaders in the field. ([source](https://www.rebellionresearch.com/artificial-intelligence-machine-learning/page/2))
+
+- **CEIBS MBA Open Day on AI Leadership**: An upcoming event at CEIBS will explore how leaders must evolve in the age of AI, featuring discussions on entrepreneurship and career advancement. ([source](https://www.facebook.com/ceibschina/posts/how-must-leaders-evolve-in-the-age-of-aion-march-15-2026-join-us-at-the-ceibs-mb/1377111884460673/))
