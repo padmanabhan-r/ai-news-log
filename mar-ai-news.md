@@ -336,3 +336,24 @@
 - **NASA's Artemis II Mission Preparations**: NASA is finalizing preparations for the Artemis II mission, which will be the first crewed lunar mission, integrating AI technologies into its architecture. ([source](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-16-march-2026/))
 
 - **Machine Learning & AI Working Group**: The working group will focus on advancements in real-time image processing and large-scale computing, with contributions from experts in the defense industry. ([source](https://usgif.org/event/machine-learning-artificial-intelligence-working-group/))
+
+## 2026-03-17
+- **Forthcoming machine learning and AI seminars: March 2026 edition**: Upcoming seminars include discussions on AI's role in creative processes and the evolution of remote work, featuring speakers from notable institutions. ([source](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **AI-Weekly for Tuesday, March 3, 2026 - Issue 206**: An AI surpassed a world record in the game Tempest after a year of development, showcasing advancements in machine learning techniques. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **WIPO launches Artificial Intelligence Infrastructure Interchange (AIII)**: The AIII initiative aims to facilitate global dialogue on AI and intellectual property, with a launch event scheduled for March 17, 2026. ([source](https://www.knowledgespeak.com/news/wipo-launches-artificial-intelligence-infrastructure-interchange-aiii/))
+
+- **AI Update, March 13, 2026: AI News and Views From the Past Week**: A recap of significant AI developments and insights from the previous week, focusing on various applications and trends in the field. ([source](https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week))
+
+- **AI News Today: Latest Artificial Intelligence Updates**: A roundup of the latest AI news, including content writing tutorials and guidance on optimizing machine learning datasets. ([source](https://minsaai.com/ai-news-today/))
+
+- **AI in Higher Education Summit**: Scheduled for March 17-18, 2026, this summit will gather global leaders to discuss the future of higher education in an AI-driven landscape. ([source](https://www.facebook.com/TheEuroBuzRev/posts/on-march-1718-2026-escp-business-school-will-host-the-ai-in-higher-education-sum/1597714635697250/))
+
+- **2026 AI in T&E Forum**: This forum will take place on March 17-18, focusing on integrating AI-enabled systems through digital engineering for improved decision-making. ([source](https://itea.org/event/2026-ai-in-te-forum/))
+
+- **Advanced Generative AI Course for Engineers**: Interview Kickstart has launched a new program aimed at engineers, focusing on applications of large language models and prompt engineering. ([source](https://www.manilatimes.net/2026/03/17/tmt-newswire/globenewswire/advanced-generative-ai-course-for-engineers-interview-kickstart-launches-new-program-focused-on-llm-applications-prompt-engineering-and-real-world-ai-systems/2301039))
+
+- **Meta's $27 billion infrastructure deal**: Nebius shares surged after the company announced a significant infrastructure deal with Meta, indicating strong investment in AI capabilities. ([source](https://recentai.news/))
+
+- **'Pokémon Go' players train delivery robots**: An interesting development where players of the popular game inadvertently contributed to training delivery robots using vast amounts of image data. ([source](https://recentai.news/))
