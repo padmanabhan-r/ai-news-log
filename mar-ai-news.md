@@ -357,3 +357,24 @@
 - **Meta's $27 billion infrastructure deal**: Nebius shares surged after the company announced a significant infrastructure deal with Meta, indicating strong investment in AI capabilities. ([source](https://recentai.news/))
 
 - **'Pokémon Go' players train delivery robots**: An interesting development where players of the popular game inadvertently contributed to training delivery robots using vast amounts of image data. ([source](https://recentai.news/))
+
+## 2026-03-18
+- **AI assistants can sway writers' attitudes, even when they're watching for bias**: Research from Cornell Tech indicates that AI writing tools can influence not only how people express themselves but also how they think. ([TechXplore](https://techxplore.com/rss-feed/machine-learning-ai-news))
+
+- **New AI Model Releases News, March 2026**: Analysts anticipate several AI model launches this month, including OpenAI's GPT-5.3 and Google's Gemini 3.2, with multiple releases expected from Chinese labs. ([Mean CEO](https://blog.mean.ceo/new-ai-model-releases-news-march-2026/))
+
+- **Groundbreaking achievement in machine learning**: An AI surpassed a world record in the game Tempest, showcasing advancements in AI capabilities through innovative strategies and extensive gameplay data. ([AI Weekly](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Google for Startups Accelerator announces new cohort**: The seventh annual Canadian program includes 14 startups focusing on AI and machine learning across various industries, emphasizing the growing role of AI in business. ([Research Money Inc.](https://researchmoneyinc.com/article/the-short-report-march-18-2026))
+
+- **AI News March 2026: The Wildest Week In Artificial Intelligence**: This week featured significant developments in AI model launches, corporate changes, and government actions, highlighting the rapid evolution of AI technology. ([Julian Goldie](https://juliangoldie.com/ai-news-march-2026/))
+
+- **2026 Artificial Intelligence Summit announced**: The Potomac Officers Club will host its sixth annual AI Summit, focusing on practical applications and strategies for AI and machine learning in various sectors. ([Potomac Officers Club](https://www.potomacofficersclub.com/events/2026-artificial-intelligence-summit/))
+
+- **Morgan Stanley warns of an imminent AI breakthrough**: A report from Morgan Stanley suggests a transformative leap in AI is on the horizon, driven by increased computational power at leading AI labs. ([Yahoo Finance](https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html))
+
+- **AI ethics shifting from theory to enforcement**: A discussion on how the enforcement of AI ethics is evolving, moving beyond theoretical frameworks to practical applications in 2026. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning/page/2))
+
+- **IBM predicts trends shaping AI and tech in 2026**: A report from IBM outlines key trends and predictions for AI and technology, including the introduction of new AI models optimized for business applications. ([IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **Introduction to Artificial Intelligence workshop scheduled**: A community event in Rogers Park will focus on introducing participants to the fundamentals of artificial intelligence, scheduled for March 18, 2026. ([Facebook](https://www.facebook.com/groups/RogersParkNeighborhoodNews/posts/26036517859330927/))
