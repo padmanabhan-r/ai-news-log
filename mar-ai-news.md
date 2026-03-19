@@ -378,3 +378,24 @@
 - **IBM predicts trends shaping AI and tech in 2026**: A report from IBM outlines key trends and predictions for AI and technology, including the introduction of new AI models optimized for business applications. ([IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
 
 - **Introduction to Artificial Intelligence workshop scheduled**: A community event in Rogers Park will focus on introducing participants to the fundamentals of artificial intelligence, scheduled for March 18, 2026. ([Facebook](https://www.facebook.com/groups/RogersParkNeighborhoodNews/posts/26036517859330927/))
+
+## 2026-03-19
+- **Adaption Labs Introduces Research Grant Program**: Adaption Labs, Inc. has launched a grant program providing academic researchers with free access to its platform, aimed at supporting work in machine learning and AI. ([source](https://radicaldatascience.wordpress.com/2026/03/17/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **Tender for AI in Climate-Resistant Structures**: A new tender has been issued in Jammu & Kashmir, India, focusing on the effective application of AI in designing climate-resistant structures. ([source](https://www.tendernews.com/tenders/latest-tender/machine-learning-artificial-intelligence.html))
+
+- **Autoscience Secures $14M for Automated AI Lab**: Autoscience has raised $14 million in seed funding to develop the world's first automated AI research lab, featuring non-human AI scientists and engineers. ([source](https://www.manilatimes.net/2026/03/19/tmt-newswire/globenewswire/autoscience-raises-14m-to-build-the-worlds-first-automated-ai-research-lab/2303129))
+
+- **AI Breakthrough in Gaming**: An AI has surpassed a world record in the game Tempest, utilizing advanced machine learning techniques, showcasing significant advancements in AI capabilities. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **AI and Machine Learning in Orthopedics Conference**: A conference is set to explore the transformative impact of AI and machine learning in orthopedic care, including improved diagnosis and treatment planning. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Berkeley Executive Education Launches AI Course**: Berkeley Executive Education is offering an online professional certificate program in AI and machine learning, starting April 16, 2026. ([source](https://emeritus.org/program-information-sessions/berkeley-executive-educations-professional-certificate-in-machine-learning-and-artificial-intelligence-program))
+
+- **Morgan Stanley Predicts AI Breakthrough**: Morgan Stanley has warned that a significant AI breakthrough is expected in 2026, potentially reshaping various industries. ([source](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/))
+
+- **NVIDIA GTC Conference**: The NVIDIA GTC conference is taking place from March 16-19, 2026, focusing on next-generation AI technologies and applications. ([source](https://www.facebook.com/NVIDIAGTC/posts/nvidia-gtc-is-happening-march-1619-2026-in-san-josewhere-attendees-can-explore-w/910709881509009/))
+
+- **Datavault AI to Discuss Financial Results**: Datavault AI has scheduled a conference call for March 19, 2026, to discuss its fourth quarter and full-year financial results for 2025. ([source](https://www.onlineathens.com/press-release/story/45596/datavault-ai-schedules-conference-call-to-discuss-fourth-quarter-and-full-year-2025-financial-results-on-thursday-march-19-2026/))
+
+- **AI & Life Science Conference**: The "Bridging the Gap 2026" event will focus on AI's role in life sciences, discussing breakthroughs and future opportunities in AI-driven healthcare and biotechnology. ([source](https://www.sacc-ne.org/event/2026/3/19/bridging-the-gap-2026))
