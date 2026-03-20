@@ -399,3 +399,24 @@
 - **Datavault AI to Discuss Financial Results**: Datavault AI has scheduled a conference call for March 19, 2026, to discuss its fourth quarter and full-year financial results for 2025. ([source](https://www.onlineathens.com/press-release/story/45596/datavault-ai-schedules-conference-call-to-discuss-fourth-quarter-and-full-year-2025-financial-results-on-thursday-march-19-2026/))
 
 - **AI & Life Science Conference**: The "Bridging the Gap 2026" event will focus on AI's role in life sciences, discussing breakthroughs and future opportunities in AI-driven healthcare and biotechnology. ([source](https://www.sacc-ne.org/event/2026/3/19/bridging-the-gap-2026))
+
+## 2026-03-20
+- **Adaption Research Grant Program Launched**: Adaption Labs, Inc. has introduced a grant program providing academic researchers with free access to their platform to support work in machine learning and AI. This aims to facilitate research across various disciplines. ([source](https://radicaldatascience.wordpress.com/2026/03/16/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed its creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies. This achievement highlights significant advancements in AI capabilities. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **AI Model Enhances Flood Forecasting**: Research from the University of Minnesota Twin Cities demonstrates that machine learning can significantly improve flood prediction accuracy, utilizing "knowledge-guided" AI methodologies. ([source](https://www.miragenews.com/ai-model-poised-to-transform-flood-forecasting-1638520/))
+
+- **Upcoming AI Seminars Announced**: A list of free, virtual AI-related seminars scheduled between March and April 2026 has been released, covering various topics in machine learning and AI. ([source](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **AAIML 2026 Conference in Tokyo**: The International Conference on Advances in Artificial Intelligence and Machine Learning will take place from March 20-22, 2026, featuring awards for best papers and student contributions. ([source](https://www.aaiml.net/))
+
+- **Machine Learning Framework for Employee Attrition**: IBM has developed a machine-learning framework that accurately predicts employee attrition and identifies key drivers of turnover, providing valuable insights for HR analytics. ([source](https://www.ilr.cornell.edu/cahrs/news/cahrs-top-10-enews/archive/cahrs-top-20-march-2026))
+
+- **GSA Contractors to Comment on AI Clause**: The General Services Administration has published a draft clause for public comment regarding AI in government contracts, with a deadline for feedback set for March 20, 2026. ([source](https://www.jenner.com/en/news-insights/client-alerts/ai-for-gsa-contractors-advanced-notice-of-mas-refresh-31-contains-significant-draft-changes-deadline-of-march-20-for-comments))
+
+- **Google AI Tools for Job Seekers**: Google has introduced AI tools that assist users in job searching, including features that streamline the creation of presentation materials, showcasing the practical applications of AI in career development. ([source](https://news.google.com/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZrZVhwamREQnNjaElDWlc0b0FBUAE?hl=en-US&ceid=US:en&gl=US))
+
+- **AI Model for Detecting Training Data**: A new study from Cornell University discusses a model designed to detect training data for language models through active reconstruction, contributing to advancements in AI transparency and accountability. ([source](https://arxiv.org/abs/2602.19020))
+
+- **Robot Dogs Deployed for Security**: High-cost robot dogs, priced at $300,000 each, are now being utilized to secure major data centers across the country, reflecting the growing integration of robotics and AI in security operations. ([source](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNRzFyZWhJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US:en))
