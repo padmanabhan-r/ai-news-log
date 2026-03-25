@@ -504,3 +504,24 @@
 - **New AI Programs Address Job Growth**: Pensacola State College is launching two new programs aimed at equipping students with skills relevant to AI-related job growth, focusing on technical proficiency in AI tools. ([source](https://www.pensacolastate.edu/two-new-programs-at-psc-are-addressing-ai-related-job-growth/))
 
 - **AI and Warfare in the Middle East**: The integration of AI in military strategies, particularly in the U.S.-Israeli campaign against Iran, is reshaping traditional deterrence theories and the nature of warfare in the region. ([source](https://www.pakistantoday.com.pk/2026/03/24/ai-proxies-and-precision-the-emerging-triad-and-the-erosion-of-deterrence-in-the-middle-east))
+
+## 2026-03-25
+- **Adaption Research Grant Program Launched**: Adaption Labs, Inc. has introduced a grant program providing academic researchers with free access to their platform, aimed at facilitating research in machine learning and AI. ([source](https://radicaldatascience.wordpress.com/2026/03/18/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **Upcoming AI Seminars Announced**: A series of machine learning and AI seminars are scheduled for April 2026, featuring speakers from MIT and Stanford University, focusing on various topics in the field. ([source](https://aihub.org/2026/03/02/forthcoming-machine-learning-and-ai-seminars-march-2026-edition/))
+
+- **Trends in AI for 2026**: Microsoft outlines seven key trends indicating that AI is evolving from a tool to a collaborative partner, enhancing human expertise across various industries. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/))
+
+- **Andrej Karpathy's AutoResearch Initiative**: The new initiative by Andrej Karpathy aims to enable recursive self-improvement in AI, potentially leading to significant advancements in machine learning capabilities. ([source](https://ai-weekly.ai/newsletter-03-17-2026/))
+
+- **Five Key Trends in AI and Data Science**: An article from MIT Sloan discusses five emerging trends in AI and data science for 2026, highlighting the importance of organizational culture and strategy. ([source](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/))
+
+- **Pictory Webinar on AI Video Innovations**: Pictory is hosting a webinar on March 25, 2026, to discuss the latest advancements in AI video generation and content creation techniques. ([source](https://blockchain.news/ainews/pictory-webinar-latest-ai-video-breakthroughs-and-2026-content-creation-techniques-live-on-march-25))
+
+- **AI Trends Shaping 2026**: IBM identifies three significant trends in AI for 2026, emphasizing a shift from personal productivity to team and workflow orchestration in enterprise settings. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **Binance Launches AI Trading Assistant**: Binance has introduced an AI Pro Trading Assistant to enhance market analysis and trading strategies, with a free trial starting March 25, 2026. ([source](https://blockchain.news/flashnews/binance-launches-ai-pro-trading-assistant-for-market-analysis-and-strategy))
+
+- **XPENG Motors Expands to Latin America**: XPENG Motors announces its entry into the Latin American market, launching AI-powered mobility solutions in Mexico on March 25, 2026. ([source](https://blockchain.news/ainews/xpeng-expands-to-latin-america-ai-powered-mobility-launch-in-mexico-on-march-25-market-impact-analysis))
+
+- **Advancements in AI for Financial Decision-Making**: A talk on applied AI in finance will showcase how machine learning and reinforcement learning can improve prediction accuracy and risk management in financial markets. ([source](https://www.stevens.edu/events/applied-ai-for-financial-decision-making-from-risk-aware-predictions-to))
