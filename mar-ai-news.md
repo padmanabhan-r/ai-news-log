@@ -525,3 +525,24 @@
 - **XPENG Motors Expands to Latin America**: XPENG Motors announces its entry into the Latin American market, launching AI-powered mobility solutions in Mexico on March 25, 2026. ([source](https://blockchain.news/ainews/xpeng-expands-to-latin-america-ai-powered-mobility-launch-in-mexico-on-march-25-market-impact-analysis))
 
 - **Advancements in AI for Financial Decision-Making**: A talk on applied AI in finance will showcase how machine learning and reinforcement learning can improve prediction accuracy and risk management in financial markets. ([source](https://www.stevens.edu/events/applied-ai-for-financial-decision-making-from-risk-aware-predictions-to))
+
+## 2026-03-26
+- **Adaption Research Grant Program**: Adaption Labs, Inc. launches a grant program offering academic researchers free access to their platform, aimed at facilitating work in machine learning and AI. ([source](https://radicaldatascience.wordpress.com/2026/03/17/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **AutoResearch Initiative by Andrej Karpathy**: Karpathy's new initiative focuses on recursive self-improvement in AI, potentially leading to significant advancements in machine learning capabilities. ([source](https://ai-weekly.ai/newsletter-03-17-2026/))
+
+- **Yale Medical AI Symposium**: Scheduled for March 26, this symposium will gather researchers and leaders to discuss the challenges and opportunities of machine learning in diagnostics and healthcare. ([source](https://www.facebook.com/YaleSchoolOfMedicine/posts/on-march-26-the-2026-yale-medical-ai-symposium-will-bring-together-researchers-a/1751991159475895/))
+
+- **Federal Statistics AI Day**: Federal agencies are developing policies and strategies for integrating Generative AI into workflows, highlighting the varying stages of adoption across different agencies. ([source](https://www.nationalacademies.org/units/DBASSE-CNSTAT-20-P-198/event/46442))
+
+- **Morgan Stanley's AI Breakthrough Warning**: A report from Morgan Stanley suggests a transformative leap in AI is imminent, driven by increased computational power at leading AI labs. ([source](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/))
+
+- **AI in Quality Engineering**: An upcoming APAC event will discuss how to balance human judgment with AI-driven systems in quality engineering, emphasizing governance and innovation. ([source](https://www.tricentis.com/events/powering-whats-next-in-ai-apac/))
+
+- **AI and Workforce Impacts**: Enterprises are advised to prepare for ongoing competition in AI hardware and the need for strategic sourcing and workforce reskilling as AI adoption reshapes organizational structures. ([source](https://medium.com/@stephen.stanley777/ai-daily-update-20-03-2026-97b868eef4f1))
+
+- **Towards End-to-End Automation of AI Research**: A new study discusses advancements in automating AI research processes, including evaluating language agents and optimizing algorithms. ([source](https://www.nature.com/articles/s41586-026-10265-5))
+
+- **GEOHuntsville Summit 2026**: This summit will focus on the intersection of geospatial technology, space exploration, and AI, featuring industry leaders and government officials. ([source](https://usgif.org/event/geohuntsville-summit-2026-rocket-city-rising/))
+
+- **Toby Walsh Lecture on AI Race**: A lecture by Toby Walsh will explore the implications of the AI race, discussing whether it leads to beneficial outcomes or potential risks. ([source](https://caiml.org/dighum/announcements/toby-walsh-the-ai-race-boom-or-doom-2026-03-26/))
