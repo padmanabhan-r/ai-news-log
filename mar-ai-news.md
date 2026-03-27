@@ -546,3 +546,24 @@
 - **GEOHuntsville Summit 2026**: This summit will focus on the intersection of geospatial technology, space exploration, and AI, featuring industry leaders and government officials. ([source](https://usgif.org/event/geohuntsville-summit-2026-rocket-city-rising/))
 
 - **Toby Walsh Lecture on AI Race**: A lecture by Toby Walsh will explore the implications of the AI race, discussing whether it leads to beneficial outcomes or potential risks. ([source](https://caiml.org/dighum/announcements/toby-walsh-the-ai-race-boom-or-doom-2026-03-26/))
+
+## 2026-03-27
+- **Adaption Labs Introduces Research Grant Program**: Adaption Labs, Inc. has launched a grant program providing academic researchers complimentary access to their platform, aimed at supporting work in machine learning, AI, and adaptive systems. ([source](https://radicaldatascience.wordpress.com/2026/03/17/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **BullFrog AI Unveils bfARENAS™ Decision Engine**: BullFrog AI has introduced a new scenario-based decision engine designed to enhance pharmaceutical portfolio strategy and clinical trial design using AI and machine learning. ([source](https://www.nasdaq.com/press-release/bullfrog-ai-unveils-bfarenastm-scenario-based-decision-engine-2026-03-25))
+
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed the creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **HydroML 2026 Symposium Announced**: A symposium will be held focusing on advancements in AI and machine learning in hydrology and geosciences, bringing together researchers and practitioners in the field. ([source](https://oden.utexas.edu/news-and-events/events/2215---Various%20Speakers/))
+
+- **BullFrog to Host Webinar on New AI Capability**: BullFrog AI will conduct a webinar to discuss its new precision AI capabilities related to pharmaceutical strategy and clinical trials, scheduled for March 27. ([source](https://ir.bullfrogai.com/news-events/press-releases/detail/80/bullfrog-to-host-webinar-on-new-precision-ai-capability))
+
+- **AI Regulation Symposium Scheduled**: An AI regulation symposium is set for March 27, 2026, aiming to discuss the implications and frameworks surrounding AI governance. ([source](https://www.facebook.com/hitotsubashi.university/posts/eventmarch27-ai-regulation-symposium-on-friday-march-27-2026/1482715147149453/))
+
+- **AI in Higher Education**: A discussion on how AI should enhance educators rather than replace them, emphasizing the importance of people skills and emotional intelligence in teaching. ([source](https://rbj.net/2026/01/27/ai-higher-education-enhancing-educators-learning/))
+
+- **AI Daily Update Highlights**: A summary of global AI news, including Elon Musk's announcement about Tesla's next-generation AI6 chips expected to be taped out in December. ([source](https://medium.com/@stephen.stanley777/ai-daily-update-20-03-2026-97b868eef4f1))
+
+- **AI Symposium at Hofstra University**: The upcoming AI symposium will explore how generative AI is transforming learning and teaching methodologies in higher education. ([source](https://www.hofstra.edu/about/administration/provosts-office/ai-symposium/))
+
+- **Teen Boot Camp on AI and ML**: A hands-on boot camp for middle and high school students will focus on AI and machine learning applications using Python, aimed at supporting underrepresented groups in tech. ([source](https://sjpl.bibliocommons.com/events/696ac8ad707481383706e776))
