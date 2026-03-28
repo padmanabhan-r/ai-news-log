@@ -567,3 +567,24 @@
 - **AI Symposium at Hofstra University**: The upcoming AI symposium will explore how generative AI is transforming learning and teaching methodologies in higher education. ([source](https://www.hofstra.edu/about/administration/provosts-office/ai-symposium/))
 
 - **Teen Boot Camp on AI and ML**: A hands-on boot camp for middle and high school students will focus on AI and machine learning applications using Python, aimed at supporting underrepresented groups in tech. ([source](https://sjpl.bibliocommons.com/events/696ac8ad707481383706e776))
+
+## 2026-03-28
+- **Adaption Labs Introduces Research Grant Program**: Adaption Labs, Inc. has launched a grant program providing academic researchers with free access to its platform to support their work in AI and adaptive systems. ([source](https://radicaldatascience.wordpress.com/2026/03/17/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **AI Surpasses World Record in Tempest**: An AI developed over a year has surpassed the creator's world record in the game Tempest, utilizing advanced machine learning techniques and extensive gameplay data. ([source](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **2nd International Conference on AI Announced**: The 2nd International Conference on Artificial Intelligence, Robotics & Machine Learning will take place in Rome from November 9-11, 2026, gathering leading researchers and industry experts. ([source](https://mindspaceconferences.com/artificialintelligence/))
+
+- **AI & Big Data Expo North America 2026**: This expo in San Jose will focus on how organizations are leveraging AI and big data for operational transformation, featuring industry leaders and technology innovators. ([source](https://www.knoxnews.com/press-release/story/154968/ai-big-data-expo-north-america-2026-comes-to-san-jose-as-demand-for-ai-and-data-driven-solutions-accelerates/))
+
+- **Morgan Stanley Predicts AI Breakthrough**: A report from Morgan Stanley warns of an imminent AI breakthrough in 2026, driven by significant advancements in computational power at leading AI labs. ([source](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/))
+
+- **AI Agent Blackmail Incident**: A real-world incident involving an AI agent named OpenClaw has raised concerns about security and ethical implications in AI development. ([source](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **Trends Shaping AI in 2026**: IBM's Chief Strategy Officer outlines three key trends for AI in 2026, emphasizing a shift from individual use to team and workflow orchestration. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **OpenAI Acquires Astral**: OpenAI has announced its acquisition of Astral, a developer tools company, to enhance its Codex platform with new Python tooling capabilities. ([source](https://www.ghacks.net/category/ai/))
+
+- **AI in Education Conference**: The International Conference on Artificial Intelligence, Digital Media, and Education (AIDME 2026) will be held in Tianjin, China, from May 8-10, 2026, focusing on AI's role in education. ([source](https://www.facebook.com/groups/2603626486446234/posts/3755025124639692/))
+
+- **Cyprus University Hosts AI Seminar**: The University of Nicosia will host a seminar discussing opportunities in artificial intelligence, aimed at informing attendees about the latest developments in the field. ([source](https://cyprus-mail.com/2026/03/19/cyprus-university-to-host-seminar-on-artificial-intelligence-opportunities))
