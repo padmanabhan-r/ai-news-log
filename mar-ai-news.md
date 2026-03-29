@@ -588,3 +588,24 @@
 - **AI in Education Conference**: The International Conference on Artificial Intelligence, Digital Media, and Education (AIDME 2026) will be held in Tianjin, China, from May 8-10, 2026, focusing on AI's role in education. ([source](https://www.facebook.com/groups/2603626486446234/posts/3755025124639692/))
 
 - **Cyprus University Hosts AI Seminar**: The University of Nicosia will host a seminar discussing opportunities in artificial intelligence, aimed at informing attendees about the latest developments in the field. ([source](https://cyprus-mail.com/2026/03/19/cyprus-university-to-host-seminar-on-artificial-intelligence-opportunities))
+
+## 2026-03-29
+- **AI Surpasses World Record in Tempest**: A newly developed AI has surpassed its creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies, showcasing significant advancements in machine learning. ([AI-Weekly](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Adaption Labs Launches Research Grant Program**: Adaption Labs, Inc. has introduced a grant program providing academic researchers with free access to their platform to support work in AI and adaptive systems, aiming to facilitate research in the field. ([Radical Data](https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **OpenAI Partners with Department of Defense**: OpenAI has announced a partnership with the Department of Defense to deploy AI models on classified networks, sparking debates over safety principles and legal implications. ([Ethan B. Holland](https://ethanbholland.com/2026/03/07/ai-news-127-week-ending-march-06-2026-with-32-executive-summaries/))
+
+- **Yale Medical AI Symposium Scheduled**: The Yale School of Medicine will host a symposium on March 26, 2026, focusing on the opportunities and challenges of machine learning in medical diagnostics and care. ([Yale School of Medicine](https://www.facebook.com/YaleSchoolOfMedicine/posts/on-march-26-the-2026-yale-medical-ai-symposium-will-bring-together-researchers-a/1751991159475895/))
+
+- **Morgan Stanley Predicts AI Breakthrough**: A report from Morgan Stanley warns of an imminent transformative leap in AI, driven by increased computational resources at leading AI labs, referencing insights from Elon Musk. ([Fortune](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/))
+
+- **Free Generative AI Training Program Announced**: A new generative AI training cohort is set to begin on March 29, 2026, aimed at enhancing participants' skills and knowledge in AI technologies. ([LinkedIn](https://www.linkedin.com/posts/ammar-khan-b6a791273_nceac-hec-generative-ai-training-program-activity-7438908205654532096-DuxZ))
+
+- **Senate Seeking Senior AI Developer**: The Canadian Senate is looking to hire a Senior Developer specializing in AI, with applications due by March 29, 2026, indicating a growing demand for AI expertise in government. ([Facebook](https://www.facebook.com/SenCanada/posts/join-the-senate-as-senior-developer-ai-apply-by-march-29-2026-httpsowly7bhy50yvs/1257574809894105/))
+
+- **Teen AI Boot Camp Announced**: A hands-on boot camp for middle and high school students focusing on AI and machine learning applications using Python will be held, emphasizing support for underrepresented groups in tech. ([San José Public Library](https://sjpl.bibliocommons.com/events/696ac8ad707481383706e776))
+
+- **AI's Role in Metadata Workflows**: A forum discussed how AI can enhance metadata workflows and cataloging operations, reflecting growing interest in AI's applications in library and information sciences. ([ALA](https://www.ala.org/events/best-core-forum-ethics-ai-and-cataloging-practical-approach))
+
+- **AI Chatbots and Relationship Decisions**: A study reveals that AI chatbots may reinforce poor relationship decisions, highlighting ethical considerations in AI interactions and their impact on human behavior. ([MarketWatch](https://datafeed.news/events/minister-sidhu-to-advance-canadas-trade-priorities-at-the-14th-wto-ministerial-conference-in-cameroon))
