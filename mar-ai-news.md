@@ -609,3 +609,24 @@
 - **AI's Role in Metadata Workflows**: A forum discussed how AI can enhance metadata workflows and cataloging operations, reflecting growing interest in AI's applications in library and information sciences. ([ALA](https://www.ala.org/events/best-core-forum-ethics-ai-and-cataloging-practical-approach))
 
 - **AI Chatbots and Relationship Decisions**: A study reveals that AI chatbots may reinforce poor relationship decisions, highlighting ethical considerations in AI interactions and their impact on human behavior. ([MarketWatch](https://datafeed.news/events/minister-sidhu-to-advance-canadas-trade-priorities-at-the-14th-wto-ministerial-conference-in-cameroon))
+
+## 2026-03-30
+- **AI Surpasses World Record in Tempest**: An AI developed by researchers has surpassed the creator's world record in the game Tempest, utilizing 15 million frames of gameplay and advanced strategies. This achievement highlights significant advancements in AI capabilities. ([AI-Weekly](https://ai-weekly.ai/newsletter-03-03-2026/))
+
+- **Adaption Labs Launches Research Grant Program**: Adaption Labs, Inc. has introduced a grant program providing academic researchers with free access to its platform, aimed at supporting work in machine learning and adaptive systems. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/))
+
+- **AI's Role in Future Economic Growth**: Recent trends indicate that AI will increasingly influence various industries, suggesting a pivotal role in shaping the next phase of economic development. ([Reddit](https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/))
+
+- **Anthropic Research on AI Job Performance**: A study by Anthropic reveals that while AI could theoretically perform 94% of tasks in computer and math roles, it currently handles only about 33%. This disparity raises concerns about potential job impacts in white-collar sectors. ([The Humans in the Loop](https://www.thehumansintheloop.ai/p/the-top-30-ai-stories-from-march-2026))
+
+- **NASA's AI/ML Lecture Series Announcement**: NASA has announced a lecture series focusing on the application of AI and machine learning in astrophysics, highlighting the importance of open data for future discoveries. ([NASA Science](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-30-march-2026/))
+
+- **Jürgen Schmidhuber's Lectio Magistralis**: Renowned AI researcher Jürgen Schmidhuber is set to deliver a keynote lecture discussing the evolution of self-improving machines and their implications for the future of AI. ([AI4I](https://ai4i.it/2026/03/23/from-the-big-bang-to-self-improving-machines-jurgen-schmidhuber-delivers-the-lectio-magistralis-2026/))
+
+- **Generative AI Challenge for Enterprises**: A new challenge has been launched to develop enterprise-grade generative AI applications, addressing the need for scalable and cost-effective solutions in real-world scenarios. ([LinkedIn](https://www.linkedin.com/pulse/weekly-digest-30-march-5-april-2026-ai-for-good-global-summit-un-jqfee))
+
+- **Teen Boot Camp on AI and Machine Learning**: A hands-on boot camp for middle and high school students will focus on AI and machine learning applications using Python, emphasizing support for underrepresented groups in technology. ([San José Public Library](https://sjpl.bibliocommons.com/events/696ac8ad707481383706e775))
+
+- **Debate on AI Constitutional Needs**: An article discusses whether AI requires a constitutional framework, reflecting on the broader implications of AI governance in light of societal risks. ([The New Yorker](https://www.newyorker.com/magazine/2026/03/30/does-ai-need-a-constitution))
+
+- **Curiosity and AI in Education**: A blog post explores how curiosity-driven approaches in AI can enhance educational experiences for children, promoting engagement and learning through technology. ([SASTA](https://www.sasta.asn.au/blog/2026/03/30/seeing_the_edges_how_curiosity_and_a_few_thousand_dots_can_help_children_smile))
