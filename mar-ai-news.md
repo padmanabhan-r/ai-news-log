@@ -630,3 +630,24 @@
 - **Debate on AI Constitutional Needs**: An article discusses whether AI requires a constitutional framework, reflecting on the broader implications of AI governance in light of societal risks. ([The New Yorker](https://www.newyorker.com/magazine/2026/03/30/does-ai-need-a-constitution))
 
 - **Curiosity and AI in Education**: A blog post explores how curiosity-driven approaches in AI can enhance educational experiences for children, promoting engagement and learning through technology. ([SASTA](https://www.sasta.asn.au/blog/2026/03/30/seeing_the_edges_how_curiosity_and_a_few_thousand_dots_can_help_children_smile))
+
+## 2026-03-31
+- **NCDEX asks traders to submit AI, machine learning system details**: The National Commodity and Derivatives Exchange has mandated that all active trading members submit details of their AI and machine learning systems by April 15, 2026. ([source](https://informistmedia.com/CommodityWire/47602/NCDEX-asks-traders-to-submit-AI-machine-learning-system-details-by-Apr-15))
+
+- **NextGen Data 2026 Global Summit on AI, Machine Learning & Data Science Innovation**: A global summit will be held in Barcelona, focusing on the latest research and networking opportunities in AI, machine learning, and data science. ([source](https://www.rarediseaseday.org/event/nextgen-data-2026-global-summit-on-ai-machine-learning-data-science-innovation/))
+
+- **AI could drive 37% of customer interactions by end of 2026**: A report indicates that AI agents are expected to significantly enhance customer interactions, with a projected 37% of these interactions being driven by AI by the end of 2026. ([source](https://www.cxnetwork.com/artificial-intelligence/news/ai-could-drive-37-of-customer-interactions-by-end-of-2026))
+
+- **Swiss AI Initiative: Apply for Large Grants by March 31, 2026**: The Swiss AI Initiative is inviting applications for large grants aimed at advancing AI research, with a webinar scheduled to discuss optimizing AI workflows. ([source](https://www.linkedin.com/posts/epfl-ai-center_swissai-openscience-airesearch-activity-7434180143406911488-sgWA))
+
+- **Klarna closer to IPO as AI and automation boost pays off**: Klarna is moving closer to an initial public offering, attributing its progress to the successful implementation of AI and automation technologies. ([source](https://www.cxnetwork.com/artificial-intelligence/news/klarna-closer-to-ipo-as-ai-and-automation-boost-pays-off))
+
+- **The impact of the European Union's AI Act on customer experience**: An analysis of how the EU's AI Act is expected to influence customer experience, particularly in terms of governance and accountability in AI applications. ([source](https://www.cxnetwork.com/artificial-intelligence/news/impact-european-union-ai-act-customer-experience))
+
+- **Research to real-world impact: AI4I launches four new international calls**: AI4I has announced new international calls for research positions, aimed at fostering collaboration in AI and machine learning within a dynamic innovation environment. ([source](https://ai4i.it/2026/01/23/research-to-real-world-impact-ai4i-launches-four-new-international-calls/))
+
+- **AISTATS 2026**: The upcoming AISTATS conference will gather researchers from various fields to discuss advancements at the intersection of AI, machine learning, and statistics. ([source](https://virtual.aistats.org/))
+
+- **AI News of the Month for March 2026**: A YouTube segment summarizing key AI developments and insights from March 2026, featuring various expert analyses and discussions. ([source](https://www.youtube.com/watch?v=WqlpNN8ztAk))
+
+- **Duos Technologies Group Sets Fourth Quarter and Full Year 2025 Earnings Call**: Duos Technologies will hold a conference call to discuss its financial results and developments in AI data center solutions on March 31, 2026. ([source](https://aimagazine.com/globenewswire/3262997))
