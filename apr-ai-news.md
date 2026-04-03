@@ -42,3 +42,24 @@
 - **AIM-AHEAD "Get Connected" April Office Hours Session #1**: The AIM-AHEAD Consortium is hosting office hours to discuss advancements in AI and machine learning research aimed at improving health outcomes. ([AIM-AHEAD](https://www.aim-ahead.net/complete-feed/aim-ahead-get-connected-april-office-hours-session-1/))
 
 - **AI Update, February 13, 2026: AI News and Views From the Past Week**: A roundup of significant AI news and developments from the previous week, providing insights into ongoing trends and innovations. ([MarketingProfs](https://www.marketingprofs.com/opinions/2026/54304/ai-update-february-13-2026-ai-news-and-views-from-the-past-week))
+
+## 2026-04-03
+- **OpenAI Surpasses $25 Billion in Revenue**: OpenAI has exceeded $25 billion in annualized revenue and is considering a public listing by late 2026, indicating strong enterprise AI adoption. ([source](https://blog.mean.ceo/new-ai-model-releases-news-april-2026/))
+
+- **96th Global Conference on Machine Learning and AI**: The upcoming conference in New York from April 3-5, 2026, will focus on innovation, sustainability, and digital growth in AI. ([source](https://www.eventbrite.ca/e/96th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1983334338396))
+
+- **AI in Quality Assurance**: In 2026, AI will significantly enhance automated testing and quality assurance, enabling faster app development and cost reduction. ([source](https://hqsoftwarelab.com/blog/latest-ai-developments/))
+
+- **Meta Launches AI Prescription Glasses**: Meta has introduced its first prescription AI glasses, marking a significant step in wearable technology. ([source](https://www.timesofai.com/))
+
+- **Apple Tests Multi-Command Siri**: Apple is experimenting with a new version of Siri powered by Gemini-derived AI, which aims to enhance user interaction capabilities. ([source](https://www.timesofai.com/))
+
+- **AI in Warehouse Management**: AI is becoming integral to warehouse management systems, setting new standards for operational efficiency in logistics. ([source](https://www.knapp.com/en/insights/blog/ai-trends-logistics-2026/))
+
+- **GSA's AI Safeguarding Clause**: The General Services Administration has proposed a new contract clause aimed at implementing AI-specific safeguarding requirements, with a comment deadline extended to April 3, 2026. ([source](https://www.jdsupra.com/legalnews/update-march-20-2026-deadline-for-7148314/))
+
+- **AI in Materials Science Research**: Recent studies demonstrate how AI can analyze scientific literature to identify emerging trends in materials science research. ([source](https://www.miragenews.com/ai-inspires-new-research-topics-in-materials-1648760/))
+
+- **AI Research Day at UGA**: An upcoming event at the University of Georgia will feature industry talks and a poster session for students involved in AI research, promoting collaboration and feedback. ([source](https://www.ai.uga.edu/events/content/2026/ai-research-day-industry-talks-panel-and-student-poster-session))
+
+- **Workshop on AI in Metastable Materials**: The National Academies will host a workshop discussing the application of AI tools in researching metastable materials, aimed at scientists and policymakers. ([source](https://www.nationalacademies.org/projects/DEPS-BPA-25-02/event/46422))
