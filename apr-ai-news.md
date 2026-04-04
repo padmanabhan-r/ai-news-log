@@ -63,3 +63,24 @@
 - **AI Research Day at UGA**: An upcoming event at the University of Georgia will feature industry talks and a poster session for students involved in AI research, promoting collaboration and feedback. ([source](https://www.ai.uga.edu/events/content/2026/ai-research-day-industry-talks-panel-and-student-poster-session))
 
 - **Workshop on AI in Metastable Materials**: The National Academies will host a workshop discussing the application of AI tools in researching metastable materials, aimed at scientists and policymakers. ([source](https://www.nationalacademies.org/projects/DEPS-BPA-25-02/event/46422))
+
+## 2026-04-04
+- **Third International Conference on Artificial Intelligence and Machine Learning**: The AIM-2026 conference will be held from April 27 to 29, 2026, in San Francisco, focusing on AI research and applications. ([source](https://mainevent.info/the-third-international-conference-on-artificial-intelligence-and-machine-learning-event-0012438))
+
+- **AI News Briefs BULLETIN BOARD for April 2026**: MLCommons announced the release of MLPerf Inference v6.0, marking a significant benchmark update for AI performance evaluation. ([source](https://radicaldatascience.wordpress.com/2026/04/02/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **The trends that will shape AI and tech in 2026 - IBM**: IBM introduced its Granite AI models, designed to enhance business applications and scalability in AI. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **96th Global Conference on Machine Learning and Artificial Intelligence**: Scheduled for April 3-5, 2026, in New York, this conference will focus on innovation and sustainability in AI and machine learning. ([source](https://www.eventbrite.ca/e/96th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1983334338396))
+
+- **What's next in AI: 7 trends to watch in 2026 - Microsoft Source**: Microsoft predicts advancements in AI diagnostics and treatment planning, with generative AI products becoming more accessible to consumers. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/))
+
+- **AI of 2026 Will be Different - YouTube**: A video discussion exploring the transformative potential of AI tools and their implications for various sectors. ([source](https://www.youtube.com/watch?v=agU3N6ie0lI))
+
+- **AI Impact Summit Declaration**: Over 70 countries, including India, signed a declaration at the AI Impact Summit, emphasizing the global commitment to AI development. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **Google's Voluntary Exit Offer**: In response to the anticipated impact of AI, Google has begun offering voluntary exit packages to employees as part of its workforce adjustments. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **Salesforce Layoffs**: Salesforce announced a new round of layoffs affecting 1,000 employees, attributed to shifts in the AI landscape and operational needs. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **Ai4 2026**: The Ai4 conference aims to unite business executives and technology leaders to discuss real-world AI applications and advancements, scheduled for 2026. ([source](https://ai4.io/))
