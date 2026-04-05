@@ -84,3 +84,24 @@
 - **Salesforce Layoffs**: Salesforce announced a new round of layoffs affecting 1,000 employees, attributed to shifts in the AI landscape and operational needs. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
 
 - **Ai4 2026**: The Ai4 conference aims to unite business executives and technology leaders to discuss real-world AI applications and advancements, scheduled for 2026. ([source](https://ai4.io/))
+
+## 2026-04-05
+- **Inflection point: From rapid adoption of AI to responsible governance**: The article discusses how AI is transforming global economic and governance structures, emphasizing the need for responsible governance as AI becomes integral across various industries. ([The Edge](http://www.theedgemarkets.com/node/797892))
+
+- **AI News Briefs BULLETIN BOARD for April 2026**: This bulletin provides a roundup of the latest developments in AI, including industry news, research, and upcoming events in the AI sector. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/04/02/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **AI Trends | April, 2026 (STARTUP EDITION) - Female Entrepreneurs**: The article highlights key AI sectors such as cloud computing and cybersecurity, and discusses investment opportunities for entrepreneurs in the AI market. ([Mean CEO](https://blog.mean.ceo/ai-trends-April-2026/))
+
+- **Weekly Digest | 30 March - 5 April 2026**: This digest covers recent advancements in machine learning for climate prediction, showcasing how new data-driven approaches are emerging in weather forecasting. ([LinkedIn](https://www.linkedin.com/pulse/weekly-digest-30-march-5-april-2026-ai-for-good-global-summit-un-jqfee))
+
+- **Five Trends in AI and Data Science for 2026**: The article outlines five significant trends shaping AI and data science, focusing on innovation, organizational culture, and the strategic importance of AI in business. ([MIT Sloan Management Review](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/))
+
+- **26 Key Trends Shaping Biotech And Life Sciences In 2026**: AI and machine learning are becoming essential in biopharma R&D, with companies like Eli Lilly leveraging AI for drug discovery and molecular simulations. ([Biopharma APAC](https://biopharmaapac.com/news/18/7395/26-key-trends-shaping-biotech-and-life-sciences-in-2026.html))
+
+- **The Existential Threats of Artificial Intelligence**: Senator Sanders addresses the potential dangers of AI in a recent speech, warning that the U.S. is unprepared for the implications of advanced AI technologies. ([CounterPunch](https://www.counterpunch.org/2026/04/03/the-existential-threats-of-artificial-intelligence/))
+
+- **Xanadu, the University of Toronto and the National Research Council of Canada Unveil Quantum Algorithms for Lithium-ion Battery Simulations**: This collaboration aims to enhance lithium-ion battery simulations using quantum algorithms, showcasing the intersection of AI and quantum computing. ([Business Insider](https://markets.businessinsider.com/news/stocks/xanadu-the-university-of-toronto-and-the-national-research-council-of-canada-unveil-quantum-algorithms-for-lithium-ion-battery-simulations-1035943183))
+
+- **Insurance Data Science Conference | LinkedIn**: The conference focuses on the latest applications of data science and analytics in the insurance industry, with registration closing soon. ([LinkedIn](https://uk.linkedin.com/company/insurance-data-science-conference))
+
+- **Today's artists are the ones who construct artificial neural networks**: This article features an interview with artist Gints Gabrāns, discussing how contemporary artists are engaging with AI and algorithmic systems in their work. ([Arterritory](https://arterritory.com/en/visual_arts/interviews/27835-todays_artists_are_the_ones_who_construct_artificial_neural_networks/))
