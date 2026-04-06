@@ -105,3 +105,24 @@
 - **Insurance Data Science Conference | LinkedIn**: The conference focuses on the latest applications of data science and analytics in the insurance industry, with registration closing soon. ([LinkedIn](https://uk.linkedin.com/company/insurance-data-science-conference))
 
 - **Today's artists are the ones who construct artificial neural networks**: This article features an interview with artist Gints Gabrāns, discussing how contemporary artists are engaging with AI and algorithmic systems in their work. ([Arterritory](https://arterritory.com/en/visual_arts/interviews/27835-todays_artists_are_the_ones_who_construct_artificial_neural_networks/))
+
+## 2026-04-06
+- **AI/ML STIG Lecture Series**: A virtual seminar hosted by NASA's AI/ML Science and Technology Interest Group is scheduled for April 6, 2026, featuring speaker Tomasz Rozanski. ([NASA Science](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-6-april-2026/))
+
+- **MLPerf Inference v6.0 Released**: ML Commons announced the release of MLPerf Inference v6.0 results, marking a significant benchmark for AI performance and community progress in 2026. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/04/02/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **Former Google Engineer Convicted**: A former Google software engineer was convicted for stealing over 500 confidential files related to Google's AI infrastructure, including details on TPU chips. ([Crescendo.ai](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **AI Meets Medical Education**: A virtual event on April 6, 2026, will explore the applications of AI and machine learning in medical education, hosted by NJCU. ([Instagram](https://www.instagram.com/p/DWocRfIDZE3/))
+
+- **DNA Robots for Drug Delivery**: Recent advancements in DNA robots could enable targeted drug delivery and virus hunting within the human body, showcasing innovative applications of AI in medicine. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/))
+
+- **National Symposium on Effective and Ethical AI**: The 2026 National Symposium will focus on "Human-AI Collaboration" and aims to address empowerment, agency, and belonging in AI systems. ([Morgan State University](https://www.morgan.edu/ceamls/scholarly-events/symposia/n-sea-2026))
+
+- **AI's Impact on Big Tech Climate Goals**: Concerns are rising that the integration of AI may complicate climate goals for major tech companies, potentially locking in more fossil fuel reliance. ([Akron Legal News](https://www.akronlegalnews.com/editorial/38170))
+
+- **Google AI Studio Enhancements**: Google has upgraded its AI Studio with a new coding agent that simplifies app development, allowing users to create production-ready applications through conversational prompts. ([Google Blog](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/))
+
+- **Cursor Launches Agent-Based Coding**: The introduction of agent-based coding workflows by Cursor highlights the growing trend of AI agents in software development, enhancing productivity and efficiency. ([Artificial Intelligence News](https://www.artificialintelligence-news.com/))
+
+- **Evolving Role of AI in National Security**: A recent discussion at a National Security Foundation event addressed the evolving role of AI and machine learning in enhancing U.S. national security strategies. ([CSIS](https://www.csis.org/blogs/strategic-technologies-blog/evolving-role-artificial-intelligence-and-machine-learning-us))
