@@ -147,3 +147,24 @@
 - **Synopsys Launches Ansys 2026 R1**: Synopsys has launched Ansys 2026 R1, introducing AI-powered products aimed at re-engineering engineering processes, particularly in power-grid design. ([source](https://aijourn.com/synopsys-launches-ansys-2026-r1-to-re-engineer-engineering-with-joint-solutions-and-ai-powered-products/))
 
 - **The Great AI Debate**: An event titled "The Great AI Debate" is scheduled for April 7, 2026, at the Austin Forum, focusing on discussions around the implications and future of AI technology. ([source](https://www.austinforum.org/events/april-7-2026))
+
+## 2026-04-08
+- **AI 101: Foundations of AI & Machine Learning**: A hands-on workshop aimed at teaching fundamental AI and machine learning concepts along with their real-world applications. Participants will engage in activities using generative AI tools. ([source](https://www.delafieldchamber.com/events/details/ai-101-foundations-of-ai-machine-learning-15175))
+
+- **AI News & Trends April 2026: Complete Monthly Digest**: This article discusses how AI and machine learning are transforming quantitative finance through real-time analytics, automated trading, and decision optimization. ([source](https://af.net/realtime/ai-news-trends-april-2026-complete-monthly-digest/))
+
+- **The Third International Conference on Artificial Intelligence and Machine Learning**: Announcement of an upcoming conference focused on AI and machine learning research and publication, scheduled for April 27-29, 2026, in San Francisco, CA. ([source](https://mainevent.info/the-third-international-conference-on-artificial-intelligence-and-machine-learning-event-0010496))
+
+- **AI News Briefs BULLETIN BOARD for April 2026**: Highlights the release of MLPerf Inference v6.0, marking a significant benchmark in AI performance metrics, showcasing the rapid advancements in the field. ([source](https://radicaldatascience.wordpress.com/2026/04/01/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **International Conference on Machine Learning, Artificial Intelligence**: Important dates for paper submissions and registration for an upcoming conference on AI and machine learning, emphasizing the academic engagement in the field. ([source](https://www.instagram.com/p/DV8PWoZkiAk/))
+
+- **Latest AI & ML News, Insights, and Trends**: Discusses the rise of AI video generators as essential tools for creativity in 2026, highlighting their potential in various applications from marketing to tutorials. ([source](https://www.timesofai.com/))
+
+- **Third International Conference on Artificial Intelligence and Machine Learning**: Another announcement for the same conference, reiterating its focus on engineering and technology in AI and machine learning. ([source](https://mainevent.info/third-international-conference-on-artificial-intelligence-and-machine-learning-event-0012238))
+
+- **AI and Machine Learning Updates**: Reports on significant layoffs in major tech companies like Salesforce, indicating the impact of AI on employment within the industry. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **Have you heard these exciting AI news?**: A YouTube video featuring discussions on recent developments in AI, including insights from notable figures in the field. ([source](https://www.youtube.com/watch?v=R6Ue66Zitqo))
+
+- **Artificial Intelligence (AI) and Machine Learning | Kslaw.com**: A PDF document discussing the strategic pivot of the GCC towards AI, emphasizing the legal and technological implications of this shift. ([source](https://www.kslaw.com/capabilities/artificial-intelligence-ai-and-machine-learning.pdf?locale=en))
