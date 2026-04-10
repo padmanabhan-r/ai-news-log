@@ -187,3 +187,24 @@
 - **Lantern Pharma Invites Investors to Experience withZeta.ai**: Lantern Pharma will showcase withZeta.ai, a multi-agentic AI co-scientist for rare cancers, during a live demonstration aimed at investors and analysts. ([Business Wire](https://www.businesswire.com/news/home/20260402442512/en/Lantern-Pharma-Invites-Investors-Analysts-Shareholders-to-Experience-the-Future-of-Drug-Discovery-via-a-Live-Demo-of-withZeta.ai-the-Worlds-First-Multi-Agentic-Co-Scientist-for-Rare-Cancers-830-AM-Eastern-April-9-2026))
 
 - **Forthcoming Machine Learning and AI Seminars**: Upcoming seminars will focus on teaching critical evaluation of AI in healthcare and applying data science skills, reflecting the educational push in the AI sector. ([AI Hub](https://aihub.org/2026/04/02/forthcoming-machine-learning-and-ai-seminars-april-2026-edition/))
+
+## 2026-04-10
+- **Symposium on Machine Learning across Modalities**: Yale University will host a symposium on April 10, 2026, focusing on multimodal AI research and practices. ([Yale Engineering](https://engineering.yale.edu/news-and-events/events/3960/780))
+
+- **IAIFI Colloquium**: Tommaso Dorigo will present on the impact of AI on image classification and its implications for fundamental science experiments during an upcoming colloquium. ([Google Groups](https://groups.google.com/g/women-in-machine-learning/c/Eu6i8ItsJqU))
+
+- **10 Years of AI and Machine Learning**: A retrospective article highlights significant developments in AI and machine learning over the past decade, including various educational programs launching in 2026. ([Simplilearn](https://www.simplilearn.com/ten-years-of-artificial-intelligence-and-machine-learning-article?tag=AI+and+machine+learning))
+
+- **AI in Orthopedic Care**: The integration of AI in orthopedic medicine is enhancing diagnosis and treatment planning, with algorithms improving accuracy in detecting fractures and predicting disease progression. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Tilted AMA on AI Learning**: An upcoming discussion will address the ethical considerations of who should be compensated when AI systems learn from user-generated data. ([Instagram](https://www.instagram.com/p/DW35KkgkQi9/))
+
+- **Physics-Based and Data-Driven Manufacturing Seminar**: A seminar on April 10 will explore advancements in manufacturing processes and quality control, emphasizing data-driven approaches. ([In the Loop](https://intheloop.engineering.asu.edu/2026/04/08/attend-a-seminar-on-the-physics-based-and-data-driven-manufacturing-process-and-product-quality-control-april-10/))
+
+- **AI Trends to Watch in 2026**: A Microsoft article outlines seven key trends in AI for 2026, including its applications in medicine, software development, and scientific research. ([Microsoft Source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/))
+
+- **OpenAI's Policy Advocacy**: OpenAI is pushing for policies to mitigate the societal impacts of AI, emphasizing the need for regulatory frameworks. ([YouTube](https://www.youtube.com/watch?v=1O5Qo3qi3iM))
+
+- **Concentrix Interactive Session**: An upcoming event will gather industry leaders to discuss how AI is transforming customer experience and digital technology. ([Facebook](https://www.facebook.com/ConcentrixIN/posts/an-energizing-interactive-session-awaits-as-industry-visionaries-come-together-t/1384040490416622/))
+
+- **Daily AI News from GAI Insights**: GAI Insights continues to provide daily updates on AI developments, with a focus on emerging trends and innovations. ([YouTube](https://www.youtube.com/watch?v=n4kIuutwI5A))
