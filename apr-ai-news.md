@@ -229,3 +229,24 @@
 - **World Development Report 2026 Regional Consultation in Europe**: This report discusses the transformative impact of AI across various sectors, highlighting its evolution from prediction to cognition. ([source](https://www.wbginstitute.org/events/world-development-report-2026-regional-consultation-europe))
 
 - **Russia's National AI Plan**: President Vladimir Putin has mandated the creation of a national plan for AI implementation across multiple sectors by 2030, aiming to foster technological advancements. ([source](https://en.iz.ru/en/2076866/alena-nefedova/dots-ai-russia-will-create-national-plan-introduction-artificial-intelligence))
+
+## 2026-04-12
+- **Introducing Marble 1.1 by World Labs**: The latest version of Marble improves lighting and contrast while significantly reducing visual artifacts, with a new model designed for creating larger, more complex environments. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **New Technique for Leaner AI Models**: MIT researchers have developed a method using control theory to make AI models faster and more efficient during the learning process. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **Former Google Engineer Convicted of Trade Secret Theft**: A former software engineer was found guilty of stealing over 500 confidential files related to Google's AI infrastructure, including sensitive information on TPU chips. ([source](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **5th International Conference on AI, Data Science & Bio Technology**: This conference will take place in New York City on April 11-12, focusing on recent advancements in AI and biotechnology, with both in-person and online participation options. ([source](https://nesacademy.org/event/5th-international-conference-on-artificial-intelligence-data-science-bio-technology/))
+
+- **Governance Challenges for Agentic AI**: The EU AI Act presents significant governance challenges for agentic AI systems, highlighting the need for regulatory frameworks to manage their deployment. ([source](https://www.artificialintelligence-news.com/))
+
+- **Anthropic's New AI Model Remains Private**: Anthropic has decided to keep its new AI model private after discovering thousands of external vulnerabilities, raising concerns about safety in AI development. ([source](https://www.artificialintelligence-news.com/))
+
+- **AI's Role in Business Growth**: Insights into how AI is driving business growth reveal the importance of effective governance and strategy in leveraging AI technologies for competitive advantage. ([source](https://www.artificialintelligence-news.com/))
+
+- **Breakthrough Memory Device for Electronics**: Engineers have created a new memory device capable of operating at extreme temperatures, potentially revolutionizing electronics by overcoming significant thermal limits. ([source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/))
+
+- **Competitive Landscape in AI Intensifies**: Major companies like Meta, Google, and Alibaba are releasing new AI models, while Anthropic holds back its powerful model due to safety concerns, indicating a rapidly evolving competitive environment. ([source](https://www.youtube.com/watch?v=tILZuOvro6I))
+
+- **Global Spending on AI Projected to Exceed $2 Trillion**: The increasing investment in AI technologies is reshaping various industries, with major players continuously developing advanced AI tools and large language models. ([source](https://www.newsnow.com/us/Science/AI))
