@@ -250,3 +250,24 @@
 - **Competitive Landscape in AI Intensifies**: Major companies like Meta, Google, and Alibaba are releasing new AI models, while Anthropic holds back its powerful model due to safety concerns, indicating a rapidly evolving competitive environment. ([source](https://www.youtube.com/watch?v=tILZuOvro6I))
 
 - **Global Spending on AI Projected to Exceed $2 Trillion**: The increasing investment in AI technologies is reshaping various industries, with major players continuously developing advanced AI tools and large language models. ([source](https://www.newsnow.com/us/Science/AI))
+
+## 2026-04-13
+- **MLPerf Inference v6.0 Released**: ML Commons announced the release of MLPerf Inference v6.0, marking the first major benchmark release of the year, showcasing significant progress in AI performance. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **AI in Orthopedics Conference 2026**: Upcoming conferences and workshops focused on the application of AI and machine learning in orthopedics are set to take place, emphasizing the integration of technology in medical practices. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **BIPH Annual Symposium 2026**: The Berthiaume Institute for Precision Health will host its annual symposium, focusing on interdisciplinary research in AI, machine learning, and advanced materials. ([source](https://precisionhealth.nd.edu/news-events/events/2026/04/13/biph-annual-symposium-2026/))
+
+- **Digital Brain Tumor Datasets**: A new initiative has developed the first datasets of digital brain tumor biopsies, providing essential training data for AI models to predict cancer risks in patients. ([source](https://telanganatoday.com/tag/artificial-intelligence-and-machine-learning))
+
+- **AI Hiring Surge**: The hiring rate for AI and machine learning roles grew by 37% year-over-year in March 2026, indicating a robust demand for talent in this sector. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **NASA's AI/ML Lecture Series**: NASA is hosting a lecture series on AI and machine learning, highlighting its applications in space exploration and research, including the Artemis II mission. ([source](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-13-april-2026/))
+
+- **Fannie Mae AI Governance Framework**: Fannie Mae released a governance framework for the use of AI and machine learning in its origination and servicing practices, aiming to ensure responsible deployment. ([source](https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-04-governance-framework-use-artificial-intelligence-and-machine-learning))
+
+- **AI Governance Workshop**: A training workshop focused on operationalizing responsible AI and regulatory compliance for financial institutions is scheduled, addressing the challenges of deploying AI in production. ([source](https://www.finos.org/hosted-events/2026-04-13-ai-governance-framework-training-workshop))
+
+- **Montefiore Einstein Data Science Institute**: Montefiore Einstein has launched a new data science institute to leverage AI and machine learning for healthcare advancements, particularly in chronic disease management. ([source](https://montefioreeinsteinnow.org/update/2026-apr-13/montefiore-einstein-launches-new-data-science-institute))
+
+- **Sam Altman and AI's Future**: An article discusses the potential implications of AI development under the leadership of Sam Altman, exploring both the optimistic and pessimistic scenarios for the future of technology. ([source](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted))
