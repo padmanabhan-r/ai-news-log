@@ -271,3 +271,24 @@
 - **Montefiore Einstein Data Science Institute**: Montefiore Einstein has launched a new data science institute to leverage AI and machine learning for healthcare advancements, particularly in chronic disease management. ([source](https://montefioreeinsteinnow.org/update/2026-apr-13/montefiore-einstein-launches-new-data-science-institute))
 
 - **Sam Altman and AI's Future**: An article discusses the potential implications of AI development under the leadership of Sam Altman, exploring both the optimistic and pessimistic scenarios for the future of technology. ([source](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted))
+
+## 2026-04-14
+- **OpenAI Surpasses $25 Billion in Revenue**: OpenAI has achieved over $25 billion in annualized revenue and is considering a public listing by late 2026, indicating significant enterprise AI adoption. ([source](https://blog.mean.ceo/new-ai-model-releases-news-april-2026/))
+
+- **Anthropic's Revenue Growth**: Anthropic is nearing $19 billion in annualized revenue as it continues to expand its presence in the AI market. ([source](https://blog.mean.ceo/new-ai-model-releases-news-april-2026/))
+
+- **Florida AG Investigates OpenAI**: The Florida Attorney General is investigating OpenAI for potential risks its technology may pose to minors, highlighting ongoing concerns about AI safety. ([source](https://www.timesofai.com/))
+
+- **New AI Protein Dataset Method**: Researchers at Rice University have developed a new method for creating protein datasets using AI, which could enhance protein engineering efforts. ([source](https://www.miragenews.com/scientists-discover-new-ai-protein-dataset-1654452/))
+
+- **Pharma.AI Spring Kickoff 2026**: Insilico Medicine is launching an AI platform for drug discovery and development, integrating various AI-driven workflows for pharmaceutical research. ([source](https://www.eurekalert.org/news-releases/1123581))
+
+- **MIT AI Conference 2026**: The upcoming MIT AI Conference will feature discussions on the intersection of biotechnology and machine learning, focusing on innovative approaches in the field. ([source](https://ilp.mit.edu/AI26))
+
+- **Quantum Computing and AI Seminar**: A seminar on the convergence of quantum computing and AI will explore how these technologies are shaping future innovations in education and industry. ([source](https://www.gvsu.edu/computing/module/0ac6e40e-1b4f-4dfc-8647-a7d96aedd2cd/event/555e2a64-c8fd-40de-a09d-d13199e8844f))
+
+- **Healinno Tech's AI Surgical Robot**: Healinno Tech has introduced an AI-powered waterjet surgical robot designed for minimally invasive urology procedures, showcasing advancements in surgical technology. ([source](https://www.prnewswire.com/news-releases/healinno-tech-presente-son-robot-chirurgical-a-jet-d-eau-alimente-par-lia-pour-lurologie-mini-invasive-302709205.html))
+
+- **AI, Digital Twin, and Robotics in Construction**: A webinar will discuss the transformative impact of AI, digital twins, and robotics on construction engineering through data and automation. ([source](https://www.asce.org/education-and-events/explore-education/on-demand-webinars/ai--digital-twin--and-robotics-in-action--transforming-construction-engineering-through-data-and-automation))
+
+- **AI+Human Objectives Initiative**: An initiative exploring the implementation of algorithms in cognitive science will be discussed, focusing on the intersection of AI and human cognitive processes. ([source](https://ai.utexas.edu/events/2026-04-14/aihuman-objectives-initiative-what-does-it-mean-implement-algorithm-and-why-does))
