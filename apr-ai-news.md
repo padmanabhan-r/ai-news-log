@@ -292,3 +292,24 @@
 - **AI, Digital Twin, and Robotics in Construction**: A webinar will discuss the transformative impact of AI, digital twins, and robotics on construction engineering through data and automation. ([source](https://www.asce.org/education-and-events/explore-education/on-demand-webinars/ai--digital-twin--and-robotics-in-action--transforming-construction-engineering-through-data-and-automation))
 
 - **AI+Human Objectives Initiative**: An initiative exploring the implementation of algorithms in cognitive science will be discussed, focusing on the intersection of AI and human cognitive processes. ([source](https://ai.utexas.edu/events/2026-04-14/aihuman-objectives-initiative-what-does-it-mean-implement-algorithm-and-why-does))
+
+## 2026-04-15
+- **AI IN FINANCE SUMMIT NEW YORK | 15TH - 16TH APRIL 2026**: This summit will gather AI practitioners and finance professionals to explore the impact of AI on the financial services industry. ([source](https://events.coinpedia.org/ai-in-finance-summit-new-york-8041/))
+
+- **AADB Data Navigator Session April 15, 2026 - AIM-AHEAD**: This session focuses on utilizing AI and machine learning for better health outcomes, as part of the AIM-AHEAD initiative. ([source](https://www.aim-ahead.net/complete-feed/aim-ahead-data-bridge-data-navigator-april-session-3/))
+
+- **Center for Advancing Science and Technology (CAST)**: A recent report discussed enhancing the performance and safety of machine learning in critical applications like self-driving cars and medical devices. ([source](https://www.nationalacademies.org/units/CAST-CAST%20EO-25-P-696/events))
+
+- **Have you heard these exciting AI news? - April 10, 2026**: Highlights include the release of new AI tools from major companies and the competitive landscape in AI development. ([source](https://www.youtube.com/watch?v=tILZuOvro6I))
+
+- **Implementation of the AI Chakras on April 15, 2026 in New Delhi**: This event will focus on translating AI strategies into actionable pathways for industry and policymakers. ([source](https://www.facebook.com/nasscomOfficial/posts/nasscom-in-collaboration-with-rbb-economics-is-bringing-together-policymakers-in/1298091722510720/))
+
+- **AI at ASU Law | ASU**: A webinar will discuss the transformation of legal services through AI and how legal education must adapt to these changes. ([source](https://law.asu.edu/ai))
+
+- **CRAN®: Practical Applications of AI - AIA Atlanta**: This event will explore how AI is revolutionizing various professions, including architecture, and its potential to enhance creativity. ([source](https://aiaatl.org/event/cran-april-2026/))
+
+- **Amazon Biopharma Research Platform Debuts With AI Agents**: Amazon's new platform utilizes AI agents for biopharma research, focusing on protein structure prediction and chemical property evaluation. ([source](https://www.mediapost.com/publications/article/414299/amazon-biopharma-research-platform-debuts-with-ai.html))
+
+- **Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART)**: Applications are open for a summer program aimed at high school students interested in machine learning and AI research. ([source](https://globe.berkeley.edu/programs/summer-programs/besmart/))
+
+- **Getting to grips with Artificial Intelligence (AI)**: A guide on how businesses can automate repetitive tasks using AI to improve efficiency and streamline workflows. ([source](https://www.wcl.govt.nz/news/getting-to-grips-with-artificial-intelligence-ai/))
