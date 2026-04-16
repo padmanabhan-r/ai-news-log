@@ -313,3 +313,24 @@
 - **Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART)**: Applications are open for a summer program aimed at high school students interested in machine learning and AI research. ([source](https://globe.berkeley.edu/programs/summer-programs/besmart/))
 
 - **Getting to grips with Artificial Intelligence (AI)**: A guide on how businesses can automate repetitive tasks using AI to improve efficiency and streamline workflows. ([source](https://www.wcl.govt.nz/news/getting-to-grips-with-artificial-intelligence-ai/))
+
+## 2026-04-16
+- **Introducing Marble 1.1 by World Labs**: The latest update to Marble improves lighting and contrast while significantly reducing visual artifacts, with a new model, Marble 1.1-Plus, designed for larger and more complex environments. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **New Technique for Leaner AI Models**: MIT researchers have developed a method using control theory to make AI models leaner and faster during their learning processes. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **AI in Accelerator Operations Seminar**: A seminar will explore the application of AI and machine learning to improve operational efficiency and predictive maintenance at the Advanced Photon Source. ([Advanced Photon Source](https://www.aps.anl.gov/APS-Events/2026-04-16/beams-and-applications-seminar-applications-of-ai-and-machine-learning-to))
+
+- **AI/ML for Early Drug Discovery Conference**: This event will discuss the economic implications of AI and machine learning in early drug discovery, emphasizing the benefits of active learning in model reliability. ([Drug Discovery Chemistry](https://www.drugdiscoverychemistry.com/artificial-intelligence-part2))
+
+- **AI in Finance Summit**: Scheduled for April 15-16, this summit will gather finance professionals to discuss AI-driven innovations and their implications for the industry. ([Coinpedia](https://events.coinpedia.org/ai-in-finance-summit-new-york-8041/))
+
+- **Amazon Web Services AI Pitch Competition**: The University of Arkansas at Little Rock will host an AWS AI pitch competition, providing a platform for students to present their AI ideas to potential investors. ([UA Little Rock](https://ualr.edu/news/2026/04/15/amazon-web-services-ai-pitch-competition-comes-to-ua-little-rock-this-thursday/))
+
+- **Machine Learning & AI Working Group Meeting**: The US Geospatial Intelligence Foundation will hold a virtual meeting for its Machine Learning and AI Working Group, focusing on collaborative efforts in the field. ([USGIF](https://usgif.org/machine-learning-artificial-intelligence-working-group/))
+
+- **Multi-Agentic AI Co-Scientist for Cancer Drug Development**: A new AI system has been developed to assist in the discovery of rare cancer drugs, marking a significant advancement in pharmaceutical research. ([FirstWord Pharma](https://firstwordpharma.com/story/7180931))
+
+- **Smarter with AI Campus Tour**: An event featuring discussions on AI applications will take place at GCM, aimed at educating attendees about the latest advancements in AI technology. ([Instagram](https://www.instagram.com/p/DXJImmhgRvH/))
+
+- **IDEaS Upskilling Workshop on AI for Research**: A workshop aimed at enhancing AI research skills is fully booked, indicating strong interest in AI education and training. ([Georgia Tech](https://www.ic.gatech.edu/events/2026/04/16/ideas-upskilling-workshop-ai-research-course-full))
