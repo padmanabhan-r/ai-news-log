@@ -334,3 +334,24 @@
 - **Smarter with AI Campus Tour**: An event featuring discussions on AI applications will take place at GCM, aimed at educating attendees about the latest advancements in AI technology. ([Instagram](https://www.instagram.com/p/DXJImmhgRvH/))
 
 - **IDEaS Upskilling Workshop on AI for Research**: A workshop aimed at enhancing AI research skills is fully booked, indicating strong interest in AI education and training. ([Georgia Tech](https://www.ic.gatech.edu/events/2026/04/16/ideas-upskilling-workshop-ai-research-course-full))
+
+## 2026-04-17
+- **Google Introduces “Skills” in Chrome for Saving and Reusing AI Prompts through Gemini**: Google has launched a new feature called "Skills" in Chrome, allowing users to save and reuse AI prompts via its Gemini platform. This aims to enhance user experience and efficiency in interacting with AI. ([Times of AI](https://www.timesofai.com/))
+
+- **Novo Nordisk Collaborates with OpenAI to Accelerate Drug Development**: Novo Nordisk has partnered with OpenAI to leverage AI technologies in speeding up the drug development process, potentially transforming pharmaceutical research and innovation. ([Times of AI](https://www.timesofai.com/))
+
+- **94th Global Conference on Machine Learning and Artificial Intelligence**: The upcoming conference in Toronto will focus on practical applications of AI and machine learning, emphasizing innovation, sustainability, and digital growth from April 17-19, 2026. ([Eventbrite](https://www.eventbrite.ca/e/94th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1983509672826))
+
+- **HydroML 2026 Symposium**: A three-day symposium will address advancements in AI and machine learning related to hydrology and geosciences, focusing on scientific computing and hybrid modeling. ([University of Texas](https://oden.utexas.edu/news-and-events/events/2218---Various%20Speakers/))
+
+- **AI and ML Meetup in Montreal**: An informal gathering for developers and enthusiasts to discuss the latest advancements in AI and machine learning is scheduled for this Sunday, fostering community and knowledge sharing. ([Create With](https://www.createwith.com/event/seoul-claude-code-fde-night-apr-2026))
+
+- **AIM-AHEAD Consortium Spring Lecture**: The AIM-AHEAD Consortium is hosting a lecture series focusing on the intersection of AI and health, aiming to improve health outcomes through research and technology. ([AIM-AHEAD](https://www.aim-ahead.net/aim-ahead-latest-events/georgetown-non-medical-health-factors-workshops-spring-lecture-1/))
+
+- **Educational Remote Learning Extension**: The Ministry of Education has extended remote learning for all schools and nurseries until April 17, 2026, as a precautionary measure. ([Instagram](https://www.instagram.com/popular/ai-news-april-2026/))
+
+- **Postdoctoral Fellowships at the Institute for Foundations of Machine Learning**: The NSF-designated institute is offering postdoctoral fellowships for 2026, focusing on foundational tools for practical AI systems. ([IFML](https://www.ifml.institute/))
+
+- **Legislation on AI Training in Tennessee**: Legal analyses suggest that multiple states may introduce legislation similar to Tennessee's, which addresses the definition and implications of "training" AI systems. ([Reddit](https://www.reddit.com/r/artificial/))
+
+- **Atlantic AI Summit Call for Ideas**: An opportunity for individuals to present their AI projects at the Atlantic AI Summit on June 3, 2026, is open for submissions until April 17, 2026. ([Instagram](https://www.instagram.com/p/DXE7B8mkee5/))
