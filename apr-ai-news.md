@@ -355,3 +355,24 @@
 - **Legislation on AI Training in Tennessee**: Legal analyses suggest that multiple states may introduce legislation similar to Tennessee's, which addresses the definition and implications of "training" AI systems. ([Reddit](https://www.reddit.com/r/artificial/))
 
 - **Atlantic AI Summit Call for Ideas**: An opportunity for individuals to present their AI projects at the Atlantic AI Summit on June 3, 2026, is open for submissions until April 17, 2026. ([Instagram](https://www.instagram.com/p/DXE7B8mkee5/))
+
+## 2026-04-18
+- **AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts**: MIT researchers have created AI models that can identify atomic defects in semiconductor materials, potentially enhancing energy efficiency in various technologies. ([source](https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/))
+
+- **AIMLR2026 | Artificial Intelligence Conference**: The Annual International Conference on AI, Machine Learning, and Robotics will take place in Lisbon, Portugal, from April 16-18, 2026, focusing on recent developments in the field. ([source](https://aimlr2026.synergiasummits.com/))
+
+- **AI News - April 2026: Key Events & Releases**: New AI models based on Gemini 3 technology have been released, with notable rankings on the Arena AI text leaderboard, indicating advancements in open-source AI capabilities. ([source](https://dentro.de/ai/news/))
+
+- **Scouring TESS Data With AI Reveals A Hundred New Exoplanets**: AI and machine learning are increasingly aiding astronomy by analyzing data from telescopes, leading to the discovery of numerous exoplanets. ([source](https://www.universetoday.com/articles/scouring-tess-data-with-ai-reveals-a-hundred-new-exoplanets))
+
+- **94th Global Conference on Machine Learning and Artificial Intelligence**: Scheduled for April 17-19, 2026, in Toronto, this conference aims to share insights on innovation and sustainability in AI and machine learning. ([source](https://www.eventbrite.ca/e/94th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1983509672826))
+
+- **2026 International Conference on Artificial Intelligence and Electrical Engineering (AI-EE 2026)**: This conference will focus on the intersection of AI and electrical engineering, promoting collaboration in smart technologies. ([source](https://www.ai-ee.org/))
+
+- **Artificial Intelligence News: India’s IT Giants Face New Rivals**: As AI reshapes the tech landscape, Indian IT companies are encountering new competition from VC-backed startups, raising questions about market dynamics. ([source](https://m.economictimes.com/prime/tag/artificial-intelligence))
+
+- **SK hynix to Establish U.S. Arm Specialized in AI Solutions**: The semiconductor company SK hynix announced plans to create a U.S. division focused on developing AI solutions, highlighting the growing importance of AI in the tech industry. ([source](https://www.prnewswire.com/news-releases/sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions-302672426.html))
+
+- **International Conference on Data Science in Artificial Intelligence**: This event in Kyiv aims to deepen understanding of data science's role in AI, targeting professionals in various tech fields. ([source](https://www.createwith.com/event/kyiv-international-conference-on-data-science-in-artificial-intel-apr-2026))
+
+- **Themes Announced: Digital World Conference 2026**: The upcoming conference will focus on the role of AI in social development, scheduled for April 21, 2026, at the UN in Geneva. ([source](https://www.facebook.com/UNRISD/posts/-themes-announced-digital-world-conference-2026-dwc-2026-artificial-intelligence/1421231723376201/))
