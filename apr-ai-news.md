@@ -376,3 +376,24 @@
 - **International Conference on Data Science in Artificial Intelligence**: This event in Kyiv aims to deepen understanding of data science's role in AI, targeting professionals in various tech fields. ([source](https://www.createwith.com/event/kyiv-international-conference-on-data-science-in-artificial-intel-apr-2026))
 
 - **Themes Announced: Digital World Conference 2026**: The upcoming conference will focus on the role of AI in social development, scheduled for April 21, 2026, at the UN in Geneva. ([source](https://www.facebook.com/UNRISD/posts/-themes-announced-digital-world-conference-2026-dwc-2026-artificial-intelligence/1421231723376201/))
+
+## 2026-04-19
+- **Cursor 3.0 and the Agentic AI Explosion**: A discussion on the latest advancements in AI, including Cursor 3.0 and Anthropic's managed agents service, highlights the competitive landscape of agentic AI technologies. ([source](https://www.youtube.com/watch?v=tILZuOvro6I))
+
+- **Terence Tao's New Framework for AI**: Fields Medalist Terence Tao and Tanya Klowden propose a "Copernican View of Intelligence" in their recent paper, suggesting a shift in how we understand AI's capabilities. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **OSS Showcases AI Solutions at Sea-Air-Space Exposition**: One Stop Systems will present its high-performance AI computing solutions tailored for edge applications at an upcoming military exposition. ([source](https://finance.yahoo.com/sectors/technology/articles/oss-plans-showcase-specialized-high-120000957.html))
+
+- **Time Series Analysis in Production**: The HARTING Technology Group discusses how time series analyses can enhance maintenance planning and energy efficiency in production without requiring new hardware. ([source](https://www.harting.com/en-US/news/time-series-as-the-future-of-production))
+
+- **Google Accelerator for Indian AI Startups**: Google launches an accelerator program aimed at supporting seed to Series A AI startups in India, providing mentorship and resources for growth. ([source](https://www.ictworks.org/google-accelerator-support/))
+
+- **Humanoid Robot Half-Marathon in Beijing**: A unique event featuring humanoid robots will take place in Beijing, showcasing advancements in robotics and AI. ([source](https://www.instagram.com/reel/DXMsxQAjb1z/))
+
+- **AI's Impact on Production Efficiency**: An article emphasizes the role of AI in optimizing production processes, highlighting measurable benefits through existing data utilization. ([source](https://www.harting.com/en-HU/news/time-series-as-the-future-of-production))
+
+- **Emerging Technologies Master's Degree at NYU Tandon**: NYU Tandon offers a Master's program focusing on emerging technologies, with a strong emphasis on AI and machine learning among other specializations. ([source](https://engineering.nyu.edu/events/2026/04/19/nyu-tandon-emerging-technologies-ms-information-session))
+
+- **"Everyone on Earth Will Die" Book on Superintelligence**: A new book explores the implications of superintelligent AI, raising existential questions about its potential impact on humanity. ([source](https://www.mk.co.kr/en/culture/12020859))
+
+- **Measuring the AI Boom**: An article in The New York Times examines the metrics and indicators that define the current AI boom, focusing on companies like Anthropic and OpenAI. ([source](https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html))
