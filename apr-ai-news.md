@@ -460,3 +460,24 @@
 - **AI Skills Day Virtual Event**: A promotional event on April 22, 2026, will explore how organizations can leverage AI tools like Microsoft Copilot to enhance governance and return on investment. ([LinkedIn](https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7449536314737258496-KpXV))
 
 - **Foundations of Machine Learning | Santa Fe Institute**: An event discussing new paradigms in machine learning and its applications in complex systems is scheduled, focusing on the foundational aspects of the field. ([Santa Fe Institute](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+## 2026-04-23
+- **AI and Machine Learning Courses (2026)**: MIT xPRO and Harvard Medical School are offering online courses in AI and machine learning starting April 23, 2026, focusing on applications in healthcare and foundational AI principles ([source](https://emeritus.org/programs/online-artificial-intelligence-machine-learning-courses/)).
+
+- **2026 International Conference List on Artificial Intelligence**: A comprehensive list of upcoming AI conferences, including the CVPR in Denver from June 3-7, 2026, with an early bird registration deadline on April 23, 2026 ([source](https://www.mi-research.net/news/712)).
+
+- **Artificial Intelligence Research >> ICLR 2026**: Georgia Tech will present its research at the International Conference on Learning Representations (ICLR) from April 23-27, 2026, focusing on advancements in representation learning and deep learning ([source](https://sites.gatech.edu/research/iclr-2026/)).
+
+- **Fannie Mae's Latest Servicing Updates and AI Governance**: Fannie Mae released a governance framework for the use of AI and machine learning in lending, outlined in Lender Letter LL-2026-04, emphasizing regulatory compliance ([source](https://padgettlawgroup.com/regulatory-affairs-blog/guidance-on-ai)).
+
+- **15 Things You Should Know About Artificial Intelligence and Machine Learning in 2026**: An article discussing key insights and trends in AI and machine learning, highlighting the evolving landscape of these technologies in various sectors ([source](https://www.thedetroitbureau.com/www-news/15-things-you-should-know-about-artificial-intelligence-and-machine-learning-in-2026-dhz4c81c4rqo)).
+
+- **What's next in AI: 7 trends to watch in 2026**: Microsoft outlines seven emerging trends in AI for 2026, indicating a shift towards AI as a collaborative partner in various industries ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)).
+
+- **BluSky AI Inc. to Present at the AI & Tech Virtual Investor Conference**: BluSky AI Inc. announced its participation in an upcoming virtual investor conference, showcasing its advancements in AI infrastructure and model training ([source](https://markets.businessinsider.com/news/stocks/blusky-ai-inc-to-present-at-the-ai-tech-virtual-investor-conference-april-23rd-1036048398)).
+
+- **Google puts AI agents at heart of its enterprise money-making push**: Google is integrating AI agents into its enterprise solutions to enhance productivity and drive revenue, marking a significant strategic shift in its business model ([source](https://www.taipeitimes.com/News/biz/archives/2026/04/23/2003856068)).
+
+- **MCML - Girls' Day 2026**: The Munich Center for Machine Learning is hosting a workshop on AI and creativity, aimed at engaging young girls in technology and AI fields on April 23, 2026 ([source](https://mcml.ai/events/2026-04-23-girlsday-2026/)).
+
+- **Foundations of Machine Learning | Santa Fe Institute**: The Santa Fe Institute is hosting an event focused on new paradigms in machine learning, discussing complex systems and their implications for AI research ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
