@@ -481,3 +481,24 @@
 - **MCML - Girls' Day 2026**: The Munich Center for Machine Learning is hosting a workshop on AI and creativity, aimed at engaging young girls in technology and AI fields on April 23, 2026 ([source](https://mcml.ai/events/2026-04-23-girlsday-2026/)).
 
 - **Foundations of Machine Learning | Santa Fe Institute**: The Santa Fe Institute is hosting an event focused on new paradigms in machine learning, discussing complex systems and their implications for AI research ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
+
+## 2026-04-24
+- **Microsoft Launches New MAI Models**: Microsoft has introduced three new MAI models on Foundry, boasting superior speed, quality, and efficiency compared to competitors. Pricing starts at $0.36 per hour for MAI-Transcribe-1. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **Factory AI Valuation Reaches $1.5B**: The enterprise coding startup Factory AI has achieved a valuation of $1.5 billion, highlighting the growing demand for AI solutions in coding and software development. ([source](https://www.youtube.com/watch?v=We0SFITCtW4))
+
+- **AI for Materials Discovery Lecture Series**: Princeton's AI Lab will host a distinguished lecture series focusing on the role of AI in materials discovery, emphasizing its potential to revolutionize the field. ([source](https://ai.princeton.edu/news/2026/friday-424-ai-lab-distinguished-lecture-series-explore-ai-materials-discovery))
+
+- **Generative AI's Impact on Content Creation**: Generative AI tools, including an upgraded version of DALL-E by OpenAI, are transforming content creation and strategic decision-making processes across various industries. ([source](https://aiprofitautomation.com/blog/top-ai-news-updates-for-april-2026-you-must-know))
+
+- **2026 AI Excellence Awards Announced**: Dr. Julia Penfield of VelocityEHS was recognized as the Overall Winner for her contributions to AI, including securing 14 U.S. patents and leading a team of researchers. ([source](https://www.bintelligence.com/posts/2026-artificial-intelligence-excellence-awards-honoring-the-organizations-products-teams-and-individuals-defining-what-ai-can-actually-do))
+
+- **Google's AI Strategy for Enterprises**: Google is integrating AI agents into its enterprise strategies to enhance its revenue-generating capabilities, reflecting a broader trend in the tech industry. ([source](https://www.manilatimes.net/2026/04/24/business/foreign-business/google-puts-ai-agents-at-heart-of-its-enterprise-money-making-push/2327363/amp))
+
+- **AI Adoption in Medicine Grows**: Over 80% of physicians now use AI in their practice, with a significant increase in confidence regarding AI's ability to improve patient care since 2023. ([source](https://www.ama-assn.org/practice-management/digital-health/augmented-intelligence-medicine))
+
+- **Microsoft's $18B AI Investment in Australia**: Microsoft has announced an $18 billion investment in AI initiatives in Australia, signaling its commitment to expanding AI capabilities in the region. ([source](https://intellectia.ai/news/stock/slb-to-hold-conference-call-on-april-24-2026))
+
+- **Anthropic and OpenAI Developments**: Recent discussions indicate a potential thaw in relations between the U.S. government and AI firm Anthropic, amidst ongoing competition with OpenAI. ([source](https://m.economictimes.com/tech/artificial-intelligence))
+
+- **2027 AI Vice President Candidates Announced**: The Appraisal Institute has announced candidates for the 2027 AI Vice President position, highlighting ongoing leadership developments in the AI sector. ([source](https://www.appraisalinstitute.org/insights-and-resources/insights/newsroom/ai-news-releases/2026-04-07-2027-ai-vp-candidates-announced))
