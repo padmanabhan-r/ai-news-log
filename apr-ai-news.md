@@ -502,3 +502,24 @@
 - **Anthropic and OpenAI Developments**: Recent discussions indicate a potential thaw in relations between the U.S. government and AI firm Anthropic, amidst ongoing competition with OpenAI. ([source](https://m.economictimes.com/tech/artificial-intelligence))
 
 - **2027 AI Vice President Candidates Announced**: The Appraisal Institute has announced candidates for the 2027 AI Vice President position, highlighting ongoing leadership developments in the AI sector. ([source](https://www.appraisalinstitute.org/insights-and-resources/insights/newsroom/ai-news-releases/2026-04-07-2027-ai-vp-candidates-announced))
+
+## 2026-04-25
+- **Microsoft Launches New MAI Models**: Microsoft has introduced three new MAI models on Foundry, boasting superior speed, quality, and efficiency, with competitive pricing starting at $0.36 per hour. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **OpenAI vs Anthropic**: A significant funding round of $1.5 billion for a coding startup highlights the competitive landscape in AI, particularly between major players like OpenAI and Anthropic. ([source](https://www.youtube.com/watch?v=We0SFITCtW4))
+
+- **AI Conference at University of North Texas**: The University of North Texas is set to host an AI conference on April 25, 2026, focusing on student innovation in AI. ([source](https://www.linkedin.com/posts/society-for-student-ai-innovation_aiconference-aicommunity-studentvolunteers-activity-7437142763751641088-cT1i))
+
+- **Trends in AI for 2026**: A report outlines seven key trends in AI for 2026, emphasizing the transition of AI from a tool to a collaborative partner across various industries. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/))
+
+- **Advancements in AI Customer Support**: Major improvements in chatbot technology are enabling more intuitive and human-like interactions, making AI a critical component of customer service. ([source](https://aiprofitautomation.com/blog/top-ai-news-and-updates-you-cannot-miss-in-april-2026-1776407450))
+
+- **NIH Funds AI Research for Alzheimer’s**: The NIH has awarded $12.5 million to researchers at the University of Maryland to utilize AI in analyzing biobank data for Alzheimer’s research. ([source](https://cmns.umd.edu/news-events/news/nih-awards-125m-alzheimers-researchers-use-ai-scour-biobank-data))
+
+- **AI in Cancer Research**: A discussion highlights the role of AI as a collaborator in cancer research and clinical care, showcasing its potential to enhance treatment strategies. ([source](https://ascopost.com/issues/april-25-2026/ai-as-collaborator-in-cancer-research-and-in-clinical-care/))
+
+- **Partnership Between SUNY and Google**: The State University of New York has partnered with Google to integrate advanced AI learning technologies for students and faculty, aiming to lead in AI education. ([source](https://www.linkedin.com/posts/society-for-student-ai-innovation_aiconference-aicommunity-studentvolunteers-activity-7437142763751641088-cT1i))
+
+- **Emergence of Small Business AI Tools**: New AI applications tailored for small businesses are gaining traction, significantly improving efficiency and productivity. ([source](https://aiprofitautomation.com/blog/top-ai-news-and-updates-you-cannot-miss-in-april-2026-1776407450))
+
+- **Breakthrough Video-to-Video AI Models**: A report discusses the latest advancements in video-to-video AI models, which are expected to have significant implications in various sectors. ([source](https://www.tbsnews.net/tech/2026s-breakthrough-video-video-ai-models-you-must-know-1420336))
