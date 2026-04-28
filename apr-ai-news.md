@@ -565,3 +565,24 @@
 - **Global CPU leader stock surges violently, a new AI logic mainline emerges**: A report highlights a significant investment in AI technology aimed at improving industrial AI deployment, indicating a shift towards CPU-based solutions when GPUs are insufficient. ([source](https://recentai.news/))
 
 - **AIM-AHEAD Coordinating Center**: The AIM-AHEAD Consortium focuses on leveraging AI and machine learning to improve health outcomes, with upcoming events aimed at fostering collaboration in healthcare applications. ([source](https://www.aim-ahead.net/complete-feed/georgetown-ai-for-health-care-applications-spring-lecture-5/))
+
+## 2026-04-28
+- **Google Launches Gemini 3.1**: Google has unveiled its latest AI model, Gemini 3.1, as part of its ongoing advancements in artificial intelligence. This launch is part of a broader trend where CEOs are reportedly increasing AI spending by 40% in 2026. ([source](https://www.instagram.com/popular/ai-news-april-28-2026/))
+
+- **MLPerf Inference v6.0 Released**: ML Commons announced the release of MLPerf Inference v6.0, marking the first major benchmark release of the year, showcasing significant progress in AI performance metrics. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **Online Info Event for AI & Machine Learning Degree**: Lucerne University is hosting an online information session about its new Bachelor of Science program in Artificial Intelligence & Machine Learning, aimed at prospective students. ([source](https://www.hslu.ch/en/lucerne-school-of-information-technology/calendar/events/2026/04/28/online-infoveranstaltung-bachelor-artificial-intelligence-machine-learning/))
+
+- **Synthetic Data Conference**: The upcoming conference on Synthetic Data for AI and Machine Learning will feature sessions on generative AI, highlighting the latest tools and techniques in the field. ([source](https://spie.org/DS26/conferencedetails/synthetic-data-for-artificial-intelligence-and-machine-learning))
+
+- **AI-Powered Materials Seminar Series**: Penn State University is hosting a seminar series focused on the intersection of AI and materials science, scheduled for April 28 and May 1, 2026. ([source](https://www.psu.edu/news/institute-computational-and-data-sciences/events/ai-powered-materials-seminar-series-april-28))
+
+- **Breakthroughs in AI Chips**: Recent advancements in AI chips and coding automation have been reported, including Google's new AI chips and significant infrastructure deals in enterprise AI. ([source](https://naukripulse.com/2026/04/23/latest-ai-news-breakthroughs-in-ai-chips-coding-automation/))
+
+- **Omnicom Expands Adobe Partnership**: Omnicom has announced an expansion of its partnership with Adobe to enhance industry-specific AI-driven marketing solutions, aiming to transform marketing strategies. ([source](https://www.prnewswire.com/news-releases/omnicom-expands-adobe-partnership-to-drive-industry-specific-ai-powered-marketing-transformation-302749094.html))
+
+- **ODSC AI East Conference**: The ODSC AI East Conference is set to take place in Boston from April 28 to 30, featuring discussions on large language models and agentic AI among other topics. ([source](https://globalai.community/chapters/boston/events/odsc-ai-east-conference-boston-april-28-30/))
+
+- **Machine Learning for Faster Matheuristics Seminar**: A seminar on advancements in machine learning for faster matheuristics will be held, featuring speaker Emma Frejinger from the Université de Montréal. ([source](https://aihub.org/2026/04/02/forthcoming-machine-learning-and-ai-seminars-april-2026-edition/))
+
+- **AHA Symposium Livestream**: The Media Lab's Advancing Humans with AI program will host a free livestream of the 2026 AHA Symposium, focusing on the integration of AI in various fields. ([source](https://www.instagram.com/p/DXhx1_Xif7p/))
