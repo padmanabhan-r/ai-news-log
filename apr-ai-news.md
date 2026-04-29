@@ -586,3 +586,24 @@
 - **Machine Learning for Faster Matheuristics Seminar**: A seminar on advancements in machine learning for faster matheuristics will be held, featuring speaker Emma Frejinger from the Université de Montréal. ([source](https://aihub.org/2026/04/02/forthcoming-machine-learning-and-ai-seminars-april-2026-edition/))
 
 - **AHA Symposium Livestream**: The Media Lab's Advancing Humans with AI program will host a free livestream of the 2026 AHA Symposium, focusing on the integration of AI in various fields. ([source](https://www.instagram.com/p/DXhx1_Xif7p/))
+
+## 2026-04-29
+- **Artificial Intelligence and Machine Learning | NCNGM**: The Third International Conference on Artificial Intelligence and Machine Learning (AIM-2026) is scheduled for April 27-29, 2026, in San Francisco, focusing on AI research and applications ([source](https://www.nextgenmfg.org/event-details/artificial-intelligence-and-machine-learning)).
+
+- **AI News Briefs BULLETIN BOARD for April 2026**: Highlights include the release of Marble 1.1, which enhances visual quality, and a new MIT technique that optimizes AI models for efficiency during training ([source](https://radicaldatascience.wordpress.com/2026/04/24/ai-news-briefs-bulletin-board-for-april-2026/)).
+
+- **Global AI regulatory update - April 2026**: The U.S. administration's strategy may limit state-level AI regulations, with significant laws like the Colorado AI Act set to take effect on June 30, 2026 ([source](https://www.eversheds-sutherland.com/en/global/insights/gloabl-ai-bulletin-april-2026)).
+
+- **Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications IV**: This conference will address advancements in synthetic data for AI, featuring sessions on generative AI and its applications on April 29, 2026 ([source](https://spie.org/DS26/conferencedetails/synthetic-data-for-artificial-intelligence-and-machine-learning)).
+
+- **AI Day**: George Mason University is hosting AI Day on April 29, 2026, focusing on AI literacy and governance across various disciplines ([source](https://www.gmu.edu/ai-day)).
+
+- **Windows 11 Update Investigation**: An investigation reveals that the significant increase in Windows 11 update sizes, from 300MB in 2024 to 5GB in 2026, is partially attributed to AI features, though other factors are also involved ([source](https://www.windowslatest.com/2026/04/29/i-investigated-windows-11s-massive-5gb-monthly-msu-updates-ai-is-only-part-of-the-problem/)).
+
+- **HotCSE Seminar: ShengYun (Anthony) Peng**: A seminar at Georgia Tech will discuss AI's role in lifelong learning, scheduled for April 29, 2026, as part of ongoing educational initiatives in computing ([source](https://www.cc.gatech.edu/events/2026/04/29/hotcse-seminar-shengyun-anthony-peng)).
+
+- **Artificial Intelligence & Machine Learning Events**: A list of upcoming events related to AI and machine learning, including conferences and symposiums, highlighting the global interest in these fields ([source](https://aiml.events/)).
+
+- **KSLaw AI and Machine Learning Resources**: A PDF document detailing KSLaw's capabilities in AI and machine learning, emphasizing legal perspectives and upcoming speaking engagements ([source](https://www.kslaw.com/capabilities/artificial-intelligence-ai-and-machine-learning.pdf?locale=en)).
+
+- **Get Involved with AI Research**: The Schmidt Center is hosting a challenge focused on predicting gene perturbations in fat cells, encouraging participation in AI and biology intersections ([source](https://www.ericandwendyschmidtcenter.org/get-involved)).
