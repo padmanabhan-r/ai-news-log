@@ -607,3 +607,24 @@
 - **KSLaw AI and Machine Learning Resources**: A PDF document detailing KSLaw's capabilities in AI and machine learning, emphasizing legal perspectives and upcoming speaking engagements ([source](https://www.kslaw.com/capabilities/artificial-intelligence-ai-and-machine-learning.pdf?locale=en)).
 
 - **Get Involved with AI Research**: The Schmidt Center is hosting a challenge focused on predicting gene perturbations in fat cells, encouraging participation in AI and biology intersections ([source](https://www.ericandwendyschmidtcenter.org/get-involved)).
+
+## 2026-04-30
+- **Introducing Marble 1.1 by World Labs**: The latest version of Marble enhances lighting and contrast while significantly reducing visual artifacts, with a new model designed for creating larger, more complex environments. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **New technique makes AI models leaner and faster**: MIT researchers have developed a method using control theory that allows AI models to become more efficient during the learning process. ([source](https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/))
+
+- **Machine learning algorithm predicts Micron stock price**: An AI prediction tool estimates Micron's stock price target for April 30, 2026, indicating potential volatility in the market. ([source](https://www.mexc.co/news/1028514))
+
+- **High Roller Technologies expands AI capabilities**: The company announced increased investments in AI to support its upcoming U.S. prediction markets launch, creating a new leadership position in applied AI. ([source](https://www.manilatimes.net/2026/04/30/tmt-newswire/globenewswire/high-roller-technologies-expands-ai-capabilities-ahead-of-planned-us-prediction-markets-launch-with-partner-cryptocom/2332062))
+
+- **Machine learning algorithm predicts Bitcoin price**: An AI prediction tool suggests a bullish outlook for Bitcoin prices as market participants await regulatory developments from the SEC. ([source](https://www.mexc.com/news/1032181))
+
+- **AI Day for Federal Statistics 2026**: A workshop scheduled for April 30 will explore the implications of AI for federal statistics, focusing on training and capacity building. ([source](https://www.nationalacademies.org/units/DBASSE-CNSTAT-20-P-198/event/46442))
+
+- **Machine learning algorithm predicts Google stock price**: An AI tool forecasts potential volatility for Alphabet's stock, despite strong fundamentals suggesting a positive long-term outlook. ([source](https://finbold.com/machine-learning-algorithm-predicts-google-stock-price-on-april-30-2026/))
+
+- **A.I. Helps Online Ad Businesses Boom**: Companies like DribbleUp have successfully leveraged AI for targeted advertising, resulting in increased sales and improved marketing efficiency. ([source](https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html))
+
+- **Qualcomm Launches 2026 AI Program for Innovators in APAC**: Startups in Singapore, Japan, and South Korea can apply for a program offering grants, mentorship, and training to advance their AI innovations. ([source](https://www.linkedin.com/posts/adrian-c-1a701787_qualcomm-ai-program-for-innovator-apac-activity-7424736699772993537-rdZ1))
+
+- **The 10 Best AI Influencers and Creators to Follow in 2026**: A list highlighting key figures in the AI landscape, essential for staying informed about rapid developments in the field. ([source](https://pasqualepillitteri.it/en/news/240/best-ai-influencers-creators-2026))
