@@ -126,3 +126,24 @@
 - **Artificial Intelligence - arXiv**: A new paper on universal smoothness via Bernstein polynomials for activation functions has been accepted for the 2026 International Conference On Intelligent Computing. ([source](https://arxiv.org/list/cs.AI/recent))
 
 - **AI Magazine: The Latest AI News, Insights and Reports**: Google Cloud is reportedly working on funding partners to adopt agentic AI, while legal issues arise involving OpenAI CEO Sam Altman and Elon Musk. ([source](https://aimagazine.com/))
+
+## 2026-05-07
+- **AI News: May 7, 2026 — Latest Model Releases and AI Announcements**: A comprehensive update on recent model releases and product launches in the AI sector, highlighting key developments from leading AI labs. ([source](https://aitoolsrecap.com/Blog/ai-news-may-7-2026))
+
+- **Recent AI Developments in 2026: Latest AI Trends**: Discusses the increasing role of AI in automated testing and quality assurance, emphasizing its potential to reduce costs and speed up app development. ([source](https://hqsoftwarelab.com/blog/latest-ai-developments/))
+
+- **AI News: Latest Artificial Intelligence Updates (2026)**: Highlights the emergence of reasoning models that enhance AI's ability to process information through chain-of-thought techniques, marking a significant advancement since the launch of ChatGPT. ([source](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **State of AI: May 2026**: Reports on the merger between Cohere and Aleph Alpha, aimed at creating a "sovereign AI" alternative to the US-China tech landscape, with implications for European AI development. ([source](https://nathanbenaich.substack.com/p/state-of-ai-may-2026))
+
+- **Agentic AI News + AI Breakthroughs + AI Developments | 2026**: A former Google engineer was convicted for stealing trade secrets related to AI infrastructure, including sensitive information about Tensor Processing Units. ([source](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **14 AI Trends 2026: Shadow AI, Humanoid Robots, and More**: Explores key AI trends for 2026, focusing on the shift towards practical AI systems and responsible deployment strategies. ([source](https://365datascience.com/trending/ai-trends/))
+
+- **AI Breakthroughs in 2026: The Year of Agentic AI**: Örebro University announced a new AI system capable of detecting dementia with over 97% accuracy, utilizing federated learning for privacy. ([source](https://kersai.com/ai-breakthroughs-in-2026/))
+
+- **Bill Gates Skips India AI Impact Summit Keynote in Last-Minute Move**: Bill Gates' unexpected absence from the AI Impact Summit in India raises questions about the event's significance and his involvement in AI discussions. ([source](https://www.timesofai.com/))
+
+- **NSF at the AI+ Expo**: The National Science Foundation is seeking input on AI innovations to enhance health systems, aiming to address disparities and improve population health. ([source](https://www.nsf.gov/events/nsf-ai-expo-26/2026-05-07))
+
+- **Rapid embrace of AI in China may shape how it is used globally**: Discusses the rapid development and deployment of AI technologies by Chinese companies, which could influence global AI practices and standards. ([source](https://www.dailycamera.com/2026/05/06/china-ai/))
