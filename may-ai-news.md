@@ -147,3 +147,24 @@
 - **NSF at the AI+ Expo**: The National Science Foundation is seeking input on AI innovations to enhance health systems, aiming to address disparities and improve population health. ([source](https://www.nsf.gov/events/nsf-ai-expo-26/2026-05-07))
 
 - **Rapid embrace of AI in China may shape how it is used globally**: Discusses the rapid development and deployment of AI technologies by Chinese companies, which could influence global AI practices and standards. ([source](https://www.dailycamera.com/2026/05/06/china-ai/))
+
+## 2026-05-08
+- **Former Google Engineer Convicted of Trade Secret Theft**: A former Google software engineer was found guilty of stealing over 500 confidential files related to Google's AI infrastructure, including details on TPU chips. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **AI Designs Thermoelectric Generators Faster**: New AI technology has been developed that can design thermoelectric generators 10,000 times faster than traditional methods, potentially revolutionizing energy efficiency. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence/))
+
+- **AI Customer Research Insights**: A report emphasizes the use of AI to enhance customer understanding, making research more proactive and data-driven for businesses. ([Score](https://www.score.org/mo/kansas-city/business-education/20260508-ai-customer-research-using-ai-understand-your-audience-better/))
+
+- **Rapid Improvements in AI Technologies**: The AI landscape is witnessing significant advancements in machine learning models, natural language processing, and autonomous systems, prompting a race among companies to innovate. ([MinsAii](https://minsaai.com/ai-news-today/))
+
+- **AI News Digest for May 8, 2026**: A summary of the latest AI model releases and announcements for May 8, 2026, highlighting ongoing developments in the field. ([AIToolsRecap](https://aitoolsrecap.com/Blog/ai-news-may-8-2026))
+
+- **IAIFI Colloquium on Women in Machine Learning**: The NSF Institute for Artificial Intelligence and Fundamental Interactions will host a colloquium focused on women in machine learning, promoting diversity in the field. ([Google Groups](https://groups.google.com/g/women-in-machine-learning/c/7R6_t6avhNE))
+
+- **HydroML 2026 Symposium Announcement**: The upcoming HydroML symposium will explore the integration of AI and machine learning in hydrological and geological sciences, aiming to enhance predictive capabilities. ([University of Texas](https://oden.utexas.edu/news-and-events/events/2215---Various%20Speakers/))
+
+- **NASA AI Initiatives**: NASA continues to advance its AI efforts, including seminars and initiatives focusing on the application of AI in scientific research and exploration. ([NASA Science](https://science.nasa.gov/category/organizations/ocio/dt/ai/))
+
+- **MediaTek Launches AI Data Center**: MediaTek has announced the launch of a new AI data center, which is expected to enhance its capabilities in AI processing and applications. ([Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/05/08/2003856938))
+
+- **Georgetown Non-Medical Health Factors Workshops**: The AIM-AHEAD Consortium is hosting workshops to discuss the role of AI and machine learning in addressing non-medical health factors, promoting better health outcomes. ([AIM-AHEAD](https://www.aim-ahead.net/complete-feed/georgetown-non-medical-health-factors-workshops-spring-office-hours-2/))
