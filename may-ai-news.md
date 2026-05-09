@@ -168,3 +168,24 @@
 - **MediaTek Launches AI Data Center**: MediaTek has announced the launch of a new AI data center, which is expected to enhance its capabilities in AI processing and applications. ([Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/05/08/2003856938))
 
 - **Georgetown Non-Medical Health Factors Workshops**: The AIM-AHEAD Consortium is hosting workshops to discuss the role of AI and machine learning in addressing non-medical health factors, promoting better health outcomes. ([AIM-AHEAD](https://www.aim-ahead.net/complete-feed/georgetown-non-medical-health-factors-workshops-spring-office-hours-2/))
+
+## 2026-05-09
+- **Former Google Engineer Convicted for Trade Secret Theft**: A former Google software engineer has been found guilty of stealing over 500 confidential files related to Google's AI infrastructure, including details on TPU chips and software. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **AI Agents Transition to Full Deployment**: Enterprises have shifted from experimenting with AI agents to deploying them for tasks such as code development and customer service, significantly expanding automation capabilities. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **Qwen Models Gain Popularity**: Alibaba's Qwen family of models, particularly Qwen2.5-1.5B-Instruct, has achieved 8.85 million downloads, showcasing its versatility across various applications. ([MIT Technology Review](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/))
+
+- **Kazakhstan's AI Ambitions**: Kazakhstan is developing AI systems for local-language digital services and drilling monitoring, aiming to establish itself as a leader in Central Asia's AI landscape. ([Klover.ai](https://www.klover.ai/kazakhstan_ai_ambitions_to_dominate_central_asia_indepth_analysis_2026/))
+
+- **AI in Newsrooms**: At the World Journalism Congress 2026, discussions highlighted AI's transformative impact on journalism, with experts expressing both concern and optimism about its role in the industry. ([Asia News Network](https://asianews.network/ann-exclusive-of-bytes-and-bridges-ai-in-the-newsroom-takes-centre-stage-at-wjc-2026/))
+
+- **Global Volcano Monitoring Adopts AI**: The global approach to volcano monitoring is increasingly incorporating AI-assisted forecasting, enhancing predictive capabilities for volcanic activity. ([Manila Times](https://www.manilatimes.net/2026/05/09/business/science-technology/global-volcano-monitoring-shifts-toward-ai-assisted-forecasting/2339622))
+
+- **AI's Role in Business**: A recent article emphasizes that AI should be viewed as a servant to enhance human capabilities rather than a master that dictates actions. ([Manila Times](https://www.manilatimes.net/2026/05/09/business/top-business/ai-is-our-servant-not-our-master/2339658/amp))
+
+- **Advancements in AI Hardware**: Research highlights that better hardware, such as analog AI chips, could significantly improve the efficiency of deep learning processes. ([Artificial Intelligence News](https://www.artificialintelligence-news.com/))
+
+- **AI's Rapid Evolution**: The latest trends indicate that AI tools are becoming more personalized, with companies enhancing security measures and governments expanding AI applications across various sectors. ([AI ML Insights](https://aimlinsights.com/category/artificial-intelligence-ai-news/))
+
+- **Cognitive Accumulation in AI Research**: A new approach in AI research focuses on cognitive accumulation, suggesting that the evolution of AI capabilities will depend on structured training and model scaling. ([State of AI](https://nathanbenaich.substack.com/p/state-of-ai-may-2026))
