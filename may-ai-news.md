@@ -189,3 +189,24 @@
 - **AI's Rapid Evolution**: The latest trends indicate that AI tools are becoming more personalized, with companies enhancing security measures and governments expanding AI applications across various sectors. ([AI ML Insights](https://aimlinsights.com/category/artificial-intelligence-ai-news/))
 
 - **Cognitive Accumulation in AI Research**: A new approach in AI research focuses on cognitive accumulation, suggesting that the evolution of AI capabilities will depend on structured training and model scaling. ([State of AI](https://nathanbenaich.substack.com/p/state-of-ai-may-2026))
+
+## 2026-05-10
+- **State of AI - May 2026**: Discusses the evolving landscape of AI, focusing on scaling axes for general agent intelligence, including model size and training data, and the importance of cognitive accumulation in machine learning engineering. ([source](https://nathanbenaich.substack.com/p/state-of-ai-may-2026))
+
+- **Global AI Breakthroughs 2026: USA-China Trends**: Highlights global advancements in AI, emphasizing Europe's ethical AI frameworks and Asia's use of open-source models, particularly India's AI applications in agriculture. ([source](https://www.academicjobs.com/global-news/global-ai-developments-and-breakthroughs-trending-worldwide-from-usa-to-china-in-2026-646))
+
+- **Govt plans 20,000 AI training programmes**: Pakistan's Ministry of IT and Telecommunication announces a plan to launch 20,000 online AI training programs aimed at upskilling millions, though concerns about infrastructure and quality remain. ([source](https://tribune.com.pk/story/2607234/govt-plans-20000-ai-training-programmes))
+
+- **Game-changing impacts of AI/ML in bridging the financial inclusion gap**: Explores how AI and machine learning technologies are transforming financial inclusion, particularly in underserved communities. ([source](https://www.manilatimes.net/2026/05/10/business/sunday-business-it/game-changing-impacts-of-aiml-in-bridging-the-financial-inclusion-gap/2339949))
+
+- **2026 10 Things That Matter in AI Right Now**: A roundup of significant AI trends and technologies that are currently shaping the field and influencing future developments. ([source](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/))
+
+- **Solving AI's Memory Bottleneck With Algorithms and Coding Theory**: Researchers discuss new algorithms that could significantly enhance AI memory efficiency, achieving faster processing with reduced energy consumption. ([source](https://viterbischool.usc.edu/news/2026/05/10-times-faster-10-times-less-energy-solving-ais-memory-bottleneck-with-algorithms-and-coding-theory/))
+
+- **The Debate Over AI Intelligence Systems Misses the Point**: Analyzes the rapid pace of AI development and the challenges it poses to existing institutions, suggesting a disconnect between technological advancement and regulatory frameworks. ([source](https://blogs.timesofisrael.com/the-debate-over-ai-intelligence-systems-misses-the-point/))
+
+- **ASL and AI tools - Position Statements**: Discusses the implications of AI tools in relation to American Sign Language, highlighting ethical considerations and the need for responsible AI deployment. ([source](https://gallaudet.edu/linguistics/position-statements/asl-and-ai-tools/))
+
+- **Accelerated Innovation: In Less Than a Year, We’ve Seen a Decade's Worth of AI and IP Developments**: Reflects on the rapid advancements in AI and intellectual property law, noting the increasing public awareness and discourse surrounding these issues. ([source](https://ipwatchdog.com/2023/08/13/accelerated-innovation-less-year-weve-seen-decades-worth-ai-ip-developments/))
+
+- **AI in Oncology**: Discusses the role of AI in oncology, including its potential applications and the ongoing research aimed at improving cancer treatment outcomes. ([source](https://ascopost.com/topics/issues-in-oncology/ai-in-oncology/))
