@@ -210,3 +210,24 @@
 - **Accelerated Innovation: In Less Than a Year, We’ve Seen a Decade's Worth of AI and IP Developments**: Reflects on the rapid advancements in AI and intellectual property law, noting the increasing public awareness and discourse surrounding these issues. ([source](https://ipwatchdog.com/2023/08/13/accelerated-innovation-less-year-weve-seen-decades-worth-ai-ip-developments/))
 
 - **AI in Oncology**: Discusses the role of AI in oncology, including its potential applications and the ongoing research aimed at improving cancer treatment outcomes. ([source](https://ascopost.com/topics/issues-in-oncology/ai-in-oncology/))
+
+## 2026-05-11
+- **AI/ML STIG Lecture Series, 11 May 2026 - NASA Science**: NASA is hosting a virtual seminar on reinforcement learning as part of its AI/ML Science and Technology Interest Group series. The event is scheduled for May 11, 2026, at 4:00 PM ET. ([NASA Science](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-11-may-2026/))
+
+- **5/11/2026 | Daily AI News from GAI Insights**: GAI Insights offers a subscription service for daily updates on generative AI, deep learning, and the latest AI tools. ([GAI Insights](https://www.youtube.com/watch?v=ViirYx9RC24))
+
+- **Artificial Intelligence Edition #1085: Monday, May 11, 2026 | Insights**: Highlights include Zyphra's release of ZAYA1-8B, a reasoning model trained on AMD hardware, and a study revealing that firms often use automation to control worker wages. ([MarkTechPost](https://alinmat.com/insights/ai/))
+
+- **CAIML Symposium 2026 — CAIML**: The 5th CAIML Symposium will take place on May 11, 2026, bringing together experts in AI and machine learning to discuss recent advancements in the field. ([CAIML](https://caiml.org/news/213/))
+
+- **ISMRM 2026 Presentation Lineup and Schedule**: The upcoming ISMRM 2026 event will feature discussions on AI applications in medical imaging, including collaborations with Microsoft on agentic AI. ([LinkedIn](https://www.linkedin.com/posts/fliu37_ismrm-ismrm2026-mri-activity-7458129459074936832-txDE))
+
+- **Policing the bots: How new rules could save the web from AI scrapers**: This article discusses potential regulations aimed at managing AI scrapers and their impact on web content and data integrity. ([Startup Daily](https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/policing-the-bots-how-new-rules-could-save-the-web-from-ai-scrapers/))
+
+- **AI for Health Care Applications - Live Lecture Spring Series May 11th**: The AIM-AHEAD Consortium is hosting a live lecture series focused on AI applications in healthcare, providing structured learning opportunities for participants. ([AIM-AHEAD](https://www.aim-ahead.net/aim-ahead-latest-events/georgetown-ai-for-health-care-applications-spring-lecture-6/))
+
+- **ELLIS Distinguished Lecture: Masashi Sugiyama | ELLIS Institute Finland**: Masashi Sugiyama will present a lecture on machine learning from imperfect information, discussing its implications for robust intelligence in the context of foundation models. ([ELLIS Institute](https://www.ellisinstitute.fi/ellis-distinguished-lecture-masashi-sugiyama))
+
+- **AI and the Future of Open-Source Intelligence • Stimson Center**: A webinar co-hosted by the Stimson Center will explore how AI-driven systems are transforming the field of open-source intelligence. ([Stimson Center](https://www.stimson.org/event/ai-and-the-future-of-open-source-intelligence/))
+
+- **Foundations of Machine Learning | Santa Fe Institute**: The Santa Fe Institute will host discussions on various topics related to machine learning, including the AI-agency paradox and metacognitive intelligence in human-AI teams. ([Santa Fe Institute](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
