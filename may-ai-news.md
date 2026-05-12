@@ -231,3 +231,24 @@
 - **AI and the Future of Open-Source Intelligence • Stimson Center**: A webinar co-hosted by the Stimson Center will explore how AI-driven systems are transforming the field of open-source intelligence. ([Stimson Center](https://www.stimson.org/event/ai-and-the-future-of-open-source-intelligence/))
 
 - **Foundations of Machine Learning | Santa Fe Institute**: The Santa Fe Institute will host discussions on various topics related to machine learning, including the AI-agency paradox and metacognitive intelligence in human-AI teams. ([Santa Fe Institute](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+## 2026-05-12
+- **Google and Microsoft Invest $650B in AI**: This significant investment is expected to shape the future of technology, impacting various sectors including cybersecurity and cloud computing. ([source](https://www.youtube.com/watch?v=Fk7AExXwlok))
+
+- **Binance Fights AI-Powered Crypto Scams With 100+ AI Models**: Binance reported preventing over $10.5 billion in potential user losses through its AI-driven security initiatives, protecting millions of users from fraud. ([source](https://www.cryptotimes.io/2026/05/12/binance-fights-ai-powered-crypto-scams-with-100-ai-models/))
+
+- **The New Wave of AI in Healthcare 2026**: AI is rapidly transforming healthcare, enhancing diagnostics and treatment delivery while presenting new challenges for clinicians and regulators. ([source](https://www.nyas.org/shaping-science/events/the-new-wave-of-ai-in-healthcare-2026/))
+
+- **Veritone to Hold First Quarter 2026 Results Conference Call**: Veritone, a leader in enterprise AI solutions, is set to discuss its financial results, highlighting its role in data management for various sectors. ([source](https://investors.veritone.com/news-events/press-releases/detail/418/veritone-to-hold-first-quarter-2026-results-conference-call-on-may-12th))
+
+- **Artificial Intelligence, Machine Learning and Medical Imaging Workshop**: The University of Arizona is hosting a workshop focusing on the applications and implications of AI and machine learning in medical imaging. ([source](https://healthsciences.arizona.edu/events/artificial-intelligence-machine-learning-and-medical-imaging-applications-and-implications))
+
+- **Brooklyn Tech Expo 2026**: This major tech conference is set to gather over 1,000 professionals to discuss advancements in AI and technology, showcasing the latest innovations. ([source](https://allevents.in/brooklyn/annual-brooklyn-tech-expo-may-12-2026/100001984441044584))
+
+- **Upcoming AI Seminars in May 2026**: Various seminars focusing on sustainable AI and neural networks are scheduled, featuring experts from institutions like the Alan Turing Institute and ETH Zurich. ([source](https://aihub.org/2026/05/05/forthcoming-machine-learning-and-ai-seminars-may-2026-edition/))
+
+- **AI Council 2026 Conference**: This community-driven conference in San Francisco will focus on AI, data engineering, and analytics, featuring discussions on the latest trends and technologies. ([source](https://www.bicmagazine.com/events/ai-council-data-council/))
+
+- **AI and Machine Learning Skills Development**: Harvard Business Review emphasizes the importance of developing AI skills within teams to adapt to the rapidly evolving technological landscape. ([source](https://hbr.org/topic/subject/ai-and-machine-learning))
+
+- **AI Tools for Productivity in 2026**: A list of essential AI productivity tools has been shared, highlighting applications that can enhance efficiency across various tasks. ([source](https://www.facebook.com/groups/erasmusprojects/posts/4226222987589569/))
