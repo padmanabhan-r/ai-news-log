@@ -252,3 +252,24 @@
 - **AI and Machine Learning Skills Development**: Harvard Business Review emphasizes the importance of developing AI skills within teams to adapt to the rapidly evolving technological landscape. ([source](https://hbr.org/topic/subject/ai-and-machine-learning))
 
 - **AI Tools for Productivity in 2026**: A list of essential AI productivity tools has been shared, highlighting applications that can enhance efficiency across various tasks. ([source](https://www.facebook.com/groups/erasmusprojects/posts/4226222987589569/))
+
+## 2026-05-13
+- **AI News May 2026 — Every Model Release & AI Announcement**: OpenAI is reportedly developing a smartphone in collaboration with MediaTek and Qualcomm, while Google's search head discusses the impact of AI Overviews on user query behavior. ([source](https://aitoolsrecap.com/Blog/MayNews2026.aspx))
+
+- **An Institutional View of Legal AI Benchmarking**: Neel Guha, a PhD candidate at Stanford, explores how machine learning can enhance legal practices and access to justice, addressing the necessary adaptations for legal institutions in the age of AI. ([source](https://www.mpipriv.de/events/45510/1929073))
+
+- **The New Wave of AI in Healthcare 2026**: AI and digital technologies are rapidly transforming healthcare delivery, diagnosis, and treatment, presenting both opportunities and challenges for stakeholders in the industry. ([source](https://www.nyas.org/shaping-science/events/the-new-wave-of-ai-in-healthcare-2026/))
+
+- **Neo seeks a tech metals-AI feedback loop**: Neo Performance Materials has partnered with Tallinn University of Technology to integrate AI and machine learning into advanced materials manufacturing, enhancing operations in rare earths and magnetics. ([source](https://www.metaltechnews.com/story/2026/05/13/tech-bytes/neo-seeks-a-tech-metals-ai-feedback-loop/2750.html))
+
+- **Five Emerging AI Trends in May 2026**: A review highlights trends such as digital twins of human neural activity and real-time autonomous learning capabilities in large language models, reflecting ongoing advancements in AI. ([source](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity/))
+
+- **Upcoming Events - Stanford HAI**: The AI+Education Summit 2026 will focus on the transformative impact of AI on learning processes, featuring discussions on key scientific breakthroughs in machine learning. ([source](https://hai.stanford.edu/events))
+
+- **HITEC 2026 Austin, TX Regional Event hosted by IBM**: This event will explore the modern AI enterprise stack, emphasizing the integration of hardware, platforms, and data in AI deployment and design. ([source](https://www.hitecglobal.org/event/2026-HITEC-RegionalEvent-HITEC-2026-Austin-TX-Regional-Event-hosted-by-IBM))
+
+- **Turn Ideas into Tools: Hands-On Codex for NIH Use Cases**: A workshop led by OpenAI staff will provide practical training on using Codex for various NIH applications, emphasizing hands-on learning. ([source](https://bioinformatics.ccr.cancer.gov/btep/classes/))
+
+- **AI Update, March 13, 2026: AI News and Views From the Past Week**: A roundup of recent developments in AI, including insights into data collection practices and their implications for personalization and advertising. ([source](https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week))
+
+- **Events - AI Expert Magazine**: The COLT 2026 conference will focus on the theoretical foundations of machine learning and AI, gathering experts to discuss advancements in the field. ([source](https://www.aiexpertmagazine.com/events/))
