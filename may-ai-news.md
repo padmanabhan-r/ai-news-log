@@ -273,3 +273,24 @@
 - **AI Update, March 13, 2026: AI News and Views From the Past Week**: A roundup of recent developments in AI, including insights into data collection practices and their implications for personalization and advertising. ([source](https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week))
 
 - **Events - AI Expert Magazine**: The COLT 2026 conference will focus on the theoretical foundations of machine learning and AI, gathering experts to discuss advancements in the field. ([source](https://www.aiexpertmagazine.com/events/))
+
+## 2026-05-14
+- **Global AI Alignment Problem — Top 10 World News Today**: A video summary of the day's top technology news, including topics such as China's criticism of U.S. chip legislation and Meta employees protesting tracking technology ([TechieNews](https://www.youtube.com/watch?v=I1BviGaOnVE)).
+
+- **Five Emerging AI Trends in May 2026**: An article discussing advancements in AI, particularly the TRIBE v2 platform that enhances brain modeling for better treatment of neurological conditions like Alzheimer's and epilepsy ([ETC Journal](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity/)).
+
+- **Open to Debate: Will the AI Bubble Burst?**: A discussion on the potential risks of an AI investment bubble, highlighting concerns over high valuations and sustainability of AI technologies amid rising operational costs ([Maine Public](https://www.mainepublic.org/show/2-pm-public-affairs-programs/2026-05-11/open-to-debate-will-the-ai-bubble-burst)).
+
+- **AI-fueled rally drives S&P and Nasdaq to records**: The S&P 500 and Nasdaq indices reached record highs, driven by strong performances from major tech companies, despite ongoing inflation concerns ([CHOSUNBIZ](https://biz.chosun.com/en/en-international/2026/05/14/A6OXMAMB7ZE7TIFOQP52LLNGFE/)).
+
+- **When AI Leaves the Screen and Enters the Physical World**: NVIDIA's GTC keynote introduced a significant shift in AI applications, emphasizing the transition of AI from digital environments to physical interactions ([WisdomTree](https://www.wisdomtree.com/investments/blog/2026/05/14/when-ai-leaves-the-screen-and-enters-the-physical-world)).
+
+- **AI as a New Health Information Expert**: A workshop at Columbia University focusing on the role of AI in health information seeking, discussing opportunities and challenges in generative AI for personal health ([Columbia University](https://datascience.columbia.edu/event/ai-and-health-information-seeking-workshop/)).
+
+- **AI rivalry overshadows push for guardrails at Xi-Trump talks**: Experts note that discussions between Xi and Trump on AI governance are overshadowed by competitive tensions in AI development between the U.S. and China ([Taipei Times](https://www.taipeitimes.com/News/feat/archives/2026/05/14/2003857301)).
+
+- **Infosys Announces Strategic Collaboration with OpenAI**: Infosys has partnered with OpenAI to enhance enterprise AI transformation initiatives, marking a significant step in their AI strategy ([ScanX](https://scanx.trade/stock-market-news/companies/infosys-announces-strategic-collaboration-with-openai-to-accelerate-enterprise-ai-transformation/38407166)).
+
+- **Google Gemini AI Anticipates User Actions**: Google’s Gemini AI is designed to predict user actions, emphasizing the shift towards on-device AI capabilities that enhance privacy and efficiency ([LinkedIn](https://www.linkedin.com/posts/enigma-security_googlegemini-artificialintelligence-proactiveai-activity-7455055470039351296-N9hz)).
+
+- **IDEaS + AI-ALOE Distinguished Lecture: AI and Lifelong Learning**: A lecture series at Georgia Tech focusing on the integration of AI in lifelong learning and its implications for education in the Fourth Industrial Revolution ([Georgia Tech](https://www.ic.gatech.edu/events/2026/05/14/ideas-ai-aloe-distinguished-lecture-ai-and-lifelong-learning-building-60-year)).
