@@ -315,3 +315,24 @@
 - **Datavault AI Financial Results Call**: Datavault AI will discuss its Q1 2026 financial results, highlighting its platform's applications across multiple industries, including healthcare and fintech. ([Business Wire](https://www.businesswire.com/news/home/20260430193298/en/Datavault-AI-Schedules-Conference-Call-to-Discuss-First-Quarter-2026-Financial-Results-on-Friday-May-15-2026))
 
 - **XBRL US and CRAFT Conference Announcement**: A conference will be held to explore the integration of AI in accounting and structured data performance, reflecting the growing influence of AI in the industry. ([Novaworks Weblog](http://www.novaworks.com/blog/archives/1727-XBRL-US,-CRAFT-Announce-Conference-on-Maximizing-AI-and-Structured-Data-Performance.html))
+
+## 2026-05-16
+- **55th Global Conference on Machine Learning and Artificial Intelligence**: Scheduled for May 15-17, 2026, in Vancouver, this conference will focus on practical applications of AI and machine learning in innovation, sustainability, and digital growth ([Eventbrite](https://www.eventbrite.ca/e/55th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1984173302761)).
+
+- **Google DeepMind's Gemini 2 Ultra**: A significant breakthrough in AI, this model processes continuous temporal data, enhancing video reasoning capabilities beyond previous models that treated video as isolated frames ([YouTube](https://www.youtube.com/watch?v=buPSEaUHzo4)).
+
+- **APTA Releases AI Primer for Public Transit**: The American Public Transportation Association has published a primer and guidance briefs on AI and machine learning, aimed at helping transit agencies implement these technologies effectively ([APTA](https://www.apta.com/press-release/apta-highlights-public-transit-industry-innovation-releases-new-artificial-intelligence-primer-and-guidance-briefs/)).
+
+- **Growing AI Safety Concerns**: As AI capabilities expand, so do associated risks. There is an increasing focus on investment in alignment research and monitoring tools, particularly in the U.S. ([TechDG](https://techdg.in/latest-ai-updates-may-2026-global-ai-news-trends/)).
+
+- **Economic Shifts in AI**: The AI landscape is becoming more competitive and costly, with a notable shift towards using AI for tangible business gains rather than just internal tasks ([Mean CEO](https://blog.mean.ceo/ai-advancements-news-may-2026/)).
+
+- **AI in Orthopedic Care**: AI and machine learning are revolutionizing orthopedic diagnosis and treatment by analyzing large datasets for improved accuracy in detecting fractures and predicting disease progression ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic)).
+
+- **Emerging AI Trends**: A new platform, TRIBE v2, aims to enhance brain modeling for AI applications, potentially transforming treatment pathways for neurological conditions like Alzheimer’s and epilepsy ([ETC Journal](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity/)).
+
+- **AI's Impact on Healthcare**: Discussions are ongoing about the implications of AI in healthcare, particularly regarding equity and access, as highlighted by the Congressional Black Caucus Foundation's upcoming Health Equity Summit ([Facebook](https://www.facebook.com/CBCFInc/posts/ai-is-transforming-healthcare-but-who-benefitsjoin-us-on-saturday-may-16-2026-in/1384709003687171/)).
+
+- **AI Stocks and Market Performance**: Positive U.S. earnings reports are seen as beneficial for artificial intelligence ETFs, with analysts identifying promising AI stocks for investment ([Fool](https://www.fool.com.au/2026/05/16/why-us-earnings-is-good-news-for-artificial-intelligence-etfs-expert/)).
+
+- **AI Receptionists in Business**: The demand for instant customer responses is driving businesses to adopt AI receptionists, highlighting the growing expectation for rapid service in customer interactions ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning)).
