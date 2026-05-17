@@ -336,3 +336,24 @@
 - **AI Stocks and Market Performance**: Positive U.S. earnings reports are seen as beneficial for artificial intelligence ETFs, with analysts identifying promising AI stocks for investment ([Fool](https://www.fool.com.au/2026/05/16/why-us-earnings-is-good-news-for-artificial-intelligence-etfs-expert/)).
 
 - **AI Receptionists in Business**: The demand for instant customer responses is driving businesses to adopt AI receptionists, highlighting the growing expectation for rapid service in customer interactions ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning)).
+
+## 2026-05-17
+- **AI News May 2026: GPT-5.5, Claude Mythos & What It Means**: Anthropic's AI agents are significantly improving efficiency in investment banking and financial operations, although TPU and GPU shortages are impacting enterprise deployment timelines. ([source](https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-may-2026/))
+
+- **May 17, 2026 — Latest Model Releases and AI Announcements**: The US Commerce Department has established pre-deployment AI evaluation agreements with major AI firms, while the EU is negotiating access to Anthropic's Mythos. ([source](https://aitoolsrecap.com/Blog/ai-news-may-17-2026))
+
+- **Five Emerging AI Trends in May 2026**: Highlights include MIT's SEAL allowing real-time autonomous learning for LLMs and discussions on digital twins of human neural activity. ([source](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity/))
+
+- **AI Can Now Dream, The 2026 AI Report & New GPT Models**: A report discusses advancements in AI capabilities, including new models and their implications for various industries. ([source](https://www.youtube.com/watch?v=U0giyi5-374))
+
+- **Applied Generative AI for HEOR: Introduction - In Person at ISPOR 2026**: A conference session aimed at educating participants on applying generative AI techniques in Health Economics and Outcomes Research (HEOR). ([source](https://www.ispor.org/conferences-education/event/2026/05/17/default-calendar/may-17--introduction-to-applied-generative-ai-for-heor---in-person-at-ispor-2026))
+
+- **How Artificial Intelligence is Reshaping Cryptocurrency Security**: Binance employs over 24 AI initiatives to enhance fraud detection, with AI models responsible for 57% of threat identification on its platform. ([source](https://m.economictimes.com/markets/to-catch-a-digital-phantom-how-binance-is-turning-ai-against-the-next-generation-of-crypto-fraudsters/articleshow/131116510.cms))
+
+- **OpenAI and Khan Academy Made a Chatbot. What Can We Learn?**: The collaboration aims to launch a tutoring bot, enhancing educational tools available to students through AI technology. ([source](https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html))
+
+- **AI governance is hiring**: AXA Philippines is seeking a Compliance Officer for Data Privacy and AI, highlighting the growing need for regulatory expertise in AI governance. ([source](https://www.manilatimes.net/2026/05/17/business/sunday-business-it/ai-governance-is-hiring/2345543))
+
+- **Federal Reserve Bank of Atlanta Conference Agenda**: A session will explore how AI is transforming financial markets, addressing opportunities and challenges in trading and regulatory frameworks. ([source](https://www.atlantafed.org/news-and-events/events/2026/05/17/financial-markets-conference/agenda))
+
+- **Nvidia Backs Legora: Legal AI Battle Heats Up in 2026**: Nvidia's investment in Legora intensifies competition in the legal AI sector, reflecting the increasing importance of AI in legal services. ([source](https://signaldaily.news/))
