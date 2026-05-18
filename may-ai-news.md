@@ -357,3 +357,24 @@
 - **Federal Reserve Bank of Atlanta Conference Agenda**: A session will explore how AI is transforming financial markets, addressing opportunities and challenges in trading and regulatory frameworks. ([source](https://www.atlantafed.org/news-and-events/events/2026/05/17/financial-markets-conference/agenda))
 
 - **Nvidia Backs Legora: Legal AI Battle Heats Up in 2026**: Nvidia's investment in Legora intensifies competition in the legal AI sector, reflecting the increasing importance of AI in legal services. ([source](https://signaldaily.news/))
+
+## 2026-05-18
+- **AI/ML STIG Lecture Series, 18 May 2026 - NASA Science**: NASA's AI/ML Science and Technology Interest Group will host a virtual seminar on reinforcement learning applications on May 18, 2026. ([source](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-18-may-2026/))
+
+- **NextNRG to Host First Quarter 2026 Financial Results Conference Call**: NextNRG Inc. plans to discuss its financial results and corporate updates, focusing on its integration of AI and ML into energy management systems on May 18, 2026. ([source](https://finance.yahoo.com/sectors/energy/articles/nextnrg-host-first-quarter-2026-211000697.html))
+
+- **Top AI Conferences to Attend in 2026: The Ultimate Tech Guide**: A guide highlighting key AI and big data conferences in 2026, aimed at enterprise innovators and data professionals. ([source](https://www.timesofai.com/industry-insights/top-ai-conferences-2026/))
+
+- **Announcing our next MICCAI Industry Talk - May 18, 2026**: The Institute for Artificial Intelligence in Medicine will present a talk on a new tool for organ analysis using deep learning and generative AI, showcasing rapid development capabilities. ([source](https://miccai.org/index.php/news/2026/05/06/announcing-our-next-miccai-industry-talk-may-18-2026))
+
+- **AI Can Now Dream, The 2026 AI Report & New GPT Models**: A report discusses advancements in AI, including new real-time voice models and the introduction of "Dreaming" for AI agents, enhancing their learning capabilities. ([source](https://www.youtube.com/watch?v=U0giyi5-374))
+
+- **Five Emerging AI Trends in May 2026**: The article explores significant trends in AI, particularly the development of scalable platforms for in silico neuroscience that could impact treatments for neurological conditions. ([source](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity/))
+
+- **Virtual Artificial Intelligence Masters™ 2026 - IPWatchdog.com**: An interactive program focusing on the evolving legal and business issues surrounding AI and ML, featuring discussions from industry leaders. ([source](https://ipwatchdog.com/artificial-intelligence-masters-2026/))
+
+- **CX trends in 2026**: The article discusses the growth of the contact center market and how AI and ML are enhancing operational efficiency and customer experiences. ([source](https://www.cxnetwork.com/cx-experience/articles/cx-trends-in-2026-what-to-expect-and-how-to-prepare))
+
+- **How is AI reshaping financial markets?**: A discussion on the impact of AI on financial markets, particularly its ability to analyze complex financial documents faster than human analysts. ([source](https://www.facebook.com/sasinschoolofmanagement/posts/how-is-ai-reshaping-financial-markets-what-happens-when-machines-can-instantly-i/1409919534510503/))
+
+- **AIM-AHEAD "Get Connected" April Office Hours Session #1 - May 14, 2026**: A virtual series focused on the intersection of AI and mental health, discussing innovations and ethical considerations in AI-enabled mental health care. ([source](https://www.aim-ahead.net/complete-feed/aim-ahead-get-connected-may-office-hours-session-1/))
