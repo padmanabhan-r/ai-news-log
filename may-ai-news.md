@@ -378,3 +378,24 @@
 - **How is AI reshaping financial markets?**: A discussion on the impact of AI on financial markets, particularly its ability to analyze complex financial documents faster than human analysts. ([source](https://www.facebook.com/sasinschoolofmanagement/posts/how-is-ai-reshaping-financial-markets-what-happens-when-machines-can-instantly-i/1409919534510503/))
 
 - **AIM-AHEAD "Get Connected" April Office Hours Session #1 - May 14, 2026**: A virtual series focused on the intersection of AI and mental health, discussing innovations and ethical considerations in AI-enabled mental health care. ([source](https://www.aim-ahead.net/complete-feed/aim-ahead-get-connected-may-office-hours-session-1/))
+
+## 2026-05-19
+- **Five Trends in AI and Data Science for 2026**: The article discusses the potential for a bubble in AI investments to burst, driven by factors like vendor performance and competitive pricing from foreign models. ([MIT Sloan Review](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/))
+
+- **Carahsoft's Mike Adams on Top Government AI Events to Watch**: Highlighting the SANS AI Cybersecurity Summit, the event will focus on AI applications in cybersecurity, including governance and risk management. ([GovCon Wire](https://www.govconwire.com/articles/carahsoft-mike-adams-ai-events-2026))
+
+- **Top 10 AI Events for Government in 2026**: This article emphasizes the rapid pace of AI development and lists key events, including the AI Summit from the Potomac Officers Club, aimed at federal agencies and contractors. ([Carahsoft](https://www.carahsoft.com/blog/carahsoft-top-ai-events-for-government-blog-2026))
+
+- **USA AI Summit LLC Launches 2026 Manhattan Tech Event**: The upcoming USA AI Summit will provide networking opportunities and workshops for professionals and students in the AI field. ([Times of AI](https://www.timesofai.com/press-release/usa-ai-summit-llc-announces-the-launch-of-the-usa-ai-summit-2026-in-manhattan/))
+
+- **Artificial Intelligence (AI) News Updates**: This platform offers the latest insights into AI advancements, covering breakthroughs in machine learning and their applications across various industries. ([Economic Times](https://ai.economictimes.com/))
+
+- **Primer for Counties: The Transformative Power of Artificial Intelligence**: The article discusses how machine learning is being utilized in everyday applications, such as product recommendations and text translation. ([National Association of Counties](https://www.naco.org/resource/primer-counties-transformative-power-artificial-intelligence))
+
+- **Application of Artificial Intelligence and Machine Learning to Small Molecule Drug Development**: A presentation will explore how AI and ML are revolutionizing drug development processes, reducing risks and delays. ([MassBio](https://www.massbio.org/member-events/application-of-artificial-intelligence-and-machine-learning-to-small-molecule-drug-development/))
+
+- **AI progress may look chaotic from the outside**: A talk titled "The physics of intelligence" aims to reveal the underlying patterns that have driven recent AI breakthroughs, providing insights into future developments. ([AI Week](https://www.facebook.com/aiweek.it/posts/ai-progress-may-look-chaotic-from-the-outside-but-underneath-it-follows-surprisi/1433236092172745/))
+
+- **The Future of Artificial Intelligence**: IBM discusses the evolution of AI technologies and their applications in various fields, including natural language processing and medical diagnostics. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **AI Bias Mitigation: A Developer's Guide**: An online training session focused on addressing bias in AI systems, aimed at developers seeking to improve fairness in AI applications. ([AI at EU](https://ai-at.eu/en/training/ai-bias-mitigation-a-developers-guide/))
