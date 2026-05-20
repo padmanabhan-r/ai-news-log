@@ -399,3 +399,24 @@
 - **The Future of Artificial Intelligence**: IBM discusses the evolution of AI technologies and their applications in various fields, including natural language processing and medical diagnostics. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
 
 - **AI Bias Mitigation: A Developer's Guide**: An online training session focused on addressing bias in AI systems, aimed at developers seeking to improve fairness in AI applications. ([AI at EU](https://ai-at.eu/en/training/ai-bias-mitigation-a-developers-guide/))
+
+## 2026-05-20
+- **AI Update, May 15, 2026**: Brands are increasingly integrating AI for audience targeting and campaign optimization, leading to enhanced real-time personalization and automated segmentation in marketing strategies. ([MarketingProfs](https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week))
+
+- **2026 5th International Conference on Frontiers of Artificial Intelligence and Machine Learning**: This conference will gather academics, researchers, and industry professionals to discuss the latest research and trends in AI and machine learning. ([FAIML](https://www.faiml.org/))
+
+- **AI and Machine Learning in CAE Applications Conference**: Scheduled for October 28-29, 2026, in Munich, this event will focus on the application of AI and machine learning in engineering simulations. ([nafems](https://www.nafems.org/events/nafems/2026/artificial-intelligence-and-machine-learning-ai-ml-in-engineering-simulation/?srsltid=AfmBOorx75uTlRt2MqmRE0_VUP62CLLfqvV0vyXKpxEYj6ieCtqM5Zt4))
+
+- **AI.Health4All May Virtual Seminar**: The University of Illinois College of Medicine is hosting a seminar aimed at improving healthcare services through AI and machine learning. ([UIC](https://medicine.uic.edu/com-research/aihealth4all/))
+
+- **HUN-REN AI Symposium 2026**: A free international conference in Budapest focusing on the latest developments in AI, inviting students and researchers to engage with industry experts. ([Facebook](https://www.facebook.com/Uni.SZE.Gyor/posts/hun-ren-ai-symposium-2026-day-0-for-studentsthe-hun-ren-ai-symposium-2026-is-a-f/1417965350375514/))
+
+- **AI + Problem Solving**: Lehigh Business is offering a program on enhancing problem-solving skills through AI, emphasizing real-time feedback and digital transformation. ([Lehigh Business](https://business.lehigh.edu/executive-education/programs-for-individuals/enhancing-problem-solving-with-artificial-intelligence))
+
+- **Researchers at AKU Utilizing AI**: Researchers at the Aga Khan University are leveraging AI and data intelligence to tackle significant challenges in various sectors. ([Business Recorder](https://www.brecorder.com/news/amp/40421919))
+
+- **AI Tools Target U.S. Gallium Supply Gap**: Ames Lab and Indium are developing AI tools to address the supply gap of gallium, a critical material in technology manufacturing. ([Metal Tech News](https://www.metaltechnews.com/story/2026/05/20/tech-metals/ai-tools-target-us-gallium-supply-gap/2764.html))
+
+- **Artificial Intelligence for Manufacturing Workshop**: NIST is hosting a workshop from May 26-28, 2026, focusing on the application of AI in manufacturing processes. ([NIST](https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop))
+
+- **AI Coming for Hierarchy, Not Labor**: A commentary discusses how AI is evolving to take initiative and learn from interactions, potentially reshaping organizational structures and workflows. ([Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/05/20/2003857626))
