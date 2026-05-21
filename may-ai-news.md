@@ -420,3 +420,24 @@
 - **Artificial Intelligence for Manufacturing Workshop**: NIST is hosting a workshop from May 26-28, 2026, focusing on the application of AI in manufacturing processes. ([NIST](https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop))
 
 - **AI Coming for Hierarchy, Not Labor**: A commentary discusses how AI is evolving to take initiative and learn from interactions, potentially reshaping organizational structures and workflows. ([Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/05/20/2003857626))
+
+## 2026-05-21
+- **AI and ML project demonstrations**: A student project fair showcasing various AI and ML solutions, including applications in battery health analysis and virtual power plants, is scheduled for May 21, 2026. ([source](https://www.master-ediss.eu/ai-and-ml-project-demonstrations-thu-21-05-2026-from-900-to-1130-in-building-agora))
+
+- **Google's AI Breakthroughs Transform Tech**: Google researchers introduced TurboQuant, a technology that optimizes memory usage in AI models, enhancing efficiency and reducing costs for long-context AI applications. ([source](https://www.youtube.com/watch?v=6qzk4kTINUQ))
+
+- **AI/ML Security – Open Source Security Foundation**: An upcoming community day on May 21, 2026, will focus on the security risks associated with large language models and generative AI, emphasizing their implications for open-source security. ([source](https://openssf.org/groups/ai-ml-security))
+
+- **Department of Energy Grants 2026**: The U.S. Department of Energy is offering grants to support projects that enhance manufacturing competitiveness through high-performance computing and AI technologies, with a deadline for applications on May 21, 2026. ([source](https://grantedai.com/grants/doe))
+
+- **$150,000 Artificial Intelligence for Humanity Prize**: A funding opportunity for teams developing AI solutions aimed at promoting an equitable and sustainable future, with a focus on health, climate, and economic opportunities. ([source](https://www.ictworks.org/artificial-intelligence-for-humanity-prize))
+
+- **From Data to Decisions: Using AI to Enhance Manufacturing Efficiency**: A webinar will discuss the operational impact of AI in cell therapy manufacturing, showcasing machine learning applications in process optimization and quality control. ([source](https://www.isctglobal.org/events/event-description?CalendarEventKey=030fcc9f-a5b2-4559-90aa-019e28e2314e&Home=%2Fhome))
+
+- **Machine Learning Course at Carnegie Mellon**: Carnegie Mellon University is offering a 10-week online program focused on machine learning fundamentals and algorithms, aimed at professionals looking to enhance their AI skills. ([source](https://execonline.cs.cmu.edu/machine-learning))
+
+- **Women in Machine Learning - Google Groups**: An announcement for a workshop on AI modeling for disappearing knowledge, inviting submissions with a deadline of May 31, 2026, as part of ongoing efforts to promote diversity in AI fields. ([source](https://groups.google.com/g/women-in-machine-learning))
+
+- **Upcoming Courses | NUS Computing Executive Education**: The National University of Singapore is offering various executive education courses on AI and machine learning, including topics like deep learning and natural language processing. ([source](https://www.comp.nus.edu.sg/executive-education/upcoming-courses))
+
+- **Machine Learning for Health | Information Sciences Institute**: A webinar will present projects that utilize machine learning for health applications, highlighting collaborations with Cornell University on precision nutrition and health. ([source](https://www.isi.edu/events/7143/machine-learning-for-health))
