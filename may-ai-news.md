@@ -441,3 +441,24 @@
 - **Upcoming Courses | NUS Computing Executive Education**: The National University of Singapore is offering various executive education courses on AI and machine learning, including topics like deep learning and natural language processing. ([source](https://www.comp.nus.edu.sg/executive-education/upcoming-courses))
 
 - **Machine Learning for Health | Information Sciences Institute**: A webinar will present projects that utilize machine learning for health applications, highlighting collaborations with Cornell University on precision nutrition and health. ([source](https://www.isi.edu/events/7143/machine-learning-for-health))
+
+## 2026-05-22
+- **Five Trends in AI and Data Science for 2026**: The article discusses emerging trends in AI and data science, focusing on advancements in technology and their implications for various industries by 2026. ([MIT Sloan Review](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **AI26 – The Lamarr Conference**: This upcoming conference, scheduled for July 7-8, 2026, will focus on machine learning and artificial intelligence, offering early bird ticket pricing. ([Lamarr Institute](https://lamarr-institute.org/events/ai26-the-lamarr-conference))
+
+- **What's next in AI: 7 trends to watch in 2026**: Microsoft highlights key trends in AI, including its applications in healthcare, software development, and scientific research, emphasizing the evolving role of AI as a collaborative tool. ([Microsoft Source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Masterclass in Applied Artificial Intelligence**: A two-day masterclass scheduled for June 4-5, 2026, aimed at individuals interested in practical applications of AI, with applications open until May 22, 2026. ([WBS](https://courses.wbs.ac.za/c/masterclass-in-applied-artificial-intelligence-ai))
+
+- **Latest Origin Quantum News & Announcements**: Origin Quantum announces a competition focused on quantum machine learning, with a prize pool and access to quantum computing resources, running from May 22 to August 5, 2026. ([Distill](https://www.distillintelligence.com/news/origin-quantum))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine is offering webinars and conferences in 2026 to integrate AI and machine learning into primary care education. ([STFM](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **Conference on Artificial Intelligence in Medical Imaging**: Scheduled for October 26-27, 2026, at the University of Pennsylvania, this conference will explore the intersection of AI and medical imaging, with a call for submissions opening soon. ([SIIM](https://siim.org/learning-events/events/caimi))
+
+- **NOAA Center for Artificial Intelligence (NCAI)**: The 2nd ESA–NASA Workshop on AI Foundation Models for Earth Observation is set for May 19-22, 2026, focusing on AI applications in environmental monitoring. ([NOAA](https://www.noaa.gov/ai))
+
+- **Global Robotics and AI Meet 2026**: This conference will take place from November 19-21, 2026, in Osaka, Japan, bringing together experts in AI and robotics to discuss advancements and applications in the field. ([Science Wide Meetings](https://robotics2026.com))
+
+- **CALMA Roundtable on AI and Machine Learning in Metadata**: An upcoming roundtable at the University of Washington will address the implications of AI and machine learning in metadata, featuring an expert panel. ([University of Washington](https://ischool.uw.edu/events/2026/05/calma-roundtable-artificial-intelligence-and-machine-learning-metadata-possibilities))
