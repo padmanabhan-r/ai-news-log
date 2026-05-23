@@ -462,3 +462,24 @@
 - **Global Robotics and AI Meet 2026**: This conference will take place from November 19-21, 2026, in Osaka, Japan, bringing together experts in AI and robotics to discuss advancements and applications in the field. ([Science Wide Meetings](https://robotics2026.com))
 
 - **CALMA Roundtable on AI and Machine Learning in Metadata**: An upcoming roundtable at the University of Washington will address the implications of AI and machine learning in metadata, featuring an expert panel. ([University of Washington](https://ischool.uw.edu/events/2026/05/calma-roundtable-artificial-intelligence-and-machine-learning-metadata-possibilities))
+
+## 2026-05-23
+- **Casablanca is set to host a major international conference on ...**: An international conference focused on artificial intelligence and the future of work is scheduled to take place in Casablanca on May 23, 2026. ([source](https://www.facebook.com/MoroccoWorldNews/posts/casablanca-is-set-to-host-a-major-international-conference-on-artificial-intelli/1456011543227174))
+
+- **Five Trends in AI and Data Science for 2026**: Experts highlight five key trends for AI in 2026, including the deflation of the AI bubble and an increased focus on generative AI as an organizational resource. ([source](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **What's next in AI: 7 trends to watch in 2026**: This article discusses how AI is evolving into a collaborative partner in various industries, moving beyond simple tasks to enhance human creativity and problem-solving. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **What's with all the videos of college graduates booing AI?**: Reports indicate that some college graduates are expressing discontent towards AI, citing both its benefits and harms in education and skill acquisition. ([source](https://www.abc.net.au/news/2026-05-23/graduates-boo-ai-google-eric-schmidt-artificial-intelligence/106701510))
+
+- **Artificial intelligence – RealKM**: The article addresses concerns about chatbots widening the digital language gap and discusses the importance of early detection of 'value drift' in AI systems. ([source](https://realkm.com/artificial-intelligence))
+
+- **Artificial Intelligence (AI) Training in the US**: A training program aimed at data scientists and machine learning engineers is being offered, focusing on mastering vector databases for scalable AI applications. ([source](https://www.nobleprog.com/artificial-intelligence-ai-training))
+
+- **Intern - Data Science at Mayo Clinic**: The Mayo Clinic is seeking interns to work on AI and machine learning initiatives aimed at improving patient care and healthcare delivery systems. ([source](https://jobs.mayoclinic.org/job/rochester/intern-data-science/33647/95350784288))
+
+- **ACDL 2026 – Advanced Course on Data Science & Machine Learning**: An advanced course on data science and machine learning is set to take place, with deadlines for registration and presentation submissions approaching. ([source](https://acdl2026.icas.events))
+
+- **Letters to the Editor: May 23, 2026 – Monterey Herald**: A collection of opinions from readers discussing various topics, including the impact of AI on society. ([source](https://www.montereyherald.com/2026/05/22/letters-to-the-editor-may-23-2026))
+
+- **Build with AI | Google for Developers**: Google is organizing events and workshops globally to help developers learn AI skills and apply them to real-world challenges. ([source](https://developers.google.com/community/build-with-ai))
