@@ -483,3 +483,24 @@
 - **Letters to the Editor: May 23, 2026 – Monterey Herald**: A collection of opinions from readers discussing various topics, including the impact of AI on society. ([source](https://www.montereyherald.com/2026/05/22/letters-to-the-editor-may-23-2026))
 
 - **Build with AI | Google for Developers**: Google is organizing events and workshops globally to help developers learn AI skills and apply them to real-world challenges. ([source](https://developers.google.com/community/build-with-ai))
+
+## 2026-05-24
+- **Montreal AI ML Meetup, Sun, May 24, 2026**: An upcoming event for researchers and enthusiasts to explore the origins of AI technology, with a focus on transitioning from experimental to production-ready practices. ([source](https://www.createwith.com/event/montreal-montreal-ai-ml-meetup-sun-may-24-2026-12-00-pm-may-2026))
+
+- **AI NEWS: Week of May 18 to May 24, 2026**: Google has launched the agentic Gemini era, introducing autonomous systems capable of executing tasks within their ecosystem, including a Universal Cart for autonomous purchases. ([source](https://www.linkedin.com/posts/hamid-najib_ai-news-week-of-may-18-to-may-24-2026-activity-7463695032928288768-ql4I))
+
+- **Five Trends in AI and Data Science for 2026**: Discussion on the potential for an AI bubble to burst soon, influenced by market dynamics and competition from cheaper models abroad. ([source](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **What's next in AI: 7 trends to watch in 2026**: AI is expected to play a central role in research processes, actively contributing to discoveries in various scientific fields by 2026. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **ACDL 2026 – Advanced Course on Data Science & Machine Learning**: A five-day immersive course in Tuscany focusing on advancements in AI, featuring lectures from leading experts in the field. ([source](https://acdl2026.icas.events))
+
+- **ICML 2026**: The International Conference on Machine Learning will feature invited talks and workshops, highlighting the latest research and developments in machine learning. ([source](https://icml.cc))
+
+- **Training Data Markup Language for Artificial Intelligence**: The OGC is seeking public comment on a new standard aimed at improving the organization and accessibility of training data for AI systems. ([source](https://www.ogc.org/standards/trainingdml-ai))
+
+- **DBWorld: Recent Messages**: A compilation of recent calls for papers and announcements related to AI conferences and workshops, indicating ongoing academic engagement in the field. ([source](https://dbworld.sigmod.org/browse.html))
+
+- **Young Academy of Sciences Summit**: A summit focusing on the intersection of AI and scientific discovery, emphasizing the role of AI in advancing research methodologies. ([source](https://www.instagram.com/p/DX_BsC9GAnT))
+
+- **Marriages-divorces, May 24, 2026**: A notice regarding the prohibition of using content from the Pottsville Republican Herald for AI training without consent, highlighting legal considerations in AI development. ([source](https://www.republicanherald.com/2026/05/23/marriages-divorces-may-24-2026))
