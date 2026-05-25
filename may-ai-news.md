@@ -504,3 +504,24 @@
 - **Young Academy of Sciences Summit**: A summit focusing on the intersection of AI and scientific discovery, emphasizing the role of AI in advancing research methodologies. ([source](https://www.instagram.com/p/DX_BsC9GAnT))
 
 - **Marriages-divorces, May 24, 2026**: A notice regarding the prohibition of using content from the Pottsville Republican Herald for AI training without consent, highlighting legal considerations in AI development. ([source](https://www.republicanherald.com/2026/05/23/marriages-divorces-may-24-2026))
+
+## 2026-05-25
+- **Weekly AI News Update May 20–24 2026**: Google hosted its largest developer conference in a decade, launching a new model family and a 24/7 AI agent while reducing subscription prices by 60%. OpenAI filed for IPO and won a lawsuit against Elon Musk. Anthropic reported its first quarterly profit and is nearing a $900 billion funding round. ([source](https://unrot.co/blogs/weekly-ai-news-may-2026))
+
+- **Moonshot AI Releases Kimi K2.6**: Moonshot AI announced the discontinuation of support for the older Kimi K2 series, urging developers to migrate to the K2.6 model, which offers enhanced reasoning and stability. Community contributions are expected to refine the model further. ([source](https://mlq.ai/news/moonshot-ai-releases-kimi-k26-open-source-coding-model-with-autonomous-multi-day-task-execution))
+
+- **Agent Collaboration Weekly AI News**: The AI Agent Store introduced Claw Earn, an on-chain jobs platform connecting buyers, autonomous agents, and human workers, allowing users to earn USDC by completing tasks. ([source](https://aiagentstore.ai/ai-agent-news/topic/agent-collaboration/2026-05-25/detailed))
+
+- **What's Next in AI: 7 Trends to Watch in 2026**: AI is transitioning from a tool to a collaborative partner, impacting various industries by enhancing work, creativity, and problem-solving capabilities. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Five Trends in AI and Data Science for 2026**: Experts highlight key trends including the deflation of the AI bubble, the rise of AI infrastructure, and a greater emphasis on generative AI as a resource within organizations. ([source](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **The Trends That Will Shape AI and Tech in 2026**: IBM's research predicts a shift towards robotics and physical AI, indicating that scaling limitations will prompt a focus on tangible applications of AI technology. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **National Academies Meeting on AI-Enabled Software Engineering**: A convening scheduled for June 29-30, 2026, will explore research priorities in AI-enabled software engineering, addressing potential risks and threat vectors associated with generative AI. ([source](https://www.nationalacademies.org/units/CAST-CAST%20EO-25-P-696/updates))
+
+- **Medicure Q1 2026 Revenue Report**: Medicure reported a revenue increase to $7.9 million for Q1 2026, up from $5.4 million, while AGGRASTAT revenue declined. A conference call is scheduled for May 25, 2026. ([source](https://www.stocktitan.net/news/MCUJF/medicure-reports-financial-results-for-quarter-ended-march-31-2026-cco4bnzx3kby.html))
+
+- **Algorithmic Bias in Higher Education**: A discussion on the risks associated with algorithmic bias in digital learning tools, emphasizing the need for evidence-based approaches in implementing these technologies in college courses. ([source](https://www.everylearnereverywhere.org/es/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education))
+
+- **New Bill to Extend Tax Credit for Space-Based Manufacturing**: A proposed bill aims to extend tax credits for manufacturing activities in space, reflecting the growing interest in space-based technologies and their economic implications. ([source](https://www.taxnotes.com/tax-notes-federal/credits/new-bill-would-extend-tax-credit-space-based-manufacturing/2026/05/25/7w4qj))
