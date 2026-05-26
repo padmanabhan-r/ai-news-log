@@ -525,3 +525,24 @@
 - **Algorithmic Bias in Higher Education**: A discussion on the risks associated with algorithmic bias in digital learning tools, emphasizing the need for evidence-based approaches in implementing these technologies in college courses. ([source](https://www.everylearnereverywhere.org/es/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education))
 
 - **New Bill to Extend Tax Credit for Space-Based Manufacturing**: A proposed bill aims to extend tax credits for manufacturing activities in space, reflecting the growing interest in space-based technologies and their economic implications. ([source](https://www.taxnotes.com/tax-notes-federal/credits/new-bill-would-extend-tax-credit-space-based-manufacturing/2026/05/25/7w4qj))
+
+## 2026-05-26
+- **Gemini Enterprise Agent Platform**: Google has launched the Gemini Enterprise Agent Platform, enabling organizations to create and manage autonomous AI agents for complex business processes. ([Google Blog](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026))
+
+- **AMI Labs Secures Funding**: Advanced Machine Intelligence Labs, founded by Yann LeCun, raised $1.03 billion in seed funding, marking the largest seed round in European history, to develop "world models" for AI. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **AI Communication with Brain Cells**: Engineers at Northwestern University have successfully developed artificial neurons that can communicate with living brain cells, advancing the field of bioengineering. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence))
+
+- **OpenAI Opens Singapore Lab**: OpenAI has established a new AI lab in Singapore, coinciding with updates to the AI framework by the Infocomm Media Development Authority (IMDA). ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **China Maps Renewable Energy Grid**: China's AI has successfully mapped its entire renewable energy grid, highlighting the potential for global applications and advancements in energy management. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **AI and 5G Integration**: AI and machine learning are being positioned as crucial technologies for optimizing 5G networks, enhancing communication and addressing interference challenges. ([ITU](https://aiforgood.itu.int/ai-and-machine-learning-for-a-5g-world-meet-the-champions-of-the-itu-ai-ml-in-5g-challenge))
+
+- **Trends in AI and Data Science**: A report discusses potential trends in AI and data science for 2026, including concerns about a possible market bubble and the impact of cheaper AI models from China. ([MIT Sloan Review](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **AI Governance and Regulation**: The ongoing discussions around AI governance and regulation are highlighted, particularly in light of recent developments in the AI landscape. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **AI in Public Sector Cybersecurity**: A new survey indicates that budget cuts are straining public sector cybersecurity, leading agencies to adopt smarter, AI-driven security solutions. ([Carahsoft](https://www.carahsoft.com/solve/ai))
+
+- **AI's Misleading Terminology**: A study reveals that using terms like "smart" or "knows" to describe AI can mislead the public about its capabilities, emphasizing the need for careful language in AI reporting. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence))
