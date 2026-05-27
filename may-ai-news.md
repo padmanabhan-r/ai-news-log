@@ -546,3 +546,24 @@
 - **AI in Public Sector Cybersecurity**: A new survey indicates that budget cuts are straining public sector cybersecurity, leading agencies to adopt smarter, AI-driven security solutions. ([Carahsoft](https://www.carahsoft.com/solve/ai))
 
 - **AI's Misleading Terminology**: A study reveals that using terms like "smart" or "knows" to describe AI can mislead the public about its capabilities, emphasizing the need for careful language in AI reporting. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence))
+
+## 2026-05-27
+- **AI DEVSUMMIT 2026 | SAN FRANCISCO | MAY 27–28**: The AI DevSummit 2026 will take place in San Francisco, focusing on advancements in AI development and engineering, featuring keynotes and technical sessions. ([source](https://events.coinpedia.org/ai-devsummit-2026-8402))
+
+- **Digital and AI in upstream oil and gas – a $500 billion opportunity**: A report estimates that digitalization and AI could generate nearly $500 billion in value for exploration and production companies from 2026 to 2030 through enhanced efficiency and productivity. ([source](https://www.hellenicshippingnews.com/digital-and-ai-in-upstream-oil-and-gas-a-500-billion-opportunity))
+
+- **Quantum Machine Learning and Life Sciences Workshop | Penn State University**: A workshop aimed at connecting researchers in quantum computing and life sciences, scheduled for May 27, 2026, to explore the intersection of these fields. ([source](https://www.psu.edu/news/institute-computational-and-data-sciences/events/quantum-machine-learning-and-life-sciences))
+
+- **The 2026 AI Index Report**: The latest AI Index reveals a growing disparity between AI capabilities and society's preparedness to manage its implications, highlighting the need for better governance and understanding. ([source](https://hai.stanford.edu))
+
+- **Artificial Intelligence Solutions for Government - Carahsoft**: VMware's Private AI aims to enhance secure and scalable AI adoption in healthcare, focusing on simplifying deployment and ensuring data security. ([source](https://www.carahsoft.com/solve/ai))
+
+- **Artificial Intelligence (AI) for Manufacturing Workshop | NIST**: A workshop focused on the application of AI in manufacturing, covering topics such as data processing, quality assurance, and process improvement. ([source](https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop))
+
+- **Master Level 7 Diploma in Artificial Intelligence**: The London School of International Business is offering a Level 7 Diploma in AI, aimed at international students and emphasizing fast-track learning. ([source](https://www.lsib.co.uk/2022/course-details.aspx?id=2829785&CourseTitle=Level+7+Diploma+in+Artificial+Intelligence&Subject=Computing&Award=Diploma))
+
+- **Foundations of Machine Learning | Santa Fe Institute**: An event discussing various aspects of machine learning, including human-AI collaboration and the complexities of AI systems, scheduled for May 2026. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+- **2026 Artificial Intelligence Bootcamp | Durham Technical Community College**: Durham Tech is offering an AI bootcamp as part of its continuing education program, with registration opening on July 1, 2026. ([source](https://www.durhamtech.edu/events/2026-artificial-intelligence-bootcamp))
+
+- **AI by AI Weekly Top 5: April 27 – May 3, 2026**: Highlights include Google's TurboQuant algorithm, which significantly reduces memory loads in large language models while maintaining performance, marking a notable advancement in AI efficiency. ([source](https://champaignmagazine.com/2026/05/03/ai-by-ai-weekly-top-5-april-27-may-3-2026))
