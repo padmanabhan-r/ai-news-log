@@ -567,3 +567,24 @@
 - **2026 Artificial Intelligence Bootcamp | Durham Technical Community College**: Durham Tech is offering an AI bootcamp as part of its continuing education program, with registration opening on July 1, 2026. ([source](https://www.durhamtech.edu/events/2026-artificial-intelligence-bootcamp))
 
 - **AI by AI Weekly Top 5: April 27 – May 3, 2026**: Highlights include Google's TurboQuant algorithm, which significantly reduces memory loads in large language models while maintaining performance, marking a notable advancement in AI efficiency. ([source](https://champaignmagazine.com/2026/05/03/ai-by-ai-weekly-top-5-april-27-may-3-2026))
+
+## 2026-05-28
+- **Artificial Intelligence 2026 | May 28-30 | Barcelona, Spain**: Dr. Armando Vieira, a physicist and AI specialist, will share insights from his 25 years of experience in computational methods and intelligent systems at this upcoming conference. ([source](https://creovateconferences.com/ai-ml-robotics))
+
+- **Nxt AI-2026**: The second edition of the International Conference on Next-Generation AI & Machine Learning is scheduled for November 2-4, 2026, in Boston, with early access registration closing soon. ([source](https://nxtai-conference.com))
+
+- **AI and machine learning | EMBL.org**: The EMBL's 2023 Science & Society conference focused on the ethical implications of technology in life sciences, highlighting the importance of responsible AI practices. ([source](https://www.embl.org/topics/ai-at-embl))
+
+- **Artificial Intelligence - History, Uses, Types**: An overview of AI's capabilities, including machine learning and deep learning, emphasizing its ability to process large amounts of unstructured data autonomously. ([source](https://www.business-standard.com/about/what-is-artificial-intelligence))
+
+- **Artificial Intelligence Research Reports - SOA**: The Society of Actuaries provides a collection of research reports on AI, although their site will undergo maintenance, limiting access temporarily. ([source](https://www.soa.org/research/topics/artificial-intelligence-res-report-list))
+
+- **AI LA Community**: Upcoming events include the Responsible AI Symposium and various meetups focused on AI policy and aerospace, fostering community engagement in Los Angeles. ([source](https://www.joinai.la))
+
+- **Artificial Intelligence (AI) for Manufacturing Workshop | NIST**: NIST is hosting a workshop on AI applications in manufacturing, with limited registration available for interested participants. ([source](https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop))
+
+- **As AI continues to... - John Clements Consultants, Inc**: A post discussing the integration of AI in industries, emphasizing the collaborative future of AI and human roles rather than competition. ([source](https://www.facebook.com/johnclementsph/posts/as-ai-continues-to-reshape-industries-one-thing-is-clearthe-future-isnt-ai-vs-hu/981038357865657))
+
+- **Calendar: May 28, 2026 – Pottsville Republican Herald**: A brief mention of local events, including a focus on the use of content in AI training, highlighting the ongoing discussions about AI ethics and data usage. ([source](https://www.republicanherald.com/2026/05/27/calendar-may-28-2026))
+
+- **Download allocations list - NAIRR Pilot**: This project aims to enhance reinforcement learning through a new reward modeling approach, showcasing advancements in AI research methodologies. ([source](https://nairrpilot.org/pilotallocations/q/awards))
