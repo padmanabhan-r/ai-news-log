@@ -588,3 +588,24 @@
 - **Calendar: May 28, 2026 – Pottsville Republican Herald**: A brief mention of local events, including a focus on the use of content in AI training, highlighting the ongoing discussions about AI ethics and data usage. ([source](https://www.republicanherald.com/2026/05/27/calendar-may-28-2026))
 
 - **Download allocations list - NAIRR Pilot**: This project aims to enhance reinforcement learning through a new reward modeling approach, showcasing advancements in AI research methodologies. ([source](https://nairrpilot.org/pilotallocations/q/awards))
+
+## 2026-05-29
+- **Artificial Intelligence: From Data to Value Creation, 2 Days "Applications of AI"**: The Swiss Chemical Society and Swiss Data Center are hosting a course aimed at enhancing understanding of AI's value in the chemistry community, focusing on key machine learning concepts and data science. ([source](https://analytik.news/en/events/33141.html))
+
+- **European Laboratory for Learning and Intelligent Systems**: The ELLIS ELIAS ELLIOT Winter School on Foundation Models 2026 in Amsterdam attracted 260 young researchers from 128 institutions, emphasizing the global interest in foundational AI models. ([source](https://ellis.eu))
+
+- **Artificial Intelligence News Nvidia Stock Nvidia's Stock Surge, Uber ...**: Nvidia reports significant revenue growth attributed to AI advancements, indicating a strong market impact and investor interest in AI technologies. ([source](https://visionfinancialstrategies.com?d=41384198051940))
+
+- **Launch of Ontario Universities' AI Task Force Report**: The Empire Club of Canada hosted a conference featuring leaders discussing the findings of the Ontario Universities' AI Task Force, highlighting the importance of AI in education and research. ([source](https://www.instagram.com/reel/DYCq05oleBf))
+
+- **2026 International Conference List on Artificial Intelligence**: A comprehensive list of upcoming AI conferences in 2026, including the Annual Conference on Learning Theory and IJCNN, showcasing the active engagement in AI research and discussions. ([source](https://www.mi-research.net/news/712))
+
+- **Med AI - University of Virginia School of Medicine**: UVA emphasizes the integration of AI into clinical workflows, focusing on real-world applications and the evaluation of AI's impact on patient care and outcomes. ([source](https://med.virginia.edu/research/med-ai))
+
+- **The Association for the Advancement of Artificial Intelligence**: The AAAI-27 conference is scheduled for February 2027, alongside the ICWSM 2026 conference in Los Angeles, indicating ongoing efforts to advance AI research and ethics. ([source](https://aaai.org))
+
+- **Join the Brain Aneurysm Foundation on May 29, 2026**: A webinar will discuss the role of AI in understanding strokes and brain health, highlighting the intersection of AI and medical research. ([source](https://www.facebook.com/bafound/posts/join-the-brain-aneurysm-foundation-on-may-29-2026-at-130-pm-et-for-an-insightful/1443772884458583))
+
+- **Dagstuhl Seminar 26221: Knowledge Compilation in Artificial Intelligence**: This seminar will focus on knowledge compilation in AI, databases, and formal methods, emphasizing the importance of theoretical foundations in AI research. ([source](https://www.dagstuhl.de/26221))
+
+- **Ar Vr Glasses Future Headset Meta Unveils Cheaper VR Headset**: Meta introduces a more affordable VR headset with AI updates, reflecting the ongoing innovation in augmented and virtual reality technologies. ([source](https://www.sertegra.es?f=23692814041530))
