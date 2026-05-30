@@ -609,3 +609,24 @@
 - **Dagstuhl Seminar 26221: Knowledge Compilation in Artificial Intelligence**: This seminar will focus on knowledge compilation in AI, databases, and formal methods, emphasizing the importance of theoretical foundations in AI research. ([source](https://www.dagstuhl.de/26221))
 
 - **Ar Vr Glasses Future Headset Meta Unveils Cheaper VR Headset**: Meta introduces a more affordable VR headset with AI updates, reflecting the ongoing innovation in augmented and virtual reality technologies. ([source](https://www.sertegra.es?f=23692814041530))
+
+## 2026-05-30
+- **Anthropic Hits $965B — Eclipses OpenAI**: Anthropic's valuation has reached $965 billion, surpassing OpenAI, as the company continues to expand its AI capabilities. ([Singularity.Kiwi](https://singularity.kiwi/daily-news-may-30-2026))
+
+- **Claude Opus 4.8 Launches with Dynamic Workflows**: The latest version of Anthropic's AI model, Claude Opus 4.8, introduces dynamic workflows, enhancing its functionality and usability. ([Singularity.Kiwi](https://singularity.kiwi/daily-news-may-30-2026))
+
+- **AI Safety Regulation Goes State-Level**: New regulations concerning AI safety are being implemented at the state level, reflecting increasing governmental scrutiny over AI technologies. ([Singularity.Kiwi](https://singularity.kiwi/daily-news-may-30-2026))
+
+- **Governments Label AI as National Security Risk**: Various governments are now categorizing AI technologies as national security risks, leading to restrictions on AI vendors in defense sectors. ([imfounder.com](https://imfounder.com/science-tech/ai/ai-updates-may-2026))
+
+- **Debate on Regulation vs. Innovation**: There is an ongoing debate about the balance between regulating AI to ensure safety and allowing innovation to flourish, posing challenges for founders in the sector. ([imfounder.com](https://imfounder.com/science-tech/ai/ai-updates-may-2026))
+
+- **Anthropic Q1 Revenue Grows 80x Year-over-Year**: Anthropic reported an astonishing 80-fold increase in revenue year-over-year for Q1, with an annual recurring revenue exceeding $44 billion. ([aitoolsrecap.com](https://aitoolsrecap.com/Blog/ai-news-may-30-2026))
+
+- **AI Hiring Tools Yield Racial Bias**: A significant study reveals that AI hiring algorithms may perpetuate racial bias, raising ethical concerns about their deployment in recruitment processes. ([Stanford HAI](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **AI Conference on Healthcare Scheduled**: The 3rd International Conference on Artificial Intelligence in Healthcare and Industry will take place in Toronto, focusing on the transformative potential of AI in healthcare. ([Scitechseries](https://www.scitechseries.com/artificial-intelligence-machine))
+
+- **Emerging AI Trends in May 2026**: Five key trends in AI have emerged, emphasizing the technology's role as a force multiplier for human creativity and scientific discovery. ([etcjournal.com](https://etcjournal.com/2026/05/11/five-emerging-ai-trends-in-may-2026-a-digital-twin-of-human-neural-activity))
+
+- **NIST-University Research Summit Announced**: The upcoming NIST-University Research Summit will showcase innovative methodologies in AI and other high-priority research areas, fostering collaboration between academia and industry. ([NIST](https://www.nist.gov/news-events/events/2026/06/2026-nist-university-research-summit))
