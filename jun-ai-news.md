@@ -21,3 +21,24 @@
 - **AI predicts Bitcoin price on June 1, 2026**: Another prediction indicates Bitcoin's price will be influenced by geopolitical tensions and market conditions, with significant liquidations reported in the crypto sector. ([Crypto News](https://cryptonews.net/news/bitcoin/32884670))
 
 - **AI News Today 2026: Live Updates & New Tools**: The article highlights key trends in AI, including the rise of Edge AI processing and the integration of multimodal systems that can understand various forms of data. ([Game2TechZone](https://www.game2techzone.com/blog/artificial-intelligence-news-today-2026))
+
+## 2026-06-02
+- **Detroit AI Workforce & Economic Development Summit | June 2, 2026**: An upcoming summit offering insights and networking opportunities in AI for $20, focusing on practical strategies and real-world applications. ([source](https://dsdt.edu/detroits-ai-workforce-moment-is-here-and-its-happening-june-2nd))
+
+- **AI LA Community**: A series of upcoming events in Los Angeles, including a Responsible AI Symposium and AI Policy Meetup, aimed at fostering community engagement in AI discussions. ([source](https://www.joinai.la))
+
+- **How I See AI Evolving in 2026 (as an AI Engineer)**: A video discussion by AI engineer Dave Ebbelaar on the future of AI, addressing limitations of large language models and the potential for artificial general intelligence. ([source](https://www.youtube.com/watch?v=rbIX3Hp__rY&vl=en))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Insights from Stanford experts on the future of AI, emphasizing the need to understand the inner workings of neural networks and the importance of transparency in AI research. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **AI News Daily Update (06 February 2026)**: A daily update highlighting significant AI advancements, including OpenAI's multimodal reasoning and AI's impact on healthcare diagnostics. ([source](https://www.youtube.com/watch?v=-t13U0SbsFM))
+
+- **Artificial Intelligence Grant – Apply Today | NSF SBIR**: Announcement of new solicitations for AI project pitches under the SBIR/STTR program, inviting submissions for innovative AI projects. ([source](https://seedfund.nsf.gov/topics/artificial-intelligence))
+
+- **Events in Artificial Intelligence**: Information on upcoming AI events, including a Chief AI Officer Summit in New York, aimed at senior AI professionals to share insights and drive impact. ([source](https://www.re-work.co/events))
+
+- **Symposium | Artificial Intelligence for Basic Research in Medicine**: A symposium hosted by Weill Cornell Medicine focusing on the application of AI in medical research and life sciences, scheduled for June 1-2, 2026. ([source](https://eipm.weill.cornell.edu/news-events/symposium-artificial-intelligence-basic-research-medicine-and-life-sciences))
+
+- **AI/ML in Genomics and Genetic Counseling: Issue 6**: A series aimed at educating medical professionals on AI applications in genomics, with a focus on continuous professional development in AI. ([source](https://perspectives.nsgc.org/Article/aiml-in-genomics-and-genetic-counseling-issue-6))
+
+- **AI is changing the world—and you can be part of it**: An overview of how AI is transforming law enforcement practices, highlighting both the capabilities and ethical concerns associated with its use. ([source](https://www.instagram.com/p/DYXy316GlND))
