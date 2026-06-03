@@ -42,3 +42,24 @@
 - **AI/ML in Genomics and Genetic Counseling: Issue 6**: A series aimed at educating medical professionals on AI applications in genomics, with a focus on continuous professional development in AI. ([source](https://perspectives.nsgc.org/Article/aiml-in-genomics-and-genetic-counseling-issue-6))
 
 - **AI is changing the world—and you can be part of it**: An overview of how AI is transforming law enforcement practices, highlighting both the capabilities and ethical concerns associated with its use. ([source](https://www.instagram.com/p/DYXy316GlND))
+
+## 2026-06-03
+- **Professional Certificate Program in Machine Learning & Artificial Intelligence**: MIT is offering a professional certificate program focusing on machine learning and AI, scheduled for June to July 2026. ([source](https://professional.mit.edu/course-catalog))
+
+- **Daily AI News from GAI Insights**: A new episode of Daily AI News is set to air, providing updates on the latest developments in AI. ([source](https://www.youtube.com/watch?v=mZgHTu_pQnE))
+
+- **Nudging Behaviors for Better Sleep Grant**: The U.S. Department of the Navy has announced a grant aimed at using AI and machine learning to promote better sleep habits. ([source](https://grantedai.com/grants/machine-learning-ml-and-artificial-intelligence-ai-to-develop-capabiliti-department-of-the-navy-fe31e9bd))
+
+- **Generative AI Center Events**: UC Santa Cruz is hosting bi-weekly meetups focused on generative AI, with the next event scheduled for today. ([source](https://genai.ucsc.edu/events))
+
+- **European Summer School on Artificial Intelligence 2026**: TU Wien will host the fourth European Summer School on AI from July 6-10, 2026, focusing on machine learning topics. ([source](https://informatics.tuwien.ac.at/ai))
+
+- **C3.ai Q4 2026 Earnings Report**: C3.ai has released its earnings report for Q4 2026, providing insights into its financial performance and market position. ([source](https://www.marketbeat.com/earnings/reports/2026-6-3-c3ai-inc-stock))
+
+- **Center for Artificial Intelligence and Machine Learning**: TU Wien's CAIML aims to enhance research in AI and machine learning, establishing the institution as a leading center in the field. ([source](https://caiml.org))
+
+- **AI in Spare Parts Warehousing**: KION Group is utilizing AI to optimize logistics in spare parts warehousing, aiming to reduce time pressure and improve efficiency. ([source](https://www.kiongroup.com/en/News-Stories/KION-Stories/Innovation/Article/How-AI-Optimizes-Spare-Parts-Logistics.html?storyid=63488))
+
+- **2026 AI Index Report**: Stanford's AI Index Report highlights a growing gap between AI capabilities and the preparedness of frameworks to manage its implications. ([source](https://hai.stanford.edu))
+
+- **Funding Opportunities for AI Development**: The Department of Defense has opened a solicitation for funding related to extremely wide band digital recording systems for AI and machine learning development. ([source](https://www.sbir.gov/topics/12686))
