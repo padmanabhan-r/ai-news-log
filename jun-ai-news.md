@@ -63,3 +63,24 @@
 - **2026 AI Index Report**: Stanford's AI Index Report highlights a growing gap between AI capabilities and the preparedness of frameworks to manage its implications. ([source](https://hai.stanford.edu))
 
 - **Funding Opportunities for AI Development**: The Department of Defense has opened a solicitation for funding related to extremely wide band digital recording systems for AI and machine learning development. ([source](https://www.sbir.gov/topics/12686))
+
+## 2026-06-04
+- **AI and Machine Learning Courses | SAS**: SAS is offering a virtual workshop on AI foundations, scheduled for June 4, 2026, aimed at helping participants earn a knowledge badge in AI. ([source](https://www.sas.com/en_us/training/programs/aiml-courses.html))
+
+- **Johns Hopkins AI Course Online with Certificate in Applied ML & Agents**: Johns Hopkins University is closing applications for its online certificate program in applied AI, machine learning, and generative AI on June 4, 2026. ([source](https://online.lifelonglearning.jhu.edu/jhu-certificate-program-applied-ai))
+
+- **AI-Powered Token Prediction and Automated Trading in Web3**: A new research paper discusses the use of AI for token prediction and automated trading in decentralized finance, leveraging on-chain data. ([source](https://ijcsrr.org/wp-content/uploads/2026/06/04-0306-2026.pdf))
+
+- **Nxt AI-2026**: The Nxt AI conference will feature discussions on global challenges and advanced AI research, providing networking opportunities with industry leaders. ([source](https://nxtai-conference.com))
+
+- **Google AI Updates April 2026**: Google announced enhancements to its AI Studio, including increased usage limits for subscribers and a new course on using AI agents for software development. ([source](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026))
+
+- **NVIDIA Reveals Release Date for Nemotron 3 Ultra**: NVIDIA announced that its new AI model, Nemotron 3 Ultra, will be released on June 4, 2026, featuring 550 billion parameters and available through multiple platforms. ([source](https://www.instagram.com/reel/DZCmrAkNWJK))
+
+- **Humans of Generative AI**: A workshop at CVPR 2026 will focus on human-centered research in generative AI and computer vision, scheduled for June 3 or 4, 2026, in Denver, Colorado. ([source](https://humansofgenerativeai.github.io))
+
+- **AI & FinTech - XBRL US**: XBRL US submitted comments to the PCAOB regarding its strategic plan for 2026-2030, emphasizing the role of AI in enhancing financial reporting efficiency. ([source](https://xbrl.us/home/priorities/efficiency/fintech))
+
+- **Challenges and Opportunities of Artificial Intelligence for Good**: An initiative is calling for applications to explore how AI can be leveraged for social good, with a deadline set for September 1, 2026. ([source](https://aiforgood.itu.int/challenges-and-opportunities-of-artificial-intelligence-for-good))
+
+- **UConn Unveils AI Initiative to Propel State Innovation**: The University of Connecticut has launched an AI initiative aimed at fostering innovation and collaboration within the state. ([source](https://www.miragenews.com/uconn-unveils-ai-initiative-to-propel-state-1685754))
