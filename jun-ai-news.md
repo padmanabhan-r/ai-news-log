@@ -84,3 +84,24 @@
 - **Challenges and Opportunities of Artificial Intelligence for Good**: An initiative is calling for applications to explore how AI can be leveraged for social good, with a deadline set for September 1, 2026. ([source](https://aiforgood.itu.int/challenges-and-opportunities-of-artificial-intelligence-for-good))
 
 - **UConn Unveils AI Initiative to Propel State Innovation**: The University of Connecticut has launched an AI initiative aimed at fostering innovation and collaboration within the state. ([source](https://www.miragenews.com/uconn-unveils-ai-initiative-to-propel-state-1685754))
+
+## 2026-06-05
+- **2026: The year AI moves from experimentation to execution**: Experts predict a shift in focus from speculative AI investments to practical applications that enhance efficiency and customer engagement. ([Innovation News Network](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **Artificial Intelligence & Machine Learning - Rebellion Research**: The article highlights the top 20 AI minds on Wall Street and discusses Sequentum's launch of an enterprise AI checkout agent integrated with Skyfire. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning/page/2))
+
+- **AI scores with Alaska mineral exploration**: The article discusses President Trump's recent executive orders aimed at promoting AI innovation and security, particularly in the context of national and economic security. ([North of 60 Mining News](https://www.miningnewsnorth.com/story/2026/06/05/op-ed/ai-scores-with-alaska-mineral-exploration/9704.html))
+
+- **Call for Papers – MAIN 2026**: The conference invites submissions on various topics related to AI and networking, including AI-as-a-Service and sustainable in-network AI. ([MAIN Conference](https://www.main-conference.org/call-for-papers))
+
+- **AI-Powered Analysis & Intelligence | Services | BRG**: BRG has expanded its AI capabilities with new strategic hires and the launch of a practice group focused on AI-powered analysis in legal disputes. ([BRG](https://www.thinkbrg.com/services/disputes/ai-powered-analysis-intelligence))
+
+- **6th International Conference on Artificial Intelligence & Machine Learning**: This upcoming conference will feature discussions on the latest advancements in AI and machine learning, scheduled for June 2026 in France. ([Main Event](https://mainevent.info/6th-international-conference-on-artificial-intelligence-machine-learning-event-0014169))
+
+- **Artificial Intelligence - Stanford Emerging Technology Review**: The article explains the role of computer vision and machine learning in enabling machines to interpret visual data and perform tasks autonomously. ([Stanford Emerging Technology Review](https://setr.stanford.edu/technology/artificial-intelligence/2026))
+
+- **Challenges and opportunities of Artificial Intelligence for Good**: This overview discusses the advancements in AI and machine learning, emphasizing their potential for positive societal impact. ([AI for Good](https://aiforgood.itu.int/challenges-and-opportunities-of-artificial-intelligence-for-good))
+
+- **National Center for AI and Workforce Development - OCCC**: The center, in collaboration with AWS, provides students with access to machine-learning tools, preparing them for careers in the tech industry. ([OCCC](https://www.occc.edu/academics/center-ai-workforce.html))
+
+- **Artificial Intelligence (AI) and Machine Learning in Orthopedic Conferences**: Upcoming conferences will focus on the integration of AI and machine learning in orthopedic practices, highlighting advancements in medical technology. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
