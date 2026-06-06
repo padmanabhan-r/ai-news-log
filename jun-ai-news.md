@@ -105,3 +105,24 @@
 - **National Center for AI and Workforce Development - OCCC**: The center, in collaboration with AWS, provides students with access to machine-learning tools, preparing them for careers in the tech industry. ([OCCC](https://www.occc.edu/academics/center-ai-workforce.html))
 
 - **Artificial Intelligence (AI) and Machine Learning in Orthopedic Conferences**: Upcoming conferences will focus on the integration of AI and machine learning in orthopedic practices, highlighting advancements in medical technology. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+## 2026-06-06
+- **Join MLWeek's HYBRID AI 2026, San Francisco, May 5-6, 2026**: This AI conference will focus on machine learning and predictive AI methods, providing a balanced view across various software vendors. ([source](https://machinelearningweek.com))
+
+- **2026 5th International Conference on Frontiers of Artificial Intelligence and Machine Learning**: Scheduled for June 5-7, 2026, in Changsha, China, this conference is organized by Hunan University and aims to explore advancements in AI and machine learning. ([source](https://www.faiml.org))
+
+- **AI News: Latest Artificial Intelligence Updates (2026) - AI Weekly**: The article discusses the distinction between machine learning and deep learning, highlighting the significance of large language models (LLMs) in current AI advancements. ([source](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts predict that new self-supervised machine learning methods will significantly reduce the cost of developing medical AI models, making them more accessible. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **Artificial Intelligence - History, Uses, Types - Business Standard**: This article provides an overview of AI, including its definitions, types, and the role of machine learning and deep learning in achieving specific goals. ([source](https://www.business-standard.com/about/what-is-artificial-intelligence))
+
+- **AI News & Articles - Artificial Intelligence Updates**: A roundup of the latest advances in AI and machine learning, covering topics such as generative AI, LLMs, and deepfakes. ([source](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **Welcome to RoboticsAI2026 Conference**: This conference will take place from November 19-21, 2026, in Osaka, Japan, focusing on breakthroughs in intelligent systems and autonomous technologies. ([source](https://robotics2026.com))
+
+- **STOC 2026 - 58th ACM Symposium on Theory of Computing**: A special workshop titled "Can AI do Theory?" will be held to discuss the intersection of AI and theoretical computer science, expanding the dialogue on AI's role in research methodologies. ([source](https://acm-stoc.org/stoc2026))
+
+- **The Evolution and Future of Artificial Intelligence: A Student's Guide**: This guide discusses the rapid advancements in AI and the importance of education in keeping pace with the field's developments. ([source](https://www.calmu.edu/news/future-of-artificial-intelligence))
+
+- **2026 International Conference List on Artificial Intelligence**: A comprehensive list of upcoming conferences focused on AI, providing opportunities for researchers and professionals to engage with the latest developments in the field. ([source](https://www.mi-research.net/news/712))
