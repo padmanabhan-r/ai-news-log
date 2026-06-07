@@ -126,3 +126,24 @@
 - **The Evolution and Future of Artificial Intelligence: A Student's Guide**: This guide discusses the rapid advancements in AI and the importance of education in keeping pace with the field's developments. ([source](https://www.calmu.edu/news/future-of-artificial-intelligence))
 
 - **2026 International Conference List on Artificial Intelligence**: A comprehensive list of upcoming conferences focused on AI, providing opportunities for researchers and professionals to engage with the latest developments in the field. ([source](https://www.mi-research.net/news/712))
+
+## 2026-06-07
+- **2nd International Conference on Artificial Intelligence and Machine Learning (Artificial intelligence 2026)**: Scheduled for July 06-07, 2026, in Singapore, this conference aims to gather experts and enthusiasts in AI and ML to discuss advancements in the field. ([Kindcongress](https://kindcongress.com/event/artificial-intelligence-2026))
+
+- **International Conference on Artificial Intelligence and Machine Learning 2026**: This event will also take place in Singapore on July 06-07, 2026, focusing on the latest developments in AI and ML. ([AI & ML Events](https://aiml.events/events/international-conference-on-artificial-intelligence-and-machine-learning-2026))
+
+- **Artificial Intelligence 2026 2nd International Conference on Artificial Intelligence and Machine Learning**: Another announcement for the same conference in Singapore, emphasizing its significance in uniting professionals in AI and ML. ([WebMobi](https://www.webmobi.com/discovery/events/artificial-intelligence-2026-2nd-international-conference-on-artificial-intelligence-and-machine-learning-20251127))
+
+- **2026 5th International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2026)**: This conference will be held from June 5-7, 2026, in Changsha, China, organized by Hunan University, focusing on cutting-edge AI research. ([FAIML](https://www.faiml.org))
+
+- **AI Con USA**: A hybrid conference scheduled for June 7-12, 2026, in Seattle, Washington, covering real-world AI strategies, generative AI, and MLOps. ([BIC Magazine](https://www.bicmagazine.com/events/ai-con-usa-2026))
+
+- **AI NEWS: Week of June 1 to June 7, 2026**: Highlights include advancements in AI for eye disease detection and Uber's robotaxi services in Spain, showcasing the diverse applications of AI technology. ([Medium](https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a))
+
+- **Artificial Intelligence (AI) and Machine Learning in Orthopedic Conferences**: This conference will focus on how AI and ML are transforming orthopedic care, enhancing diagnosis and surgical precision. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **The PAI AI Event Watch May 25 – June 7, 2026**: An intensive bootcamp for astronomers on AI and machine learning applications in astronomy, hosted by UT Austin. ([PAI](https://paisanoai.substack.com/p/the-pai-ai-event-watch-may-25-june))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts discuss the future of AI, focusing on the need to understand the workings of neural networks and the importance of transparency in AI research. ([Stanford HAI](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **AI Con USA 2026 | Washington**: An overview of the upcoming AI Con USA event, highlighting its focus on various AI and machine learning topics, including health tech innovations. ([Industry Events](https://www.industryevents.com/events/ai-con-usa))
