@@ -147,3 +147,24 @@
 - **Stanford AI Experts Predict What Will Happen in 2026**: Experts discuss the future of AI, focusing on the need to understand the workings of neural networks and the importance of transparency in AI research. ([Stanford HAI](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
 
 - **AI Con USA 2026 | Washington**: An overview of the upcoming AI Con USA event, highlighting its focus on various AI and machine learning topics, including health tech innovations. ([Industry Events](https://www.industryevents.com/events/ai-con-usa))
+
+## 2026-06-08
+- **International Conference on Artificial Intelligence and Machine Learning for Healthcare Applications**: Scheduled for June 07-08, 2026, in San Francisco, this conference aims to unite diverse scholarly events focused on AI in healthcare, offering valuable insights for students and researchers ([source](https://www.medigy.com/event/2026/06/08/aset-international-conference-on-artificial-intelligence-and-machine-learning-for-healthcare-applications)).
+
+- **AI Con USA 2026 - Tutorial - TechWell**: An immersive workshop on June 9, 2026, will explore real-world AI challenges using AWS services like Amazon SageMaker and Lambda to enhance participants' machine learning skills ([source](https://aiconusa.techwell.com/program/tutorials)).
+
+- **AI Con USA 2026 - C-Level**: This session on June 9, 2026, will delve into the evolution of AI agents, particularly focusing on the transition from rule-based systems to more advanced generative AI designs ([source](https://aiconusa.techwell.com/program/job-function/c-level)).
+
+- **Microsoft’s Majorana 2 Quantum Chip**: This chip serves as a case study for agentic AI in research and development, highlighting the maturation of generative AI from a research phase to a practical enterprise utility ([source](https://www.artificialintelligence-news.com)).
+
+- **Anthropic IPO Filing**: The filing marks a significant milestone in the AI industry, indicating the transition of generative AI into a stabilized enterprise utility, reflecting its growing importance in business strategy ([source](https://www.artificialintelligence-news.com)).
+
+- **Digital Health & AI Innovation Summit 2026**: Scheduled for June 8-9, 2026, in Boston, this summit will focus on the intersection of digital health and AI, connecting industry professionals to discuss innovations and applications ([source](https://www.industryevents.com/events/digital-health-ai-innovation-summit)).
+
+- **World Summit AI 2026 - BUILD AI**: A new dedicated stage for developers and machine learning engineers will focus on practical applications of AI, featuring technical leaders from innovative organizations ([source](https://www.facebook.com/WorldSummitAI/posts/-new-at-world-summit-ai-2026-build-aia-dedicated-stage-for-developers-ml-enginee/1451942263638491)).
+
+- **Microsoft Copilot Workshop**: Taking place on June 8, 2026, this workshop will explore how AI tools like Microsoft Copilot can enhance productivity and streamline workflows for professionals ([source](https://www.facebook.com/TrainocatePh/posts/tomorrow-is-the-big-day-join-us-for-the-microsoft-copilot-workshop-on-june-8-202/1466090022200939)).
+
+- **Foundations of Machine Learning | Santa Fe Institute**: This event will cover various topics including predictive mechanisms in modern ML models and the complexities of AI's impact on human agency, scheduled for 2026 ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
+
+- **AI News & Articles - Artificial Intelligence Updates - IEEE Spectrum**: IEEE Spectrum offers a wide range of articles on the latest advancements in AI and machine learning, providing insights into current trends and research ([source](https://spectrum.ieee.org/topic/artificial-intelligence)).
