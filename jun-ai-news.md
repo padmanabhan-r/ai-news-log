@@ -168,3 +168,24 @@
 - **Foundations of Machine Learning | Santa Fe Institute**: This event will cover various topics including predictive mechanisms in modern ML models and the complexities of AI's impact on human agency, scheduled for 2026 ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
 
 - **AI News & Articles - Artificial Intelligence Updates - IEEE Spectrum**: IEEE Spectrum offers a wide range of articles on the latest advancements in AI and machine learning, providing insights into current trends and research ([source](https://spectrum.ieee.org/topic/artificial-intelligence)).
+
+## 2026-06-09
+- **The 4th World Congress of AI Industry 2026 | Osaka**: This upcoming event will focus on digital health and AI innovations, showcasing advancements in AI and machine learning. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **AI News: Latest Artificial Intelligence Updates (2026) - AI Weekly**: Reasoning models are emerging as a significant advancement in AI, utilizing chain-of-thought processing for improved responses. ([source](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **Machine Learning Trends 2026: What to Expect - SoftTeco**: In 2026, AI is expected to work alongside humans, emphasizing context and trust rather than merely computational power. ([source](https://softteco.com/blog/machine-learning-trends))
+
+- **The AI Factor: Redefining Code presented by TAG Data Science & AI Society**: This event will explore the transformative impact of AI on software development, focusing on the evolution of coding practices. ([source](https://members.tagonline.org/calendar/Details/tag-s-data-science-ai-society-presents-the-ai-factor-redefining-code-1729381?sourceTypeId=Hub))
+
+- **AI News: CNN’s coverage on artificial intelligence and related advanced machine learning**: Reports highlight that AI is not taking jobs but changing the nature of work, alongside discussions on a controversial AI data center project in Utah. ([source](https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates))
+
+- **Research Track - AI & Machine Learning - BuiltWorlds**: BuiltWorlds is hosting exclusive working group sessions for stakeholders to discuss AI and machine learning applications in the industry. ([source](https://builtworlds.com/research-track-ai-ml))
+
+- **AI Con USA 2026 - C-Level**: This conference will cover the evolution of AI agents and their applications, particularly focusing on generative AI's impact on agent design. ([source](https://aiconusa.techwell.com/program/job-function/c-level))
+
+- **Artificial Intelligence for Materials Science (AIMS) 2026**: This event will address the intersection of AI and materials science, focusing on the application of AI technologies in this field. ([source](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026))
+
+- **Foundations of Machine Learning | Santa Fe Institute**: This program will delve into advanced topics in machine learning, including dynamics prediction and the implications of AI on human agency. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+- **AI Daily News Podcast - Podcast - Apple Podcasts**: This podcast provides updates and discussions on AI developments across various regions, keeping listeners informed about the latest trends and news. ([source](https://podcasts.apple.com/us/podcast/ai-daily-news-podcast/id1773554281))
