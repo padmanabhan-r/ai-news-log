@@ -189,3 +189,24 @@
 - **Foundations of Machine Learning | Santa Fe Institute**: This program will delve into advanced topics in machine learning, including dynamics prediction and the implications of AI on human agency. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
 
 - **AI Daily News Podcast - Podcast - Apple Podcasts**: This podcast provides updates and discussions on AI developments across various regions, keeping listeners informed about the latest trends and news. ([source](https://podcasts.apple.com/us/podcast/ai-daily-news-podcast/id1773554281))
+
+## 2026-06-10
+- **AADB Data Navigator Session June 10, 2026**: The AIM-AHEAD Consortium is hosting a session focused on the integration of artificial intelligence and machine learning in health research. ([source](https://www.aim-ahead.net/complete-feed/aim-ahead-data-bridge-data-navigator-june-session-1))
+
+- **The 4th World Congress of AI Industry 2026 | Osaka**: This congress will feature discussions on advancements in AI, machine learning, and robotics, taking place from June 10-12, 2026, in Osaka, Japan. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **AI Health Summit 2026: Pharma & Healthcare AI Innovation**: Scheduled for June 10, 2026, in Orlando, Florida, this summit will focus on AI applications in the pharmaceutical and healthcare sectors. ([source](https://intuitionlabs.ai/conferences/ai-health-summit-florida))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine is offering a curriculum designed to integrate AI and machine learning into primary care education. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **ISPOR - Causal Machine Learning for Health Economics and Outcomes Research**: A virtual course running on June 10-11, 2026, focusing on the application of causal machine learning in health economics. ([source](https://www.ispor.org/conferences-education/event/2026/06/10/default-calendar/june-10-11--causal-machine-learning-for-health-economics-and-outcomes-research---virtual))
+
+- **How AI Is Automating IT Operations in 2026**: An article discussing the current state of AI in IT operations, highlighting challenges faced by IT professionals in interpreting machine learning outputs. ([source](https://www.technology.org/2026/06/10/how-ai-is-automating-it-operations-2026))
+
+- **2026 Electronic and Computer Patent Law Summit**: This summit will address legal issues surrounding patents in the technology sector, focusing on AI and computer-related innovations. ([source](https://www.aipla.org/detail/event/2026/06/10/default-calendar/electronic-and-computer-patent-law-summit))
+
+- **Errant Intelligence: A Media Theory of Machine Learning**: A new book by Clemens Apprich that explores the relationship between human and machine learning, set to be published in July 2026. ([source](https://www.leuphana.de/en/research-centers/cdc/events/news/events/single-view/2026/06/10/errant-intelligence-a-media-theory-of-machine-learning-clemens-apprich.html))
+
+- **Foundations of Machine Learning | Santa Fe Institute**: An upcoming event focusing on various mechanisms in modern machine learning and their implications for understanding complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+- **Center for Artificial Intelligence - The Future of Privacy Forum**: A resource hub discussing recent developments in AI legislation and its implications for privacy and data professionals. ([source](https://fpf.org/center-for-artificial-intelligence))
