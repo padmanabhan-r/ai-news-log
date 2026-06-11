@@ -210,3 +210,24 @@
 - **Foundations of Machine Learning | Santa Fe Institute**: An upcoming event focusing on various mechanisms in modern machine learning and their implications for understanding complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
 
 - **Center for Artificial Intelligence - The Future of Privacy Forum**: A resource hub discussing recent developments in AI legislation and its implications for privacy and data professionals. ([source](https://fpf.org/center-for-artificial-intelligence))
+
+## 2026-06-11
+- **AI in Healthcare**: AI has the potential to transform healthcare delivery and operations, but leaders must prioritize responsible use, strategy, and open discussions to achieve meaningful progress ([source](https://www.instagram.com/p/DZLdoHBD_eM)).
+
+- **AI Con USA 2026**: A conference scheduled for June 2026 will discuss the shift from intelligence-focused AI strategies to personalization as the new competitive edge in AI applications ([source](https://aiconusa.techwell.com/program/job-function/c-level)).
+
+- **Teaching and Learning with AI**: The University of Central Florida is hosting a conference in June 2026 aimed at sharing best practices among educators on integrating AI into teaching and learning ([source](https://aiforall.ucf.edu/teachwithai)).
+
+- **Stanford AI Predictions for 2026**: A study from Stanford experts highlights regional disparities in AI chatbot performance and the challenges of teamwork among AI coding agents, emphasizing the need for better information ecosystems ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)).
+
+- **IBM AI Webinar**: IBM is hosting a webinar on June 11, 2026, addressing the accuracy challenges faced by generative AI search tools and discussing strategies for improving decision-making and workflow efficiency ([source](https://www.ibm.com/think/topics/artificial-intelligence)).
+
+- **AI Training for Nonprofits**: The Grays Harbor Community Foundation is sponsoring an AI training event for local nonprofits on June 11, 2026, aimed at helping them leverage AI to enhance their operations ([source](https://www.facebook.com/GraysHarborCommunityFoundation/posts/foundation-sponsoring-upcoming-ai-training-for-grays-harbor-nonprofitswhenthursd/1597101682422203)).
+
+- **AI Recruiting Conference 2026**: An upcoming conference in New York will focus on AI's role in recruiting, showcasing platforms that utilize AI for talent management and workforce optimization ([source](https://huntscanlon.com/ai-recruiting-new-york-2026)).
+
+- **DeepSeek's New AI Model**: The Chinese AI company DeepSeek has launched its V4 model, which claims enhanced reasoning and agentic capabilities, amid growing competition with U.S. AI firms ([source](https://medium.com/@stephen.stanley777/ai-daily-update-april-25-2026-bd7544cc2758)).
+
+- **Climate AI Nordics**: A network focused on using AI and machine learning to tackle climate change is organizing events to foster collaboration in the Nordic region ([source](https://climateainordics.com/events)).
+
+- **Foundations of Machine Learning Conference**: The Santa Fe Institute is hosting a conference in 2026 that will explore various topics in machine learning, including the dynamics of modern ML models and the implications for human agency ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
