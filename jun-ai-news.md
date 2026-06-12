@@ -231,3 +231,24 @@
 - **Climate AI Nordics**: A network focused on using AI and machine learning to tackle climate change is organizing events to foster collaboration in the Nordic region ([source](https://climateainordics.com/events)).
 
 - **Foundations of Machine Learning Conference**: The Santa Fe Institute is hosting a conference in 2026 that will explore various topics in machine learning, including the dynamics of modern ML models and the implications for human agency ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026)).
+
+## 2026-06-12
+- **The 4th World Congress of AI Industry 2026 | Osaka**: Upcoming AI industry congress scheduled for June 2026 in Osaka, featuring various conferences on AI, machine learning, and robotics. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **Machine Learning Trends 2026: What to Expect - SoftTeco**: Predictions for 2026 indicate a shift towards AI systems that work collaboratively with humans, emphasizing context and trust rather than just computational power. ([source](https://softteco.com/blog/machine-learning-trends))
+
+- **Latest AI News and Breakthroughs That Matter Most | June 2026**: Accenture and Carnegie Mellon University launched an AI Adoption Maturity Model to help organizations assess their AI readiness across eight dimensions. ([source](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **KISSKI - Training / Course Offer**: Online training session on effectively utilizing AI tools in administration and research scheduled for June 2026, aimed at increasing workflow efficiency. ([source](https://kisski.gwdg.de/en/leistungen/training))
+
+- **5 days to go.⏳ Your AI idea... - Penang Science Cluster**: Reminder for teams to submit AI project ideas by June 12, 2026, with selected teams invited to participate in a workshop to refine their concepts. ([source](https://www.facebook.com/PenangScienceCluster/posts/5-days-to-goyour-ai-idea-could-be-the-start-of-a-real-solutionfrom-machine-learn/1437214511784288))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts predict a focus on understanding high-performing neural networks and the need to open AI's black box for transparency in scientific applications. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **Events for June 12, 2026 - IEEE Robotics and Automation Society**: A list of AI-related events scheduled for June 12, 2026, highlighting opportunities for academic-industrial partnerships. ([source](https://www.ieee-ras.org/events/tag/artificial-intelligence/day/2026-06-12))
+
+- **European Laboratory for Learning and Intelligent Systems**: Upcoming events include a summer school on machine learning and advanced statistics in Madrid and a workshop on neuromorphic computing in Erlangen. ([source](https://ellis.eu))
+
+- **2026 Conference on Physics and AI (PAI26) - Stanford Data Science**: A conference focused on the intersection of physics and AI, inviting research papers for peer review and presentation opportunities. ([source](https://datascience.stanford.edu/events/center-decoding-universe/c4du-annual-conference/2026-conference-physics-and-ai-pai26))
+
+- **AI and machine learning | CCE University of Sydney**: The University of Sydney offers courses aimed at building skills in AI and machine learning, emphasizing their role in driving innovation and efficiency in organizations. ([source](https://cce.sydney.edu.au/courses/information-technology/ai))
