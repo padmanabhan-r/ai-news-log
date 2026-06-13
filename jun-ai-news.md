@@ -252,3 +252,24 @@
 - **2026 Conference on Physics and AI (PAI26) - Stanford Data Science**: A conference focused on the intersection of physics and AI, inviting research papers for peer review and presentation opportunities. ([source](https://datascience.stanford.edu/events/center-decoding-universe/c4du-annual-conference/2026-conference-physics-and-ai-pai26))
 
 - **AI and machine learning | CCE University of Sydney**: The University of Sydney offers courses aimed at building skills in AI and machine learning, emphasizing their role in driving innovation and efficiency in organizations. ([source](https://cce.sydney.edu.au/courses/information-technology/ai))
+
+## 2026-06-13
+- **Events for June 13, 2026 – IEEE Robotics and Automation Society Website**: A schedule of events related to machine learning and artificial intelligence, highlighting topics such as industrial automation and marine robotics. ([source](https://www.ieee-ras.org/events/tag/artificial-intelligence/day/2026-06-13))
+
+- **Daily Horoscope for June 13, 2026 – The Virginian-Pilot**: This article includes a section on new books about The Beatles, indicating cultural intersections with AI in media. ([source](https://www.pilotonline.com/2026/06/12/daily-horoscope-for-june-13-2026))
+
+- **Teaching and Learning with AI - Artificial Intelligence for All - UCF**: The University of Central Florida is hosting a conference focused on integrating AI into educational practices, showcasing advancements in teaching methodologies. ([source](https://aiforall.ucf.edu/teachwithai))
+
+- **Artificial Intelligence and Machine Learning | TUM**: An overview of ongoing research at TUM, including innovative applications of AI in learning environments and object tracking using language models. ([source](https://www.tum.de/en/research/research-goals/digitalization-ai-and-quantum-technologies/artificial-intelligence))
+
+- **AI Strategy Summit Announcement**: Umit Tigrak, head of AI initiatives at ABB, will discuss the practicalities of developing and scaling AI solutions at the AI Strategy Summit in Baku. ([source](https://www.facebook.com/europeazerbaijanschool/posts/-speaker-announcementumit-tigrak-head-of-the-ai-expertise-center-within-the-data/1417070977113279))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts at Stanford discuss the future of AI, emphasizing the need to understand the inner workings of neural networks and the implications for scientific research. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **AI4I Research and Development Calls**: AI4I is seeking candidates for various research positions, including roles focused on secure AI systems and adversarial machine learning, with deadlines approaching. ([source](https://ai4i.it/work-with-us))
+
+- **MIF Thammasat Special Lecture on AI**: A special lecture at Thammasat University will explore the intersection of AI and academic research, discussing its implications for various fields, including finance. ([source](https://www.facebook.com/MIFThammasatUniversity/posts/special-lecture-academic-life-research-and-ai-join-us-for-a-special-lecture-expl/1570993105037217))
+
+- **Gradient Descent with Large Step Size in Deep Learning**: A new research paper discusses methods to restore symmetry in deep linear networks, contributing to the field of machine learning. ([source](https://arxiv.org/list/cs.LG/new))
+
+- **Quick Learning AI for Innovation**: A virtual training session is being offered to introduce participants to various AI concepts and tools, aimed at students aged 13 and above. ([source](https://www.instagram.com/reel/DZch7eBga5W))
