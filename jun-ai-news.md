@@ -273,3 +273,24 @@
 - **Gradient Descent with Large Step Size in Deep Learning**: A new research paper discusses methods to restore symmetry in deep linear networks, contributing to the field of machine learning. ([source](https://arxiv.org/list/cs.LG/new))
 
 - **Quick Learning AI for Innovation**: A virtual training session is being offered to introduce participants to various AI concepts and tools, aimed at students aged 13 and above. ([source](https://www.instagram.com/reel/DZch7eBga5W))
+
+## 2026-06-14
+- **MolmoAct 2 Outperforms Robotics Models**: The new MolmoAct 2 model surpasses leading robotics benchmarks and operates up to 37 times faster than its predecessor, completing tasks without special training. ([source](https://radicaldatascience.wordpress.com/2026/06/11/ai-news-briefs-bulletin-board-for-june-2026))
+
+- **4th World Congress of AI Industry 2026**: The event will take place in Osaka, Japan, focusing on advancements in AI, machine learning, and robotics from June 10-12, 2026. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **Innovatex AI Conference Scheduled**: An upcoming conference in Berlin from October 12-14, 2026, will explore the role of AI and data science in digital transformation, featuring global experts and researchers. ([source](https://innovatexconference.com/artificialintelligence))
+
+- **AI Hardware Plan by UK Government**: The UK government has announced a £1.1 billion initiative aimed at enhancing AI hardware capabilities, reflecting a significant investment in the sector. ([source](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **EuroHPC Launches New AI Initiatives**: The EuroHPC has introduced a new SOL quantum computer and an upgrade to its LISA AI system in Italy, marking a significant advancement in European AI capabilities. ([source](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **Artificial Imagination Open Call**: An initiative inviting artistic perspectives on AI's influence in creative processes, highlighting the role of algorithms and generative tools in visual culture. ([source](https://expcinema.org/site/en/call/artificial-imagination-open-call))
+
+- **AI in Experimental Cinema**: The "Artificial Imagination" project aims to explore how AI is reshaping creative processes in experimental cinema, encouraging submissions from artists. ([source](https://expcinema.org/site/en/call/artificial-imagination-open-call))
+
+- **AI Job Opportunities at NSF IAIFI**: The NSF IAIFI is seeking postdoctoral research associates in various AI-related fields, emphasizing the growing demand for expertise in reliable AI. ([source](https://iaifi.github.io/job-board.html))
+
+- **Caterpillar Hiring AI Engineers**: Caterpillar is looking for an AI Machine Learning Engineer to work on autonomy in earthmoving products, indicating a trend towards AI integration in heavy machinery. ([source](https://careers.caterpillar.com/en/jobs/r0000372207/autonomy-engineering-specialist))
+
+- **Human Skills AI Cannot Replace**: A discussion on the limitations of AI in replicating essential human skills in the workplace, emphasizing the ongoing need for human involvement in various tasks. ([source](https://www.technology.org/2026/06/14/human-skills-ai-cant-replace))
