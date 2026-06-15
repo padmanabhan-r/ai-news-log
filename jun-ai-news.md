@@ -294,3 +294,24 @@
 - **Caterpillar Hiring AI Engineers**: Caterpillar is looking for an AI Machine Learning Engineer to work on autonomy in earthmoving products, indicating a trend towards AI integration in heavy machinery. ([source](https://careers.caterpillar.com/en/jobs/r0000372207/autonomy-engineering-specialist))
 
 - **Human Skills AI Cannot Replace**: A discussion on the limitations of AI in replicating essential human skills in the workplace, emphasizing the ongoing need for human involvement in various tasks. ([source](https://www.technology.org/2026/06/14/human-skills-ai-cant-replace))
+
+## 2026-06-15
+- **First AI Drug Enters Clinical Development**: CRDMO Quotient Sciences has initiated a Phase I study for the first AI-designed drug, focusing on its safety and pharmacokinetics in the UK. ([source](https://www.collaborativedrug.com/cdd-blog/drug-discovery-industry-roundup-with-barry-bunin-june-10-2026?hs_amp=true))
+
+- **FPGA-Based Accelerators for Deep Neural Networks**: A call for papers on the application of AI in image processing and deep learning, with deadlines set for June and July 2026. ([source](https://www.mdpi.com/journal/electronics/sections/Artificial_Intell))
+
+- **Daily AI News from GAI Insights**: A YouTube channel providing daily updates on AI developments, scheduled for release on June 15, 2026. ([source](https://www.youtube.com/watch?v=5NTZgIujOSQ))
+
+- **MaLGa Machine Learning Crash Course 2026**: An upcoming machine learning crash course hosted at the University of Genoa, part of the ELLIS Sites ICML Fest 2026. ([source](https://ellis.eu))
+
+- **Online Training Course on AI/ML for Simulation Engineers**: An online course scheduled from June 15-18, 2026, aimed at providing foundational knowledge in AI and machine learning for simulation engineers. ([source](https://www.nafems.org/events/nafems/2026/aiml-for-simulation-engineers-6-e4d))
+
+- **Postdoc Positions in NLP at University of Tübingen**: The Computational Linguistics group is hiring two postdoctoral researchers, with applications due by June 15, 2026. ([source](https://iaifi.github.io/job-board.html))
+
+- **AI/ML in Primary Care Curriculum**: The Society of Teachers of Family Medicine is offering webinars and a conference focused on integrating AI and machine learning into primary care practices. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **Stanford AI Experts Predict 2026 Trends**: Experts from Stanford discuss the future of AI, emphasizing the need to understand the inner workings of neural networks and their applications in various fields. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **Empowering Chemists with AI and ML**: An event focusing on the transformative impact of AI and machine learning tools in the field of chemistry, scheduled for June 15, 2026. ([source](https://www.rsc.org/events/find-an-event/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques-2026-06-15))
+
+- **AI for the Legal Industry and Circular 230**: An article discussing the implications of AI in the legal sector, particularly in relation to tax regulations and compliance. ([source](https://www.taxnotes.com/tax-notes-today-federal/artificial-intelligence/ai-legal-industry-and-circular-230/2026/06/15/7w6w8))
