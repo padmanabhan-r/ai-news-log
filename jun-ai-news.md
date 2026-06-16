@@ -315,3 +315,24 @@
 - **Empowering Chemists with AI and ML**: An event focusing on the transformative impact of AI and machine learning tools in the field of chemistry, scheduled for June 15, 2026. ([source](https://www.rsc.org/events/find-an-event/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques-2026-06-15))
 
 - **AI for the Legal Industry and Circular 230**: An article discussing the implications of AI in the legal sector, particularly in relation to tax regulations and compliance. ([source](https://www.taxnotes.com/tax-notes-today-federal/artificial-intelligence/ai-legal-industry-and-circular-230/2026/06/15/7w6w8))
+
+## 2026-06-16
+- **Short Course: AI Applications Using Environmental Satellite Remote Sensing Data**: The AMS Committee on Satellite Meteorology is offering a virtual training course in June 2026 focused on AI applications in environmental satellite data analysis. ([source](https://www.nesdis.noaa.gov/events/short-course-ai-applications-using-environmental-satellite-remote-sensing-data))
+
+- **Forthcoming machine learning and AI seminars: June 2026 edition**: Upcoming seminars include topics on multiscale neural networks for protein dynamics and media literacy in the age of AI, scheduled for June 2026. ([source](https://aihub.org/2026/06/01/forthcoming-machine-learning-and-ai-seminars-june-2026-edition))
+
+- **The 4th World Congress of AI Industry 2026**: This event will take place in Osaka from June 24-26, 2026, focusing on advancements in AI and machine learning. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **2026 ESIF Economics and AI+ML Meeting**: Scheduled for June 16-17, 2026, at Cornell University, this meeting will explore the intersection of economics and AI/machine learning. ([source](https://www.econometricsociety.org/regional-activities/schedule/2026/06/16/2026-ESIFEconomics-and-AIML-Meeting))
+
+- **Artificial Intelligence for Materials Science (AIMS) 2026**: An event hosted by NIST focused on the application of AI in materials science, emphasizing the importance of proper identification for entry. ([source](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026))
+
+- **IndiaAI Mission-backed startup Avataar launches indigenous video AI model**: The startup Varya has developed a cost-effective video AI model tailored to Indian contexts, highlighting advancements in localized AI solutions. ([source](https://www.business-standard.com/about/what-is-artificial-intelligence))
+
+- **ET Most Innovative AI Product Awards 2026**: This award program recognizes AI-powered solutions that enhance operational excellence for Chief Operating Officers, showcasing significant industry innovations. ([source](https://economictimes.indiatimes.com/topic/machine-learning))
+
+- **Learning at the Frontier: Advanced School on Machine Learning for Particle Physics**: An advanced school focusing on machine learning applications in particle physics will be held from June 16-26, 2026, at Université Paris-Saclay. ([source](https://iaifi.github.io/related-events.html))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine will host webinars and conferences in late 2026 focusing on integrating AI and machine learning into primary care education. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **MaLGa Machine Learning Crash Course 2026**: A crash course on machine learning will be held in Genoa, Italy, from June 15-19, 2026, aimed at enhancing skills in this rapidly evolving field. ([source](https://ellis.eu))
