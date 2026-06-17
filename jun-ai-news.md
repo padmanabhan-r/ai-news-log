@@ -336,3 +336,24 @@
 - **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine will host webinars and conferences in late 2026 focusing on integrating AI and machine learning into primary care education. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
 
 - **MaLGa Machine Learning Crash Course 2026**: A crash course on machine learning will be held in Genoa, Italy, from June 15-19, 2026, aimed at enhancing skills in this rapidly evolving field. ([source](https://ellis.eu))
+
+## 2026-06-17
+- **AI & Data 2026**: Meta is hosting a conference focused on AI Native Transformation, bringing together engineers to discuss building and operating AI systems at scale. ([source](https://atscaleconference.com/events/ai-data-2026))
+
+- **2026 ESIF Economics and AI+ML Meeting**: This meeting, organized by The Econometric Society, is taking place in Ithaca, NY, focusing on the intersection of economics and AI/machine learning. ([source](https://www.econometricsociety.org/regional-activities/schedule/2026/06/16/2026-ESIFEconomics-and-AIML-Meeting))
+
+- **Artificial Intelligence for Materials Science (AIMS) 2026**: NIST is hosting an event focused on the application of AI in materials science, emphasizing the importance of proper identification for entry. ([source](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026))
+
+- **Introduction to Artificial Intelligence (AI)**: A virtual course offered by Alexandria Library aimed at providing foundational knowledge of AI, its workforce impact, and ethical considerations. ([source](https://alexlibraryva.org/event/16662550))
+
+- **Civil Rights Summit on AI**: A virtual event scheduled for June 17, 2026, focusing on civil rights issues in the context of AI and algorithms. ([source](https://www.instagram.com/p/DV9oW9IlJvR))
+
+- **Artificial Intelligence for Diagnosing and Classifying Periodontal Disease**: A continuing education lecture by the Academy of General Dentistry discussing the use of AI in dental diagnostics. ([source](https://www.agd.org/my-agd/benefits/continuing-education/agd-events-details/2026/06/17/default-calendar/artificial-intelligence-for-diagnosing-and-classifying-periodontal-disease))
+
+- **KDD 2026 Conference on Knowledge Discovery**: This conference invites submissions on innovative applications of data science and AI, covering a wide range of topics including social science and medical data. ([source](https://www.myhuiban.com/conference/136))
+
+- **AI Update, April 17, 2026**: A report highlighting the rise of AI adoption in the workforce, noting that while productivity gains are reported, the transformation remains uneven across different sectors. ([source](https://www.marketingprofs.com/opinions/2026/54556/ai-update-april-17-2026-ai-news-and-views-from-the-past-week))
+
+- **Foundations of Machine Learning**: An event hosted by the Santa Fe Institute focusing on new paradigms in machine learning and its implications for complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+- **Beyond Automation Executive Event**: KPMG Greece is hosting an exclusive event discussing the future of AI and its implications beyond simple automation. ([source](https://www.facebook.com/KPMGGreece/posts/beyond-automation-exclusive-executive-event-at-beyond-2026-june-17-2026-1330-met/1528055532664851))
