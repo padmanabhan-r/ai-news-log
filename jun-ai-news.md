@@ -357,3 +357,24 @@
 - **Foundations of Machine Learning**: An event hosted by the Santa Fe Institute focusing on new paradigms in machine learning and its implications for complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
 
 - **Beyond Automation Executive Event**: KPMG Greece is hosting an exclusive event discussing the future of AI and its implications beyond simple automation. ([source](https://www.facebook.com/KPMGGreece/posts/beyond-automation-exclusive-executive-event-at-beyond-2026-june-17-2026-1330-met/1528055532664851))
+
+## 2026-06-18
+- **AI Strategies for Business Transformation: Generative and Agentic Intelligence**: An 8-week live online course offered by Kellogg Executive Education starting June 23, 2026, focusing on AI's role in business transformation. ([source](https://emeritus.org/programs/online-artificial-intelligence-machine-learning-courses))
+
+- **Machine Learning & Artificial Intelligence Working Group**: The US Geospatial Intelligence Foundation is hosting a working group meeting on June 18, 2026, to discuss advancements in machine learning and AI. ([source](https://usgif.org/machine-learning-artificial-intelligence-working-group))
+
+- **Forthcoming Machine Learning and AI Seminars: June 2026 Edition**: A series of seminars scheduled for June 2026, including a talk on evaluating extreme precipitation forecasts by Nick Loveday on June 18. ([source](https://aihub.org/2026/06/01/forthcoming-machine-learning-and-ai-seminars-june-2026-edition))
+
+- **StrictlyVC Event in Los Angeles**: A networking event for the tech and venture capital community scheduled for June 18, 2026, aimed at fostering professional engagement. ([source](https://aitoolly.com/ai-news/2026-05-29))
+
+- **4th World Congress of AI Industry 2026**: An upcoming international conference on AI and big data taking place from July 3-5, 2026, in Chongqing, China, focusing on various AI applications. ([source](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **Artificial Intelligence - CEC Division for Research**: A live learning series titled "Quick Takes on Artificial Intelligence" is scheduled for June 18, 2026, to discuss current AI trends and innovations. ([source](https://cecdr.org/ai))
+
+- **Center for Artificial Intelligence and Machine Learning (CAIML)**: TU Wien aims to enhance research in AI and machine learning, establishing itself as a center of excellence in the field. ([source](https://caiml.org))
+
+- **Aligning Education with the Digital Labor Market Using AI**: A discussion hosted by Fondation Tamkine on June 18, 2026, focusing on how AI can bridge educational gaps in the labor market. ([source](https://www.facebook.com/fondation.tamkine/posts/how-can-artificial-intelligence-help-bridge-the-gap-between-education-and-the-ra/1664893122308374))
+
+- **Databricks Data + AI Summit 2026**: A major conference on data engineering and AI scheduled for June 15-18, 2026, at the Moscone Center, San Francisco. ([source](https://yerbabuena.org/do/databricks-data-ai-summit-2026))
+
+- **Foundations of Machine Learning | Santa Fe Institute**: An all-day event focusing on the foundational aspects of machine learning, part of a series on complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
