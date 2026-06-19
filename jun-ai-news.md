@@ -378,3 +378,24 @@
 - **Databricks Data + AI Summit 2026**: A major conference on data engineering and AI scheduled for June 15-18, 2026, at the Moscone Center, San Francisco. ([source](https://yerbabuena.org/do/databricks-data-ai-summit-2026))
 
 - **Foundations of Machine Learning | Santa Fe Institute**: An all-day event focusing on the foundational aspects of machine learning, part of a series on complex systems. ([source](https://www.santafe.edu/events/foundations-of-machine-learning-2026))
+
+## 2026-06-19
+- **AI News Today: Top 5 Stories for June 19, 2026**: Anthropic's most restricted AI model has been confirmed for deployment at a non-US institution, while Google's anticipated model remains unreleased. ([source](https://promptailearning.com/ai-news/daily/ai-news-today-19-june-2026))
+
+- **Battery-free artificial photosynthesis keeps solar fuel production stable under shifting sunlight**: Researchers have developed a new method for stable solar fuel production that does not rely on batteries, enhancing renewable energy efficiency. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **2026: The year AI moves from experimentation to execution**: A report discusses the transition of AI technologies from experimental phases to practical applications, highlighting significant projects like the €8 million SHIELD-6G initiative for network security. ([source](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **AI Legislative Update: June 19, 2026**: The Transparency Coalition provides a weekly update on AI-related legislative actions across the U.S., focusing on bills that are progressing in various states. ([source](https://www.transparencycoalition.ai/news/ai-legislative-update-june19-2026))
+
+- **2026 6th International Conference on Software Engineering and Artificial Intelligence**: This conference will take place from June 19-21 in Fuzhou, China, focusing on advancements in software engineering and AI research. ([source](https://mainevent.info/2026-6th-international-conference-on-software-engineering-and-artificial-intelligence-event-0012697))
+
+- **Only 16 percent of Americans think AI will have a positive impact**: A new survey reveals that a small percentage of Americans believe AI will positively influence society, reflecting growing skepticism about its benefits. ([source](https://techcrunch.com/category/artificial-intelligence))
+
+- **CIFRE PhD at Airbus & CNRS**: A new PhD position has been announced focusing on explainable AI, to be conducted in collaboration with Airbus and LAAS-CNRS in Toulouse. ([source](https://groups.google.com/g/ml-news))
+
+- **2026 International Conference on Artificial Intelligence for Science**: Scheduled for June 19, this conference will address the role of AI in scientific research and its applications across various fields. ([source](https://mainevent.info/2026-international-conference-on-artificial-intelligence-for-science-event-0013844))
+
+- **Joomla JCE exploit active, CISA gives agencies 3 days**: A cybersecurity alert has been issued regarding an active exploit in Joomla, urging agencies to take immediate action to mitigate risks. ([source](https://aiweekly.co/alerts/joomla-jce-exploit-active-cisa-gives-agencies-3-days))
+
+- **10 ELLIS Researchers Appointed to the AI Act Scientific Panel**: The European Commission has appointed ten researchers from the ELLIS network to the scientific panel for the AI Act, focusing on regulatory frameworks for AI development. ([source](https://ellis.eu))
