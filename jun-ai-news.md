@@ -399,3 +399,24 @@
 - **Joomla JCE exploit active, CISA gives agencies 3 days**: A cybersecurity alert has been issued regarding an active exploit in Joomla, urging agencies to take immediate action to mitigate risks. ([source](https://aiweekly.co/alerts/joomla-jce-exploit-active-cisa-gives-agencies-3-days))
 
 - **10 ELLIS Researchers Appointed to the AI Act Scientific Panel**: The European Commission has appointed ten researchers from the ELLIS network to the scientific panel for the AI Act, focusing on regulatory frameworks for AI development. ([source](https://ellis.eu))
+
+## 2026-06-20
+- **Computers | Section AI-Driven Innovations**: Upcoming deadlines for various AI-related research submissions, including topics on machine learning in health and computer vision solutions for medical image analysis. ([MDPI](https://www.mdpi.com/journal/computers/sections/AI_innovations_in_driving))
+
+- **AI News: Latest Artificial Intelligence Updates (2026) - AI Weekly**: Highlights the emergence of reasoning models in AI, marking a significant advancement in AI capabilities since the launch of ChatGPT. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **MLSP2026 Submission Deadline June 20, 2026**: A study indicates that machine learning models can enhance event classification in dark matter detectors, showcasing advancements in signal processing. ([LinkedIn](https://www.linkedin.com/posts/sergeyplis_mlsp2026-machinelearning-signalprocessing-activity-7471235285658546177-sl_C))
+
+- **7th International Conference on AI, Machine Learning and…**: The conference scheduled for July 2026 in London will focus on recent advancements in AI, machine learning, and deep learning, inviting contributions from various sectors. ([Industry Events](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **Artificial Intelligence Machine | 3rd International Conference on Artificial Intelligence in Healthcare and Industry**: This conference in Toronto aims to explore the impact of AI in healthcare, scheduled for August 2026. ([Scitechseries](https://www.scitechseries.com/artificial-intelligence-machine))
+
+- **Artificial Intelligence - Computerworld**: Microsoft has launched Copilot Cowork with a usage-based pricing model, allowing users to select AI models from Anthropic and OpenAI. ([Computerworld](https://www.computerworld.com/nz/artificial-intelligence))
+
+- **AI News and Outlook for 2026 - Recombee**: The article discusses the growing competition in robotics and the development of cloud AI ecosystems, emphasizing new service models like reasoning-as-a-service. ([Recombee](https://www.recombee.com/blog/ai-news-and-outlook-for-2026))
+
+- **2026: The year AI moves from experimentation to execution**: Predictions suggest a shift in focus towards practical AI applications that enhance efficiency and customer engagement, moving away from speculative investments. ([Innovation News Network](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **INDIAai - Facebook**: The IndiaAI Mission is promoting sovereign AI models and responsible AI initiatives, showcasing India's AI ecosystem at the VivaTech 2026 event in Paris. ([Facebook](https://www.facebook.com/INDIAai/posts/from-sovereign-ai-models-and-world-class-datasets-to-ai-skilling-startups-and-re/1452072473603470))
+
+- **Leading AI players of 2026: Bringing real-life impact**: The article highlights Suffescom solutions as a key player in AI development, focusing on predictive analytics and intelligent automation tailored to user needs. ([Jang](https://jang.com.pk/en/57871-leading-ai-players-of-2026-bringing-real-life-impact-news))
