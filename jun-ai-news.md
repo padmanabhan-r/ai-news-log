@@ -441,3 +441,24 @@
 - **AI transforms software development with automation and optimization**: Discussion on how AI innovations are reshaping software development practices, emphasizing the need for companies to adapt to new technologies. ([source](https://www.linkedin.com/posts/luis-oria-seidel-%F0%9F%87%BB%F0%9F%87%AA-301a758a_artificialintelligence-softwaredevelopment-activity-7462374958271266816-mKaR))
 
 - **Marin IJ Readers’ Forum for June 21, 2026**: Letters to the editor reflect ongoing community discussions, including perspectives on the implications of AI in various sectors. ([source](https://www.marinij.com/2026/06/20/marin-ij-readers-forum-for-june-21-2026))
+
+## 2026-06-22
+- **Smaller AI models likely powering India's escalating deepfake menace**: Customized AI tools are making deepfake scams increasingly difficult to detect, posing significant fraud risks for banks, fintechs, and consumers in India. ([Business Standard](https://www.business-standard.com/technology/artificial-intelligence))
+
+- **Center for Artificial Intelligence and Machine Learning — CAIML**: TU Wien is establishing a center to enhance research in AI and machine learning, aiming to position itself as a leading institution in these fields. ([CAIML](https://caiml.org))
+
+- **Center for Equitable Artificial Intelligence and Machine Learning**: A summer program for K–12 educators focuses on AI and computational thinking, providing hands-on experience and resources for teaching. Participants can earn a stipend while shaping AI education. ([Morgan State University](https://www.morgan.edu/ceamls))
+
+- **AI News Today June 20 2026: Top 10 AI Stories**: Key stories include a flagged investor as a security risk, Amazon reporting a vulnerability to the White House, and Anthropic's CEO declining an ultimatum amid significant AI developments. ([unrot.co](https://unrot.co/blogs/ai-news-today-june-20-2026))
+
+- **How P&G Is Building AI Fluency and Measuring Enterprise AI Impact at Scale**: Procter & Gamble is focusing on strategies and innovations to enhance AI adoption and its impact across the enterprise, highlighting the importance of trust in scaling AI solutions. ([CDO Magazine](https://www.cdomagazine.tech/aiml/how-pg-is-building-ai-fluency-and-measuring-enterprise-ai-impact-at-scale))
+
+- **The trends that will shape AI and tech in 2026**: Predictions indicate a shift in AI research towards robotics and physical AI, as scaling limitations become apparent. ([IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **What's next in AI: 7 trends to watch in 2026**: AI is increasingly being integrated into various sectors, including medicine and software development, acting as a collaborative tool rather than just a technology. ([Microsoft Source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **2026: The year AI moves from experimentation to execution**: The focus in AI will shift from speculative projects to practical applications that enhance efficiency and customer engagement, as businesses reassess their AI strategies. ([Innovation News Network](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **HIDENN-AI Summer Short Course 2026**: A short course on AI-empowered design and manufacturing will explore how AI can enhance traditional modeling approaches in engineering. ([HIDENN-AI](https://www.hidenn.ai/short-course))
+
+- **AI-DEEDS Workshop Announcement**: The AI-DEEDS Workshop will take place as part of the ACM e-Energy 2026 conference, focusing on future energy systems and the role of AI in sustainability. ([Dynamics AI](https://dynamicsai.org/news))
