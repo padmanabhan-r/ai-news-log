@@ -462,3 +462,24 @@
 - **HIDENN-AI Summer Short Course 2026**: A short course on AI-empowered design and manufacturing will explore how AI can enhance traditional modeling approaches in engineering. ([HIDENN-AI](https://www.hidenn.ai/short-course))
 
 - **AI-DEEDS Workshop Announcement**: The AI-DEEDS Workshop will take place as part of the ACM e-Energy 2026 conference, focusing on future energy systems and the role of AI in sustainability. ([Dynamics AI](https://dynamicsai.org/news))
+
+## 2026-06-23
+- **Center for Artificial Intelligence and Machine Learning — CAIML**: The 5th CAIML Symposium was held on May 11, 2026, focusing on advancements in AI and machine learning for industry applications. ([source](https://caiml.org))
+
+- **Machine Learning Trends 2026: What to Expect - SoftTeco**: In 2026, AI is expected to work collaboratively with humans, emphasizing context and trust in machine learning applications. ([source](https://softteco.com/blog/machine-learning-trends))
+
+- **Short Course: AI Applications Using Environmental Satellite Remote Sensing Data**: A training session scheduled for June 23, 2026, will cover machine learning techniques for land cover classification using satellite data. ([source](https://www.nesdis.noaa.gov/events/short-course-ai-applications-using-environmental-satellite-remote-sensing-data))
+
+- **MCML Munich AI Day 2026**: This event will explore the integration of AI and ML in medicine, highlighting the potential for more precise and personalized healthcare solutions. ([source](https://mcml.ai/events/2026-06-23-munich-ai-day))
+
+- **Artificial Intelligence & Machine Learning Conference**: The first round of abstract submissions for an upcoming AI and ML conference ends on June 23, 2026, with early bird registration closing shortly after. ([source](https://artificialintelligence.unitedscientificgroup.org))
+
+- **CyberInfrastructure-Enabled Machine Learning (CIML) Summer Institute 2026**: A three-day event at UC San Diego will introduce AI and ML concepts, focusing on migrating applications to high-performance computing systems. ([source](https://calendar.ucsd.edu/event/cyberinfrastructure-enabled-machine-learning-ciml-summer-institute-2026))
+
+- **ISPE AI in Life Sciences Summit 2026**: Scheduled for June 22-23, 2026, this hybrid summit will discuss AI applications across the life sciences value chain, including regulatory considerations. ([source](https://intuitionlabs.ai/conferences/ispe-ai-in-life-sciences-summit-powered-by-gamp))
+
+- **AI Trends in 2026: Key Insights for Leaders**: A video from MIT Sloan Management Review discusses emerging AI trends and their implications for leadership and organizational strategy in 2026. ([source](https://sloanreview.mit.edu/video/ai-trends-in-2026-key-insights-for-leaders))
+
+- **Exploring AI and Machine Learning in Chemical Industry**: An upcoming event at Foam Expo North America will focus on the role of AI and ML in the chemical industry, scheduled for June 23-25, 2026. ([source](https://www.foam-expo.com/speaker-interviews/sarah-eckersley))
+
+- **European Laboratory for Learning and Intelligent Systems (ELLIS)**: ELLIS aims to enhance Europe's leadership in AI by fostering collaboration among top researchers and promoting responsible AI development. ([source](https://ellis.eu))
