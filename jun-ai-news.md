@@ -483,3 +483,24 @@
 - **Exploring AI and Machine Learning in Chemical Industry**: An upcoming event at Foam Expo North America will focus on the role of AI and ML in the chemical industry, scheduled for June 23-25, 2026. ([source](https://www.foam-expo.com/speaker-interviews/sarah-eckersley))
 
 - **European Laboratory for Learning and Intelligent Systems (ELLIS)**: ELLIS aims to enhance Europe's leadership in AI by fostering collaboration among top researchers and promoting responsible AI development. ([source](https://ellis.eu))
+
+## 2026-06-24
+- **AADB Data Navigator Session June 24, 2026**: The AIM-AHEAD Consortium is hosting a session focused on enhancing health through AI and machine learning research. ([source](https://www.aim-ahead.net/aim-ahead-latest-events/aim-ahead-data-bridge-data-navigator-june-session-2))
+
+- **AI News Digest June 2026 Breakthroughs and Updates**: Significant advancements in natural language models are highlighted, showcasing how deep learning enables machines to understand and generate human-like text. ([source](https://www.linkedin.com/posts/anujkamat_ai-artificialintelligence-machinelearning-activity-7467750667252813824-tmPw))
+
+- **AI and Machine Learning Courses (2026)**: Various online courses in AI and ML are being offered by institutions like Kellogg and MIT, starting soon, aimed at business transformation and product development. ([source](https://emeritus.org/programs/online-artificial-intelligence-machine-learning-courses))
+
+- **AI News Briefs BULLETIN BOARD for June 2026**: The MolmoAct 2 robot has achieved significant performance improvements, completing tasks faster than its predecessor and has been piloted at Stanford's Cong Lab. ([source](https://radicaldatascience.wordpress.com/2026/06/16/ai-news-briefs-bulletin-board-for-june-2026))
+
+- **Omio scales travel product development using OpenAI models**: Omio is integrating OpenAI models into its engineering operations to enhance travel product development and streamline booking interfaces. ([source](https://www.artificialintelligence-news.com))
+
+- **SiMLA 2026 Keynote Speakers on AI Security and Trustworthiness**: Keynote speakers at SiMLA 2026 will address critical issues surrounding the security and trustworthiness of evolving AI systems. ([source](https://www.linkedin.com/posts/leo-yu-zhang-9420997b_aisecurity-machinelearning-cybersecurity-activity-7467790165516857346-oJPN))
+
+- **Artificial Intelligence in Medical Technology Myths and Facts**: A resource outlining the realities of AI in medical technology, aiming to inform policymakers and clarify misconceptions. ([source](https://www.advamed.org/member-center/resource-library/artificial-intelligence-in-medical-technology-myths-and-facts))
+
+- **AWS AI & ML Scholars - Udacity**: The AWS AI & ML Scholars Program is open for applications, targeting individuals interested in AI education with no prior experience required. ([source](https://www.udacity.com/scholarships/aws-ai-ml-scholars))
+
+- **Center for Artificial Intelligence and Machine Learning — CAIML**: TU Wien is establishing a center to enhance research in AI and ML, aiming to become a leading institution in the field. ([source](https://caiml.org))
+
+- **Elastic agrees to buy CRV-backed Deductive AI for up to $85M**: Elastic is acquiring Deductive AI, a move that reflects ongoing investments and consolidation in the AI sector. ([source](https://techcrunch.com/category/artificial-intelligence))
