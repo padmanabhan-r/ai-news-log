@@ -504,3 +504,24 @@
 - **Center for Artificial Intelligence and Machine Learning — CAIML**: TU Wien is establishing a center to enhance research in AI and ML, aiming to become a leading institution in the field. ([source](https://caiml.org))
 
 - **Elastic agrees to buy CRV-backed Deductive AI for up to $85M**: Elastic is acquiring Deductive AI, a move that reflects ongoing investments and consolidation in the AI sector. ([source](https://techcrunch.com/category/artificial-intelligence))
+
+## 2026-06-25
+- **AI for Business Transformation from Imperial Executive Education**: A six-week online program focusing on AI's role in business transformation, with applications open until June 18, 2026. ([source](https://emeritus.org/course-preview/course-preview-ai-for-business-transformation-from-imperial-executive-education))
+
+- **AI Applications Using Environmental Satellite Remote Sensing Data**: A short course offered by the American Meteorological Society in June 2026, covering AI applications in environmental satellite data analysis. ([source](https://www.nesdis.noaa.gov/events/short-course-ai-applications-using-environmental-satellite-remote-sensing-data))
+
+- **AI and Machine Learning in Orthopedic Care**: Upcoming conferences will explore how AI is enhancing diagnosis and treatment in orthopedics, improving accuracy in detecting fractures and predicting disease progression. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Safety Concerns in AI Development**: A report discusses the lag in safety measures compared to advancements in frontier AI capabilities, highlighting potential risks associated with synthetic voice technologies. ([source](https://www.rebellionresearch.com/artificial-intelligence-machine-learning))
+
+- **Resources for Data Scientists & ML Engineers**: A session hosted by TDWI will discuss key requirements for implementing safe AI agent prototypes in production, featuring industry experts. ([source](https://tdwi.org/pages/persona/data-scientists-ml-eng.aspx))
+
+- **Rethinking Language Learning with AI**: An international webinar scheduled for June 25, 2026, will discuss the impact of AI on language education and multilingualism. ([source](https://www.facebook.com/nabeorg/posts/-join-us-for-an-exciting-international-webinar-rethinking-language-learning-with/1666953775439431))
+
+- **AI and the Future of Work**: A live event will showcase how enterprises are using AI to enhance productivity, potentially freeing up significant time for employees. ([source](https://podcasts.apple.com/us/podcast/ai-and-the-future-of-work-artificial/id1476885647))
+
+- **European AI Leadership**: The European Laboratory for Learning and Intelligent Systems (ELLIS) aims to strengthen AI research collaboration across Europe to ensure responsible development of AI technologies. ([source](https://ellis.eu))
+
+- **AI Chatbots and Healthcare**: A discussion on World Health Day 2026 highlights the limitations of AI chatbots in medical roles, emphasizing the need for human oversight in healthcare. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **AI Optimization for Evidence-Based Medicine**: The AIM-AHEAD Consortium is hosting a discussion forum on the application of AI in evidence-based medicine, scheduled for June 25, 2026. ([source](https://www.aim-ahead.net/complete-feed/ai-optimization-subcore-discussion-forum-artificial-intelligence-for-evidence-based-medicine))
