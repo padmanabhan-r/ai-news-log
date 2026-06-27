@@ -546,3 +546,24 @@
 - **African Data Science Conference 2026**: Registration is closing soon for this conference, which will gather researchers and industry practitioners to discuss advancements in data science and AI. ([Wits University](https://www.facebook.com/witsuniversity/posts/-you-only-have-4-days-left-to-register-for-the-african-data-science-conference-2/1450196027137126))
 
 - **Training Foundation Models for Neuroscience**: A thesis defense at MIT will explore how machine learning advancements can contribute to neuroscience, particularly in language processing studies. ([MIT CSAIL](https://www.csail.mit.edu/event/thesis-defense-training-and-evaluating-foundation-models-neuroscience))
+
+## 2026-06-27
+- **Exciting Learning Opportunity in AI & MLOps**: Lakireddy Bali Reddy College of Engineering is organizing a Faculty Development Program on AI Agents and MLOps from June 22-27, 2026, aimed at enhancing knowledge in the field. ([Instagram](https://www.instagram.com/p/DZy4IEVhl3O))
+
+- **7th International Conference on AI, Machine Learning and Deep Learning**: Scheduled for July 16-17, 2026, in London, this conference invites high-quality research contributions across various AI domains, including generative AI. ([Industry Events](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **AI News Briefs Bulletin Board for June 2026**: A video by Nathan Lambert discusses foundational concepts in machine learning and post-training, including key mathematical principles relevant to AI. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/06/11/ai-news-briefs-bulletin-board-for-june-2026))
+
+- **TAMA's AI Masterclass**: The Telugu Association of Metro Atlanta is hosting an AI Masterclass on June 27, 2026, featuring industry leaders who will share insights on AI development. ([Facebook](https://www.facebook.com/tama1981/posts/-tama-presents-the-ai-masterclass-learn-ai-from-people-who-actually-build-it-fea/1456690523164858))
+
+- **2026: The Year AI Moves from Experimentation to Execution**: A report highlights a shift in focus for businesses towards practical AI applications that enhance efficiency and customer engagement in the coming year. ([Innovation News Network](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **CPSC Data Science & Analytics Conference**: The University of Calgary is hosting the 3rd International Student Conference on AI, Data Science, and Analytics Innovation on June 27, 2026, focusing on global impact through inclusive pathways. ([University of Calgary](https://science.ucalgary.ca/computer-science/data-science-conference-2026))
+
+- **TechCrunch Founder Summit 2026**: A reminder for attendees that the TechCrunch Founder Summit will take place in November 2026, with a focus on scaling insights and networking opportunities. ([TechCrunch](https://techcrunch.com/category/artificial-intelligence))
+
+- **SOFTECON 2026 Aftermovie**: An aftermovie has been released showcasing discussions on AI advancements and the transition from demonstrations to practical applications in various fields. ([LinkedIn](https://www.linkedin.com/posts/softec_softecon-2026-aftermovie-is-here-relive-activity-7465049253372108800-XPEs))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts from Stanford predict that while AI may not show widespread productivity increases, there will be lessons learned from failed projects that will guide future applications. ([Stanford HAI](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **European Laboratory for Learning and Intelligent Systems**: ELLIS aims to strengthen Europe’s leadership in AI by connecting researchers and fostering responsible innovation that benefits society. ([ELLIS](https://ellis.eu))
