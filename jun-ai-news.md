@@ -567,3 +567,24 @@
 - **Stanford AI Experts Predict What Will Happen in 2026**: Experts from Stanford predict that while AI may not show widespread productivity increases, there will be lessons learned from failed projects that will guide future applications. ([Stanford HAI](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
 
 - **European Laboratory for Learning and Intelligent Systems**: ELLIS aims to strengthen Europe’s leadership in AI by connecting researchers and fostering responsible innovation that benefits society. ([ELLIS](https://ellis.eu))
+
+## 2026-06-28
+- **The 2026 International Conference on Artificial Intelligence and Digital Humanities**: Scheduled for June 26-28, 2026, in Shijiazhuang, China, this conference will explore AI methods and applications, including machine learning and natural language processing. ([source](https://www.instagram.com/p/DYlucO4gXf-))
+
+- **2026 5th International Conference on Frontiers of Artificial Intelligence and Machine Learning**: This conference aims to foster collaboration among academics and industry professionals to discuss the latest research and trends in AI and machine learning. ([source](https://www.faiml.org))
+
+- **2026 AI for Defense Summit**: Set for July 3-5, 2026, in Chongqing, China, this summit will focus on big data and AI applications in defense and security sectors. ([source](https://www.industryevents.com/events/2026-ai-for-defense-summit))
+
+- **2nd Artificial Intelligence Conference 2026**: Taking place in Rome, Italy, from November 9-11, 2026, this conference will explore the collaboration between human intelligence and machine learning. ([source](https://mindspaceconferences.com/artificialintelligence))
+
+- **Nowcasting and Big Data Training Programs**: The IMF is offering training sessions in Abu Dhabi and Singapore in 2026, focusing on leveraging AI and big data for macroeconomic statistics and monetary policy analysis. ([source](https://www.imf.org/en/capacity-development/training/icdtc/schedule/sa/2026/cadsa26-36))
+
+- **AI NEWS: Week of June 22 to June 28, 2026**: A new model called Qwen-AgentWorld has been introduced, capable of simulating multiple agent environments and enhancing AI autonomy. ([source](https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts anticipate a shift towards understanding the inner workings of neural networks, emphasizing the need to open AI's black box for better insights. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **2026: The year AI moves from experimentation to execution**: Predictions indicate a transition from speculative AI investments to practical applications that enhance business efficiency and customer engagement. ([source](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **The trends that will shape AI and tech in 2026**: Key trends include a shift from individual AI usage to team-oriented workflows, emphasizing collaboration across departments. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **How AI Can Transform the Way Companies Buy What They Need**: NEC Labs America discusses the potential of AI to revolutionize procurement processes for businesses. ([source](https://www.nec-labs.com))
