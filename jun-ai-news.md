@@ -588,3 +588,24 @@
 - **The trends that will shape AI and tech in 2026**: Key trends include a shift from individual AI usage to team-oriented workflows, emphasizing collaboration across departments. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
 
 - **How AI Can Transform the Way Companies Buy What They Need**: NEC Labs America discusses the potential of AI to revolutionize procurement processes for businesses. ([source](https://www.nec-labs.com))
+
+## 2026-06-29
+- **AI/ML STIG Lecture Series**: NASA's AI/ML Science and Technology Interest Group will host a virtual seminar on AI for Science and Engineering on June 29, 2026, featuring speaker Steven M. Crawford. ([NASA Science](https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-29-june-2026))
+
+- **The 4th World Congress of AI Industry 2026**: This global event will take place in Osaka, focusing on advancements in AI, machine learning, and generative AI, scheduled for June 29 to July 2, 2026. ([Industry Events](https://www.industryevents.com/events/the-4th-world-congress-of-ai-industry))
+
+- **AI Engineer World Fair**: Fiddler AI will showcase its AI Control Plane at the AI Engineer World Fair in San Francisco from June 29 to July 2, 2026, highlighting its capabilities in AI agent evaluation and observability. ([Fiddler AI](https://x.com/fiddler_ai/status/2070198734596518271))
+
+- **Colorado AI Act Takes Effect**: On June 30, 2026, Colorado will become the first U.S. state to enforce a comprehensive AI law requiring transparency and impact assessments for AI used in critical decision-making areas. ([Kursol](https://www.kursol.com.au/blog/ai-breaking-news-2026-06-29-colorado-ai-act))
+
+- **AI in Health Symposium**: Professor Robyn Whittaker addressed the challenges of implementing AI in health systems for Māori and Pacific communities at a symposium, emphasizing the need for safety and equity. ([University of Auckland](https://www.auckland.ac.nz/en/news/2026/06/29/ai-in-health-scholar-brings-clarity-and-caution-to-pacific-symposium.html))
+
+- **Human + Machine Event**: The Royal College of Radiologists and NHS will host an event focused on clinician-led AI in healthcare, discussing ethical and safe AI integration in medical practices. ([Royal College of Radiologists](https://www.sor.org/events/2026-06-29--human-machine-clinician-led-ai-for-tomorrow-s-healthcare-369))
+
+- **Daily AI News from GAI Insights**: A YouTube channel will provide daily updates on AI news, including significant developments and insights in the field, with a new episode scheduled for June 29, 2026. ([GAI Insights](https://www.youtube.com/watch?v=uWmYb2I_km0))
+
+- **Ascent Deep Tech Community Showcase**: This event will highlight breakthrough startups from the University of Colorado, focusing on innovations in AI, machine learning, and robotics. ([Colorado Venture Partners](https://www.colorado.edu/venturepartners/2026/06/29/internal-news/2026-ascent-deep-tech-community-showcase-highlights-cus-next-breakthrough-startups))
+
+- **AI Daily Brief Podcast**: The podcast discusses the evolving role of AI in workplaces, including the introduction of persistent AI teammates and various industry developments. ([Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614))
+
+- **European Laboratory for Learning and Intelligent Systems**: ELLIS aims to strengthen Europe's AI leadership by fostering collaboration among top researchers and ensuring responsible AI development. ([ELLIS](https://ellis.eu))
