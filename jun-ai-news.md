@@ -609,3 +609,24 @@
 - **AI Daily Brief Podcast**: The podcast discusses the evolving role of AI in workplaces, including the introduction of persistent AI teammates and various industry developments. ([Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614))
 
 - **European Laboratory for Learning and Intelligent Systems**: ELLIS aims to strengthen Europe's AI leadership by fostering collaboration among top researchers and ensuring responsible AI development. ([ELLIS](https://ellis.eu))
+
+## 2026-06-30
+- **Andrej Karpathy's Shift in Coding Philosophy**: Andrej Karpathy, known for advocating building AI from scratch, has joined Anthropic and now relies on models for coding, reflecting a shift in AI development practices. ([source](https://radicaldatascience.wordpress.com/2026/06/04/ai-news-briefs-bulletin-board-for-june-2026))
+
+- **AI Engineer World’s Fair 2026**: The world's largest technical conference focused on AI systems will take place from June 30 to July 2, 2026, at the Moscone Center, highlighting advancements in AI technology. ([source](https://yerbabuena.org/do/ai-engineer-worlds-fair-2026))
+
+- **AI in Molecular Simulations**: AIP Publishing is calling for contributions on the impact of AI methods in molecular simulations, emphasizing the role of machine learning and generative AI in enhancing scientific research. ([source](https://publishing.aip.org/publications/journals/special-topics/adv/uses-of-ai-in-molecular-simulations))
+
+- **AI Predictions for SMCI Stock**: An AI tool predicts the stock price for SMCI on June 30, 2026, using insights from multiple leading language models, indicating a bullish outlook. ([source](https://finbold.com/ai-predicts-smci-stock-price-for-june-30-2026))
+
+- **Focus Shift in AI Investments**: A report suggests that 2026 will see a transition from speculative AI investments to practical applications that enhance efficiency and customer engagement in businesses. ([source](https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945))
+
+- **AI's Role in Healthcare Evaluation**: A live discussion hosted by CHIME will address how healthcare systems are assessing the effectiveness of AI technologies and building trust among clinicians. ([source](https://www.facebook.com/CIOCHIME/posts/ai-is-everywhere-in-healthcare-but-how-do-you-know-if-its-actually-making-a-diff/1914353843161306))
+
+- **Call for Papers on AI in Additive Manufacturing**: AccScience Publishing is inviting submissions for a special issue on AI applications in additive manufacturing and 3D printing, with a deadline of September 30, 2026. ([source](https://accscience.com/journal/IJAMD/special_issues))
+
+- **Computational and Applied Statistics Workshop**: A workshop focusing on new developments in computational algorithms and machine learning applications will take place, emphasizing advancements in statistical methods. ([source](https://isi-web.org/article/workshop-computational-and-applied-statistics-data-ai-2026))
+
+- **Open Call for Artificial Imagination Project**: An initiative is seeking artistic contributions that explore the intersection of AI and creative processes, showcasing how algorithms and generative tools influence visual culture. ([source](https://expcinema.org/site/en/call/artificial-imagination-open-call))
+
+- **Data Center Hearings Scheduled**: Six hearings regarding data centers are set to occur over the next eight days, indicating ongoing discussions about infrastructure and regulations in the AI sector. ([source](https://www.republicanherald.com/2026/06/29/june-30-2026-around-the-region))
