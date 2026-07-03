@@ -42,3 +42,24 @@
 - **Machine Learning Trends for 2026**: An article discusses the growing acceptance of machine learning in business processes, predicting increased popularity and application in various sectors. ([Forbes](https://www.forbes.com/councils/forbestechcouncil/2026/02/25/machine-learning-trends-for-2026))
 
 - **YuJa Webinar on AI in Education**: YuJa is hosting a webinar on July 2, 2026, discussing the role of AI in supporting video-based education and addressing learning gaps. ([Facebook](https://www.facebook.com/YuJaInc/posts/as-video-based-education-becomes-more-common-what-does-student-support-look-like/1610659097731112))
+
+## 2026-07-03
+- **AI News | July, 2026 (STARTUP EDITION)**: AI has transitioned from a novelty to a critical operational layer for businesses, prompting entrepreneurs to reassess its impact on margins, workflows, and hiring. ([source](https://blog.mean.ceo/ai-news-july-2026))
+
+- **Google Transforms Mobile Tech with AI**: Google has made significant advancements in mobile technology through AI, including the unveiling of an analog AI chip by IBM designed for deep neural networks. ([source](https://www.youtube.com/watch?v=DAWvHTMEoFY))
+
+- **Machine Learning Trends 2026: What to Expect**: The focus in machine learning has shifted towards collaboration with humans, emphasizing context and trust in AI systems rather than just computational power. ([source](https://softteco.com/blog/machine-learning-trends))
+
+- **2026 AI for Defense Summit**: Upcoming events include the AI for Defense Summit and the Asia Conference on Machine Learning, highlighting the growing importance of AI in defense and computing. ([source](https://www.industryevents.com/events/2026-ai-for-defense-summit))
+
+- **LLM News Today (July 2026)**: Mark Zuckerberg acknowledged that Meta's AI agent development has not progressed as expected, indicating challenges in the company's reorganization efforts. ([source](https://llm-stats.com/ai-news))
+
+- **Artificial Intelligence: Read latest news updates on AI**: UBTech has introduced the U1 humanoid robot series, featuring emotional AI capabilities and targeting companionship and home interactions. ([source](https://indianexpress.com/section/technology/artificial-intelligence))
+
+- **Bank of England reviews AI rules for agentic AI in finance**: The Bank of England is evaluating regulations surrounding agentic AI applications in the financial sector, reflecting a growing concern for oversight. ([source](https://www.artificialintelligence-news.com))
+
+- **AI Weekly: AI News — Weekly AI Newsletter for Professionals**: The latest issue covers significant developments in AI, providing professionals with essential updates and insights. ([source](https://aiweekly.co))
+
+- **Gemini Spark, Google’s agentic assistant, is now available on Mac**: Google has expanded the availability of its AI assistant, Gemini Spark, to Mac users, enhancing its accessibility across platforms. ([source](https://techcrunch.com/category/artificial-intelligence))
+
+- **SandboxAQ Publishes Spin-Aware Catalysis AI Research**: SandboxAQ has released peer-reviewed research on AI applications in catalysis, showcasing advancements in computational methods. ([source](https://www.prnewswire.com/news-releases/latest-news-topics/artificial-intelligence?page=31&pagesize=38))
