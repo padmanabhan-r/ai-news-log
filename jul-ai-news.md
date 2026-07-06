@@ -105,3 +105,24 @@
 - **Meta's Sponsorship at ACL 2026**: Meta is a platinum sponsor at the ACL 2026 conference, emphasizing its commitment to advancing AI through innovative demonstrations and discussions. ([Facebook](https://www.facebook.com/LifeAtMeta/posts/see-you-in-san-diego-%EF%B8%8Fmeta-is-a-platinum-sponsor-at-acl-2026-the-worlds-premier-/1308866538076261))
 
 - **Governance of AI Agents**: A report indicates that 40% of enterprises may downgrade autonomous AI agents by 2027 due to governance challenges, highlighting the need for improved controls in AI operations. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
+
+## 2026-07-06
+- **Reasoning Models**: A significant advancement in AI capabilities has emerged with reasoning models like OpenAI's o3, which utilize chain-of-thought processing for more thoughtful responses, marking a shift from mere pattern-matching. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/ai-news-latest-artificial-intelligence-updates-2026))
+
+- **Summer School on AI 2026**: The Machine Learning Research Laboratory at Delhi Technological University is hosting a two-week Summer School on AI, aimed at students and professionals, scheduled for July 13-24, 2026. ([Instagram](https://www.instagram.com/p/DZecP8xjcO7))
+
+- **Machine Learning Trends 2026**: The focus in machine learning is shifting towards collaboration with humans rather than replacement, emphasizing context and trust through Agentic AI and domain-specific models. ([SoftTeco](https://softteco.com/blog/machine-learning-trends))
+
+- **ICML 2026 Papers Accepted**: Five papers from the NTT group have been accepted for presentation at the prestigious ICML 2026 conference in Seoul, highlighting ongoing research in machine learning. ([NTT Group](https://group.ntt/en/topics/2026/07/06/icml2026.html))
+
+- **Microsoft at ICML 2026**: Microsoft is sponsoring the International Conference on Machine Learning (ICML) 2026, which will take place in Seoul from July 6-11, showcasing advancements in AI. ([Microsoft Research](https://www.microsoft.com/en-us/research/event/icml-2026))
+
+- **Society of Surgical Oncology AI Committee**: The Society of Surgical Oncology has extended the deadline for applications to join its AI and Data Science Work Group, inviting experts to contribute to its initiatives. ([Facebook](https://www.facebook.com/SocSurgOnc/posts/have-experience-or-expertise-with-ai-and-data-science-interested-in-participatin/1427471382733424))
+
+- **AI Academy at NC State University**: NC State University is offering a series of AI courses starting July 6, 2026, including topics like Machine Learning and Data Mining, aimed at enhancing skills in the field. ([AI Academy](https://ai-academy.ncsu.edu/program-specifics))
+
+- **Global AI Ethics and Governance**: UNESCO's Global AI Ethics and Governance Observatory is working to promote ethical AI through research and best practices, helping governments address gaps in AI policies. ([UNESCO](https://www.unesco.org/en/artificial-intelligence))
+
+- **AI in Energy Systems**: Melbourne is emerging as a leader in integrating AI with global energy systems, focusing on engineering collaboration to adapt to the demands of hyperscale AI. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **AI News & Trends**: A report indicates that 40% of enterprises may demote autonomous AI agents by 2027 due to governance challenges, highlighting the need for improved controls in AI operations. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
