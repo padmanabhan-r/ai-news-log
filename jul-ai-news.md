@@ -126,3 +126,24 @@
 - **AI in Energy Systems**: Melbourne is emerging as a leader in integrating AI with global energy systems, focusing on engineering collaboration to adapt to the demands of hyperscale AI. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
 
 - **AI News & Trends**: A report indicates that 40% of enterprises may demote autonomous AI agents by 2027 due to governance challenges, highlighting the need for improved controls in AI operations. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
+
+## 2026-07-07
+- **7th International Conference on AI, Machine Learning and Deep Learning (AIMLDL 2026)**: This conference invites research contributions from various sectors to discuss advancements in AI, ML, and deep learning, scheduled for July 16-17, 2026, in London. ([source](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **2nd International Conference on Artificial Intelligence and Machine Learning**: This event aims to explore the latest advancements in AI and ML, featuring keynote speeches and technical sessions, set for 2026. ([source](https://datafloq.com/meet/2nd-international-conference-ai-machine-learning))
+
+- **65th Global Conference on Machine Learning and Artificial Intelligence**: Scheduled for July 7, 2026, in London, this conference will cover topics such as deep learning, robotics, and the safe use of AI tools. ([source](https://www.eventbrite.ca/e/65th-global-conference-on-machine-learning-and-artificial-intelligence-tickets-1989710565864))
+
+- **AI26 – The Lamarr Conference**: This conference will bring together experts from academia, business, and politics to discuss AI's role in technological sovereignty and value creation in Germany, taking place on July 7-8, 2026. ([source](https://lamarr-institute.org/news/ai26-the-lamarr-conference-announcement))
+
+- **Unfixed Newsletter — June 11–July 7, 2026**: A study surveyed students about generative AI use and self-regulated learning, revealing mixed perceptions of AI's impact on education. ([source](https://www.meltsintoair.org/chatgpt/unfixed-newsletter-june-11july-7-2026))
+
+- **Veritone to Host its 2026 Innovation Showcase**: Veritone, a leader in enterprise AI, will host a virtual showcase on July 7, 2026, to present its latest innovations in AI and data solutions. ([source](https://investors.veritone.com/news-events/press-releases/detail/424/veritone-to-host-its-2026-innovation-showcase-virtually-on-july-7-2026))
+
+- **Unlocking AI's Potential to Serve Humanity**: The AI for Good Global Summit will take place from July 7-10, 2026, in Geneva, focusing on the ethical and inclusive use of AI technologies. ([source](https://aiforgood.itu.int))
+
+- **Imagining the AI Landscape after the AI ACT**: This workshop will discuss the intersection of innovation and regulation in AI, scheduled for July 7, 2026, in Brussels. ([source](https://iail2026.isti.cnr.it))
+
+- **AI x Cities 2026**: A conference at MIT Media Lab focusing on urbanism in the age of machine learning, examining how AI can shape city planning and development. ([source](https://www.media.mit.edu/events/ai-x-cities-2026))
+
+- **Cambridge AI in Education Summit 2026**: This summit will gather educators and innovators to explore the role of AI in education, with a call for abstracts currently open. ([source](https://www.facebook.com/CambPressAssess/posts/-cambridge-ai-in-education-summit-2026-the-call-for-abstracts-is-now-openwere-in/1382900803885229))
