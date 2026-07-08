@@ -147,3 +147,24 @@
 - **AI x Cities 2026**: A conference at MIT Media Lab focusing on urbanism in the age of machine learning, examining how AI can shape city planning and development. ([source](https://www.media.mit.edu/events/ai-x-cities-2026))
 
 - **Cambridge AI in Education Summit 2026**: This summit will gather educators and innovators to explore the role of AI in education, with a call for abstracts currently open. ([source](https://www.facebook.com/CambPressAssess/posts/-cambridge-ai-in-education-summit-2026-the-call-for-abstracts-is-now-openwere-in/1382900803885229))
+
+## 2026-07-08
+- **Reasoning Models**: A significant advancement in AI capabilities, reasoning models like OpenAI's o3 utilize chain-of-thought processing, enhancing decision-making before generating responses. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **Machine Learning Trends 2026**: The focus in machine learning has shifted towards collaboration with humans, emphasizing context and trust through Agentic AI and domain-specific models. ([SoftTeco](https://softteco.com/blog/machine-learning-trends))
+
+- **World AI Show Indonesia 2026**: The event will feature discussions on the latest in AI and machine learning, highlighting innovations and applications in various industries. ([Industry Events](https://www.industryevents.com/events/47th-global-edition-world-ai-show-indonesia))
+
+- **AI in Orthopedic Care**: AI and machine learning are revolutionizing orthopedic diagnosis and treatment, improving accuracy in detecting fractures and disease progression. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **AI26 – The Lamarr Conference**: This conference will gather experts from academia, business, and politics to discuss AI's role in technological sovereignty and value creation in Germany. ([Lamarr Institute](https://lamarr-institute.org/news/ai26-the-lamarr-conference-announcement))
+
+- **Cyber Resilience in Boardrooms**: The integration of cyber resilience strategies into corporate governance is becoming essential, shifting from a purely IT function to a broader business strategy. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning))
+
+- **AI Hiring Trends**: The hiring rate for AI and machine learning roles has seen a 37% year-on-year increase, indicating a growing demand for expertise in these fields. ([Deccan Herald](http://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **NASA's ERNEST Rover**: NASA has introduced the ERNEST rover, designed to navigate extreme terrains for future missions, showcasing advancements in AI for exploration. ([Newsflash](https://newsflash.tdsynnex.co.uk/artificial-intelligence))
+
+- **AI's Impact on Energy Systems**: Melbourne is emerging as a leader in reshaping global energy systems through engineering collaboration, driven by AI technologies. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **International AI Conference**: The 7th International Conference on AI and Machine Learning aims to foster collaboration among researchers and practitioners to explore advancements in intelligent technologies. ([AIMLDL 2026](https://nlpd2026.org/arit/index))
