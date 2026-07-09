@@ -168,3 +168,24 @@
 - **AI's Impact on Energy Systems**: Melbourne is emerging as a leader in reshaping global energy systems through engineering collaboration, driven by AI technologies. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
 
 - **International AI Conference**: The 7th International Conference on AI and Machine Learning aims to foster collaboration among researchers and practitioners to explore advancements in intelligent technologies. ([AIMLDL 2026](https://nlpd2026.org/arit/index))
+
+## 2026-07-09
+- **Summer School on AI 2026**: Delhi Technological University is hosting a two-week intensive Summer School on Artificial Intelligence for students and professionals from July 13 to July 24, 2026. ([Instagram](https://www.instagram.com/p/DZecP8xjcO7))
+
+- **Google Teachable Machine Workshop**: An interactive workshop for students in Grades 5–7 will be held on July 9, 2026, where participants will learn to create simple AI models using Google Teachable Machine. ([North Vancouver City Library](https://www.nvcl.ca/events/google-teachable-machine-artificial-intelligence-koala-koders))
+
+- **Trending AI Topics in 2026**: The latest updates highlight advancements in reasoning models, which utilize chain-of-thought processing to enhance AI's response capabilities beyond simple pattern matching. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **Machine Learning Trends 2026**: The focus in 2026 is on collaborative AI systems that work alongside humans, emphasizing context and trust rather than just computational power. ([Softteco](https://softteco.com/blog/machine-learning-trends))
+
+- **7th International Conference on AI, Machine Learning and Deep Learning**: Scheduled for July 16-17, 2026, in London, this hybrid conference invites high-quality research presentations in the field of AI and machine learning. ([AIMLDL 2026](https://nlpd2026.org/arit/index))
+
+- **Claude Fable 5 and Claude Mythos 5**: Anthropic has launched its latest AI models, focusing on performance improvements and new safeguards to prevent misuse, particularly in cybersecurity and life sciences. ([National Centre for AI](https://nationalcentreforai.jiscinvolve.org/wp/2026/07/01/june-2026-round-up-of-interesting-ai-news-and-announcements))
+
+- **AI Reshaping Global Energy Systems**: Melbourne is leading efforts to integrate AI into energy systems, ensuring they can adapt to the demands of hyperscale AI applications. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **ELLIS Summer Lecture Series**: The ELLIS network is hosting a summer lecture series focused on explainability and understanding of AI models, with events taking place in Jena and Cambridge in July 2026. ([ELLIS](https://ellis.eu))
+
+- **AI-Powered Personalized Learning by Samsung**: Samsung introduced new educational solutions aimed at personalizing learning experiences and enhancing teaching workflows at ISTELive 2026. ([Samsung News](https://news.samsung.com/global/samsung-advances-ai-powered-personalized-learning-at-istelive-2026))
+
+- **Artificial Intelligence Workforce Development Programs**: County College of Morris is offering information sessions about its AI programs and certifications, aimed at preparing students for careers in AI. ([CCM](https://www.ccm.edu/programs/artificial-intelligence-ai))
