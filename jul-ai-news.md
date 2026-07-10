@@ -189,3 +189,24 @@
 - **AI-Powered Personalized Learning by Samsung**: Samsung introduced new educational solutions aimed at personalizing learning experiences and enhancing teaching workflows at ISTELive 2026. ([Samsung News](https://news.samsung.com/global/samsung-advances-ai-powered-personalized-learning-at-istelive-2026))
 
 - **Artificial Intelligence Workforce Development Programs**: County College of Morris is offering information sessions about its AI programs and certifications, aimed at preparing students for careers in AI. ([CCM](https://www.ccm.edu/programs/artificial-intelligence-ai))
+
+## 2026-07-10
+- **Reasoning Models**: A significant advancement in AI capabilities has emerged with reasoning models like OpenAI's o3 and Claude, which utilize chain-of-thought processing for improved response generation. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **7th International Conference on AI, Machine Learning and Deep Learning**: The conference scheduled for July 16-17, 2026, in London will showcase high-quality research in AI and related fields, serving as a key forum for advancements. ([Industry Events](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **Brain-Inspired Chip Development**: Researchers at the University of Hong Kong have developed a new brain-inspired chip that operates just above absolute zero, marking a significant technological achievement. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence))
+
+- **Japan's AI Initiative for Worker Shortage**: Japan is addressing its labor shortage by planning to deploy an AI model that could manage up to 10 million robots in various sectors. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Bank of England's AI Regulations Review**: The Bank of England is currently reviewing regulations related to agentic AI in the financial sector, aiming to ensure safety and compliance. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Google Student Researcher Programme 2026**: Google has opened applications for its Student Researcher Programme, providing students the chance to collaborate with leading researchers on cutting-edge AI projects. ([Instagram](https://www.instagram.com/reel/DZ58VHrIjxd))
+
+- **AI for Good Global Summit**: The AI for Good 2023 event, scheduled for July 7-10, 2026, in Geneva, aims to explore the potential of AI to benefit humanity through education and innovation. ([AI for Good](https://aiforgood.itu.int))
+
+- **AI and Mental Health Speaker Series**: A distinguished speaker series focusing on the future of AI in mental health is set to take place, highlighting the intersection of technology and psychological well-being. ([AIM-AHEAD](https://www.aim-ahead.net/aim-ahead-latest-events/aim-ahead-data-bridge-data-navigator-july-session-2))
+
+- **AI Education Outreach**: An initiative led by Benjamin Lange aims to introduce elementary school students to AI concepts, fostering curiosity and understanding of the technology's implications. ([MCML](https://mcml.ai/news/2026-07-10-lange-ki-macht-schule))
+
+- **Mayo Clinic's AI Operations Role**: The Mayo Clinic is seeking a manager for AI operations to lead initiatives focused on patient-centric care systems and innovative healthcare delivery through data science. ([Mayo Clinic Jobs](https://jobs.mayoclinic.org/job/rochester/manager-ai-operations/33647/94446642368))
