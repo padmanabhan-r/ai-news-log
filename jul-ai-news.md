@@ -210,3 +210,24 @@
 - **AI Education Outreach**: An initiative led by Benjamin Lange aims to introduce elementary school students to AI concepts, fostering curiosity and understanding of the technology's implications. ([MCML](https://mcml.ai/news/2026-07-10-lange-ki-macht-schule))
 
 - **Mayo Clinic's AI Operations Role**: The Mayo Clinic is seeking a manager for AI operations to lead initiatives focused on patient-centric care systems and innovative healthcare delivery through data science. ([Mayo Clinic Jobs](https://jobs.mayoclinic.org/job/rochester/manager-ai-operations/33647/94446642368))
+
+## 2026-07-11
+- **7th International Conference on AI, Machine Learning and Deep Learning (AIMLDL 2026)**: The conference invites high-quality research contributions from various sectors, focusing on advancements in AI and related fields, scheduled for July 16-17, 2026, in London. ([source](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **Forty-Third International Conference on Machine Learning (ICML 2026)**: This premier event for machine learning professionals will take place from July 6-11, 2026, in Seoul, South Korea, showcasing cutting-edge research in the field. ([source](https://ai.ucf.edu/news))
+
+- **AI DAY 2026 at Geethanjali College**: This event will feature innovative AI projects and discussions on the future of AI, emphasizing the development of intelligent solutions, scheduled for July 2026 in India. ([source](https://www.facebook.com/geethanjaligroupofinstitutions/posts/the-future-isnt-waitingits-being-built-here-experience-ai-day-2026-where-groundb/1507778994698153))
+
+- **FLAME Upskill Series 2026**: An interactive masterclass discussing the importance of original thinking in the age of AI, led by Prof. Sorabh Bajaj, will take place on July 11, 2026. ([source](https://www.instagram.com/p/DafJ7cFnJVb))
+
+- **USC Viterbi at ICML 2026**: Researchers from USC will present findings on AI location bias and the challenges of missing vocal cues at the ICML 2026 conference, highlighting responsible AI research. ([source](https://viterbischool.usc.edu/news/2026/07/ai-location-bias-ai-missing-vocal-clues-usc-viterbi-and-usc-stevens-at-icml-2026))
+
+- **Microsoft at ICML 2026**: Microsoft is sponsoring the ICML 2026 conference, which focuses on the advancement of machine learning and its applications in AI. ([source](https://www.microsoft.com/en-us/research/event/icml-2026))
+
+- **Next RISE-MICCAI Journal Club**: A session on the challenges of finding and evaluating AI models and datasets in medical AI will be held on July 11, 2026, discussing the Radiology Ontology of AI Datasets. ([source](https://miccai.org/2026/06/30/next-rise-miccai-journal-club-july-11-2026))
+
+- **AI x Cities 2026 Conference**: This one-day conference will explore the intersection of urbanism and machine learning, focusing on how AI can shape city planning and management. ([source](https://www.media.mit.edu/events/ai-x-cities-2026))
+
+- **AI Con USA 2026**: Scheduled to take place in Seattle, this conference will gather leaders and researchers to discuss practical AI applications and strategies, addressing critical topics in the field. ([source](https://www.montrealinternational.com/en/events/ai-con-usa-2026))
+
+- **Open Models in AI Research**: NVIDIA emphasizes the growing importance of open models as foundational elements in modern AI research, reflecting a shift towards collaborative development in the field. ([source](https://www.instagram.com/p/DadRaKrlvHe))
