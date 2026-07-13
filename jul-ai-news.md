@@ -252,3 +252,24 @@
 - **Environment: What's Up in GENeva | 6 – 12 July 2026**: Geneva Digital Week 2026 will host discussions on AI governance, bringing together international leaders to address digital futures. ([source](https://www.genevaenvironmentnetwork.org/resources/newsletter/environment-whats-up-in-geneva-6-12-july-2026))
 
 - **Exciting AI Updates Weekly - July 03, 2026**: A discussion on the importance of open-source AI models as a defense against government restrictions on frontier models, alongside updates on various AI technologies. ([source](https://www.youtube.com/watch?v=FFz3iOBVldY))
+
+## 2026-07-13
+- **Artificial Intelligence 2026 2nd International Conference on Artificial Intelligence and Machine Learning**: Scheduled for July 2026 in Singapore, this conference will feature over 50 expert speakers and immersive workshops aimed at AI/ML professionals. ([WebMobi](https://www.webmobi.com/discovery/events/artificial-intelligence-2026-2nd-international-conference-on-artificial-intelligence-and-machine-learning-20251127))
+
+- **7th International Conference on AI, Machine Learning and Deep Learning (AIMLDL 2026)**: Taking place in London on July 16-17, 2026, this event invites research contributions from various sectors to discuss advancements in AI and machine learning. ([Industry Events](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026))
+
+- **Z.ai's GLM-5.2 Model Debate**: The model is sparking discussions about China's advancements in AI, showing competitive capabilities that challenge leading models from the U.S., indicating a shift in the global AI landscape. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **Improved Graph-Based Model for Phishing Detection**: A new research paper discusses a model utilizing dynamic heterogeneous graph attention networks for enhanced phishing website detection, showcasing advancements in AI applications for cybersecurity. ([Frontiers in AI](https://www.frontiersin.org/journals/artificial-intelligence/sections/machine-learning-and-artificial-intelligence))
+
+- **AI in Orthopedic Care**: AI and machine learning are transforming orthopedic diagnosis and treatment by improving accuracy in detecting fractures and predicting disease progression, highlighting the technology's impact on healthcare. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **The AI Daily Brief Podcast**: A recap of significant AI developments in June 2026, including token scarcity and government interventions, which are shaping the future of AI infrastructure and access. ([Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614))
+
+- **AI & Big Data Expo Europe 2026**: Scheduled for October 19-20, 2026, in Amsterdam, this expo will focus on the latest trends and innovations in AI and big data technologies. ([AI News](https://www.artificialintelligence-news.com))
+
+- **7th International Conference on Pattern Recognition and Machine Learning**: This conference will be held in Urumqi, China, from July 10-13, 2026, focusing on advancements in pattern recognition and machine learning techniques. ([Eventbrite](https://www.eventbrite.com/e/7th-international-conference-on-pattern-recognition-and-machine-learning-tickets-1514294608939))
+
+- **AI Management Advantage**: A discussion on how effective AI management will be crucial in determining productivity gains in various industries, emphasizing the strategic importance of AI integration. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning))
+
+- **Senior AI/ML Architect Position at Mayo Clinic**: The Mayo Clinic is seeking a Senior AI/ML Architect for its AI program, reflecting the growing demand for AI expertise in healthcare settings. ([Mayo Clinic Jobs](https://jobs.mayoclinic.org/job/rochester/senior-ai-ml-architect-ai-program/33647/96886683536))
