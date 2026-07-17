@@ -336,3 +336,24 @@
 - **AI's Impact on the Legal Profession**: A webinar hosted by the Connecticut Bar Association on July 16, 2026, will introduce LawQi, an AI learning platform for legal professionals. ([source](https://www.facebook.com/ConnecticutBarAssociation/posts/ai-is-transforming-the-legal-professionare-you-ready-join-us-on-thursday-july-16/1489166133232321))
 
 - **AI Solutions for Chip Design**: Synopsys is leveraging AI-driven tools to enhance productivity and accuracy in the chip design process, aiming to reduce design iterations. ([source](https://www.synopsys.com/ai.html))
+
+## 2026-07-17
+- **Hemispheric Raises $52 Million for AI in Neuroscience**: Israel-based startup Hemispheric secured $52 million to develop AI technology that analyzes brain activity, with potential applications in medical diagnostics and mental health monitoring ([source](https://www.buildfastwithai.com/blogs/ai-news-today-july-16-2026)).
+
+- **7th International Conference on AI, Machine Learning and Deep Learning**: The AIMLDL 2026 conference will take place in London, focusing on advancements in AI, machine learning, and generative AI, inviting contributions from various sectors ([source](https://www.industryevents.com/events/7th-international-conference-on-advances-in-artificial-intelligence-techniques-arit-2026)).
+
+- **AI Chip Demand Soars**: Analysts predict continued growth in the AI chip market, highlighting TSMC's role in semiconductor technology as crucial for future AI applications ([source](https://www.youtube.com/watch?v=3VwqAJcL_Y8)).
+
+- **IC4AI26 Conference at VIT-AP University**: An upcoming conference will explore the future of AI, machine learning, and sustainable computing, featuring global experts from academia and industry ([source](https://x.com/VITAPuniversity/status/2077702274949009637/photo/1)).
+
+- **Research on AI Drone Crashes**: Georgia Tech researchers are investigating a drone crash that destroyed its onboard computer, raising concerns about potential cyberattacks and the need for data recovery ([source](https://www.miragenews.com/research-gets-to-core-of-ai-drone-crashes-1711577)).
+
+- **Malta's EU AI Act Information Session**: The Malta Digital Innovation Authority is organizing a session to discuss the EU AI Act and its implications for public administration, scheduled for July 17, 2026 ([source](https://www.facebook.com/MDIAmalta/posts/-meet-the-speakers-the-eu-ai-act-public-administrationon-17-july-2026-the-malta-/1333142675670253)).
+
+- **AI Adoption in Indian Real Estate**: A report highlights the rapid adoption of AI in India's real estate sector, indicating significant market shifts and advancements in technology utilization ([source](https://aiproptechnews.com/article/ai-in-2026-where-is-benefiting-from-the-ai-and-tech-boom)).
+
+- **AIM-AHEAD Data Navigator Sessions**: A dedicated session will assist researchers in utilizing AI-assisted approaches for innovation and problem-solving, focusing on curated datasets ([source](https://www.aim-ahead.net/complete-feed/aim-ahead-data-bridge-data-navigator-july-session-3)).
+
+- **Armenia's Public Sector Modernization Project**: An early market engagement event will discuss the procurement of AI and machine learning systems for customs management in Armenia ([source](https://www.worldbank.org/en/events/2026/07/17/armenia-early-market-engagement-event-fourth-public-sector-modernization-project)).
+
+- **Open PhD Position in Human-Centered AI**: The UZH Department of Informatics announced an open PhD position focusing on conversation-driven AI generation, emphasizing the importance of human-centered design ([source](https://www.instagram.com/p/DW04hfhDZuV)).
