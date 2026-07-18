@@ -357,3 +357,24 @@
 - **Armenia's Public Sector Modernization Project**: An early market engagement event will discuss the procurement of AI and machine learning systems for customs management in Armenia ([source](https://www.worldbank.org/en/events/2026/07/17/armenia-early-market-engagement-event-fourth-public-sector-modernization-project)).
 
 - **Open PhD Position in Human-Centered AI**: The UZH Department of Informatics announced an open PhD position focusing on conversation-driven AI generation, emphasizing the importance of human-centered design ([source](https://www.instagram.com/p/DW04hfhDZuV)).
+
+## 2026-07-18
+- **AI Artificial Intelligence Machine Learning Tender News**: Recent tenders in Germany and Romania focus on software solutions for data protection and IT equipment for cybersecurity projects. ([Tender News](https://www.tendernews.com/tenders/latest-tender/ai--artificial-intelligence--machine-learning.html))
+
+- **Google News on AI**: A Google News feed aggregates articles related to artificial intelligence and machine learning, providing a comprehensive overview of current developments in the field. ([Google News](https://news.google.com/rss/search?q=artificial+intelligence+OR+AI+OR+machine+learning&hl=en-US&gl=US&ceid=US%3Aen))
+
+- **Daily AI News - Tech Report**: A discussion on how AI is reshaping possibilities across various domains, raising questions about readiness for future developments. ([YouTube](https://www.youtube.com/watch?v=8bhej32j63M))
+
+- **The Hidden Risk in Scaling AI: Decision Drift**: An article highlights the concept of decision drift as a risk factor when scaling AI systems, emphasizing the need for careful management. ([InformationWeek](https://www.informationweek.com/machine-learning-ai))
+
+- **AI News in a Minute**: A new feature called side chats allows users to engage in parallel conversations with AI agents without interrupting ongoing tasks, enhancing user experience. ([YouTube](https://www.youtube.com/watch?v=eQfZdXd8Mwo))
+
+- **AI News for July 13, 2026**: Predictions suggest potential U.S. regulations could limit open-weight AI models, while contrasting views from China advocate for keeping frontier AI open. ([AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-07-13))
+
+- **AI and Machine Learning in Orthopedics**: AI integration in orthopedic care is improving diagnosis and treatment planning by analyzing large datasets for better accuracy in detecting conditions. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Safety Concerns in AI Development**: A report discusses how safety measures are lagging behind advancements in frontier AI capabilities, raising alarms about potential risks. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning/page/2))
+
+- **AI Workshop Opportunity**: PC Express is hosting an AI workshop aimed at enhancing skills, with a chance for attendees to win a laptop, promoting engagement in AI education. ([PC Express](https://www.facebook.com/PCEXPRESSPH/posts/what-if-your-next-ai-workshop-didnt-just-upgrade-your-skills-but-also-gave-you-a/1470243658464972))
+
+- **AI Without Fear Seminar**: A community seminar titled "AI Without Fear" is scheduled to educate participants about AI technologies and their implications, fostering understanding and acceptance. ([Andrews Chapel UMC](https://www.facebook.com/AndrewsChapelUMCJonesboro/posts/prime-timers-ai-without-fear-july-18-2026-part-2-seminar-registrationtime-10am-2/1427926292706527))
