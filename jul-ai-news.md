@@ -378,3 +378,24 @@
 - **AI Workshop Opportunity**: PC Express is hosting an AI workshop aimed at enhancing skills, with a chance for attendees to win a laptop, promoting engagement in AI education. ([PC Express](https://www.facebook.com/PCEXPRESSPH/posts/what-if-your-next-ai-workshop-didnt-just-upgrade-your-skills-but-also-gave-you-a/1470243658464972))
 
 - **AI Without Fear Seminar**: A community seminar titled "AI Without Fear" is scheduled to educate participants about AI technologies and their implications, fostering understanding and acceptance. ([Andrews Chapel UMC](https://www.facebook.com/AndrewsChapelUMCJonesboro/posts/prime-timers-ai-without-fear-july-18-2026-part-2-seminar-registrationtime-10am-2/1427926292706527))
+
+## 2026-07-19
+- **How LexisNexis CTO Greg Dickason tempers AI for real-world results**: LexisNexis is testing AI models against each other and incorporating reviews from human attorneys to reduce errors and improve reliability. ([InformationWeek](https://www.informationweek.com/machine-learning-ai))
+
+- **EU's AI Act Phasing In**: The European Union's AI Act, the first comprehensive AI regulation, is set to fully implement transparency and high-risk system provisions by August 2026. ([NewsNow](https://www.newsnow.com/us/Science/AI))
+
+- **Prediction on Open-Weight Models**: Nathan Lambert forecasts that the U.S. may move to ban or stall open-weight AI models above certain thresholds within six months, amid ongoing discussions at the White House. ([AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-07-13))
+
+- **Google's Agentic Resource Discovery Specification (ARDS)**: Google has launched ARDS, an open standard that allows AI agents to autonomously discover and interact with web resources, supported by major tech companies. ([Crescendo](https://www.crescendo.ai/news/latest-ai-news-and-updates))
+
+- **DeepNude AI Tools Overview**: A privacy-focused guide has been released analyzing various DeepNude AI tools, highlighting their technical differences and usability. ([PrepMD](https://prepmd.com/wp-content/uploads/formidable/5/SKKL02NT.pdf))
+
+- **Perplexity.ai Updates**: Perplexity has introduced updates to its Computer product, enhancing memory systems and task orchestration capabilities while improving answer correctness and reducing costs. ([Future Tools](https://futuretools.io/news))
+
+- **Apple Suing OpenAI**: Apple has filed a lawsuit against OpenAI, alleging trade secret theft, marking a significant legal challenge in the AI industry. ([Neural Brief](https://www.youtube.com/watch?v=-IaKglcvPgc))
+
+- **Nvidia's Major IPO**: SK Hynix's $26.5 billion IPO has become the largest foreign IPO in U.S. history, prompting discussions about its implications for the tech industry. ([Neural Brief](https://www.youtube.com/watch?v=-IaKglcvPgc))
+
+- **Meta Faces EU Fines**: The European Union has threatened Meta with fines due to addictive features on its platforms, highlighting ongoing regulatory scrutiny of tech companies. ([Neural Brief](https://www.youtube.com/watch?v=-IaKglcvPgc))
+
+- **OpenAI Introduces ChatGPT Work**: OpenAI has launched ChatGPT Work, aimed at enhancing productivity tools for businesses, reflecting the growing integration of AI in workplace settings. ([Neural Brief](https://www.youtube.com/watch?v=-IaKglcvPgc))
