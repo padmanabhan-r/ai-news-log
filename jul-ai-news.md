@@ -420,3 +420,24 @@
 - **Federated Learning Book Release**: A new book titled "Federated Learning: Unlocking the Power of Collaborative Intelligence" is set to explore the principles and applications of federated learning in AI. ([source](https://www.routledge.com/Chapman--HallCRC-Artificial-Intelligence-and-Robotics-Series/book-series/ARTILRO))
 
 - **AI Innovations Conference for Educators**: A free conference titled "Unlocking Potential: AI Innovations for All Learners" will focus on using AI to enhance educational practices and improve accessibility. ([source](https://www.instagram.com/reel/Daxp_37jNbU))
+
+## 2026-07-21
+- **Meituan at ICML 2026**: The Meituan Technical Team will present academic papers at the International Conference on Machine Learning (ICML) 2026, focusing on key challenges and future directions in machine learning. ([source](https://aitoolly.com/ai-news/2026-07-13))
+
+- **Jeff Bezos Invests in CuspAI**: Jeff Bezos and the UK government have invested in a £2 billion AI start-up named CuspAI, marking a significant financial commitment to the UK AI sector. ([source](https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning))
+
+- **AI in Healthcare Conference**: The 3rd International Conference on Artificial Intelligence in Healthcare and Industry will take place in Toronto on August 19-20, 2026, focusing on the transformative power of AI in healthcare. ([source](https://www.scitechseries.com/artificial-intelligence-machine))
+
+- **AI Boom Video Report**: A video report discusses the rising costs of AI infrastructure and the ongoing debate about AI's role as a business platform, highlighting the urgency of advancements in AI technology. ([source](https://www.instagram.com/reel/DaetPYsDo0r))
+
+- **AI and Human Review Concerns**: Researchers have raised concerns about the automation of peer review processes by AI, suggesting that it may prioritize stylistic elements over substantive quality in academic papers. ([source](https://aiweekly.co/ai-news-today/edition/2026-07-08))
+
+- **Custom AI Chips Shipping**: Major companies including OpenAI and Amazon have begun shipping custom AI chips, marking a shift away from reliance on traditional GPU computing for AI applications. ([source](https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-july-2026-ai-insiders-news-ghr2e))
+
+- **AI+ Discovery Summit**: The AI+ Discovery Summit will convene researchers and policymakers in Washington, D.C., to discuss how AI is transforming research and discovery processes. ([source](https://www.instagram.com/p/Da5RyI5lR13))
+
+- **AI and Industrial Deployment**: The maturation of agentic engineering is noted, with AI agents transitioning from demonstration phases to practical industrial applications, enhancing operational efficiency. ([source](https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-july-2026-ai-insiders-news-ghr2e))
+
+- **AI World Report**: An AI World Report highlights the rapid advancements in AI technologies and their implications for various sectors, emphasizing the need for continuous learning and adaptation in the field. ([source](https://www.instagram.com/reel/DaZNMnuBIGx))
+
+- **AI Virtual Workshop Announcement**: A call for papers has been issued for the GLIMS Journal of Management Review and Transformation, inviting research on AI, machine learning, and digital transformation across management disciplines. ([source](https://www.linkedin.com/posts/richard-whittington-58b2b029_sms-virtual-special-conference-july-21-this-activity-7465675041242951680-x3BV))
