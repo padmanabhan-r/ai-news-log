@@ -441,3 +441,24 @@
 - **AI World Report**: An AI World Report highlights the rapid advancements in AI technologies and their implications for various sectors, emphasizing the need for continuous learning and adaptation in the field. ([source](https://www.instagram.com/reel/DaZNMnuBIGx))
 
 - **AI Virtual Workshop Announcement**: A call for papers has been issued for the GLIMS Journal of Management Review and Transformation, inviting research on AI, machine learning, and digital transformation across management disciplines. ([source](https://www.linkedin.com/posts/richard-whittington-58b2b029_sms-virtual-special-conference-july-21-this-activity-7465675041242951680-x3BV))
+
+## 2026-07-22
+- **Microsoft Shifts Excel and Outlook AI to Its Own MAI Models**: Microsoft has transitioned its Excel and Outlook AI functionalities to in-house MAI models, coinciding with the expiration of discounted token deals with external labs. ([source](https://www.linkedin.com/pulse/ai-news-highlights-from-8th-july-2026-ai-insiders-news-mqxce))
+
+- **AI Headline No. 22: How Artificial Intelligence Is Reshaping the World in 2026**: A video discusses the ongoing transformation brought by AI across various sectors, highlighting trends and innovations. ([source](https://www.youtube.com/watch?v=AuClvqLmxN0))
+
+- **Stop Automating Peer Review, Researchers Warn**: Concerns are raised about AI in academic peer review, where AI reviewers may prioritize stylistic elements over substantive quality, potentially inflating scores. ([source](https://aiweekly.co/ai-news-today/edition/2026-07-08))
+
+- **AI Lab Teaches Itself to Create Superalloys**: Researchers at the University of Toronto have developed an AI lab capable of autonomously creating new superalloys, showcasing advancements in materials science. ([source](https://www.metaltechnews.com/story/2026/07/22/tech-bytes/ai-lab-teaches-itself-to-create-superalloys/2845.html))
+
+- **China's AI Capabilities Approaching U.S. Levels**: A report indicates that the performance gap between U.S. and Chinese AI models has narrowed significantly, raising concerns about technological competition. ([source](https://economy.ac/news/2026/06/202606289420))
+
+- **Intel Builds World’s Largest Neuromorphic System**: Intel has announced the construction of the largest neuromorphic computing system, aimed at enhancing sustainable AI development and creating high-tech jobs. ([source](https://newsroom.intel.com/artificial-intelligence/intel-builds-worlds-largest-neuromorphic-system-to-enable-more-sustainable-ai))
+
+- **S Korea Promises Free Homegrown AI Chatbot This Year**: South Korea plans to launch a free domestic AI chatbot, emphasizing the country's commitment to developing its own AI technologies. ([source](https://www.taipeitimes.com/News/world/archives/2026/07/22/2003861185))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine is integrating AI and machine learning into primary care education, with various awards and programs announced for September. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **DeepSeek Moves**: DeepSeek has made advancements in AI technology, although specific details were not provided in the summary. ([source](https://www.linkedin.com/pulse/ai-news-highlights-from-8th-july-2026-ai-insiders-news-mqxce))
+
+- **Varonis Deepens AI Coding Security with Cursor Integration**: Varonis has enhanced its AI security measures by integrating Cursor, achieving GovRAMP security authorization to better serve government clients. ([source](https://www.carahsoft.com/solve/ai))
