@@ -483,3 +483,24 @@
 - **OpenAI releases GPT-Red for adversarial training**: OpenAI has unveiled GPT-Red, a model designed for automated red-teaming to identify and exploit vulnerabilities in AI systems, significantly improving the robustness of its models. ([Future Tools](https://futuretools.io/news))
 
 - **AI Index Report 2026 highlights economic impact of AI**: The latest AI Index Report from Stanford analyzes AI's economic footprint, focusing on its implications for labor markets, productivity, and the future of work. ([Stanford HAI](https://hai.stanford.edu/ai-index/2026-ai-index-report))
+
+## 2026-07-24
+- **Soft exosuit shows motor-free path to wearable walking assistance**: Researchers have developed a soft exosuit that aids walking without requiring motorized components, potentially enhancing mobility for individuals with disabilities. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Hidden prompts can plant false memories in AI agents, researchers warn**: A study reveals that AI agents can be manipulated to develop false memories through hidden prompts, raising ethical concerns about AI reliability. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Artificial Intelligence (AI) and Machine Learning in Orthopedic Conferences**: AI and machine learning are being integrated into orthopedic care, improving diagnosis and treatment planning through advanced data analysis. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Siemens Updates NX Software with Artificial Intelligence and Machine Learning**: Siemens has enhanced its NX software with AI and machine learning capabilities, aiming to improve design and manufacturing processes. ([Robotics 24/7](https://www.robotics247.com/article/siemens-updates-nx-software-with-artificial-intelligence-and-machine-learning/software))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: The Society of Teachers of Family Medicine is promoting AI and machine learning education in primary care, highlighting the importance of these technologies in modern healthcare. ([STFM](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **Unifying Innovations in Forecasting Capabilities Workshop 2026**: A workshop focusing on emerging technologies, including AI and machine learning, aims to enhance forecasting capabilities in various scientific fields. ([NOAA](https://epic.noaa.gov/eventsposts/uifcw-2026))
+
+- **Lunch & Leadership: Where AI Meets Opportunity**: An upcoming event in Silicon Valley will explore the intersection of AI and business opportunities, featuring discussions with industry leaders. ([Northeastern University](https://siliconvalley.northeastern.edu/events/lunch-leadership-ai))
+
+- **From Characterization to Discovery: AI, Machine Learning, and High-Throughput Experiments**: A research article discusses the application of AI and machine learning in designing heterogeneous catalysts, emphasizing their role in scientific discovery. ([ACS Publications](https://pubs.acs.org/doi/10.1021/acscatal.3c06293))
+
+- **A Brazilian Startup Is Betting on AI to Fight Crime**: A startup in Brazil is leveraging AI technology to combat crime, though critics express concerns about potential surveillance implications. ([UVA Today](https://datascience.virginia.edu/news?tag=Artificial+Intelligence&term=&page=11))
+
+- **European Laboratory for Learning and Intelligent Systems partners with G-Research**: The ELLIS Society has formed a partnership with G-Research to support PhD and postdoctoral research in AI and machine learning across Europe. ([ELLIS](https://ellis.eu))
