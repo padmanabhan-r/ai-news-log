@@ -504,3 +504,24 @@
 - **A Brazilian Startup Is Betting on AI to Fight Crime**: A startup in Brazil is leveraging AI technology to combat crime, though critics express concerns about potential surveillance implications. ([UVA Today](https://datascience.virginia.edu/news?tag=Artificial+Intelligence&term=&page=11))
 
 - **European Laboratory for Learning and Intelligent Systems partners with G-Research**: The ELLIS Society has formed a partnership with G-Research to support PhD and postdoctoral research in AI and machine learning across Europe. ([ELLIS](https://ellis.eu))
+
+## 2026-07-25
+- **Human remixes pay creatives, AI just pays shareholders**: A discussion on the exploitation of human creativity in generative AI, highlighting the need for better compensation for creatives to prevent job loss in various sectors ([Tech Xplore](https://techxplore.com/machine-learning-ai-news)).
+
+- **Shanghai science forum photos show China's AI and robotics advances in rivalry with US**: A showcase of China's technological advancements in AI and robotics, emphasizing the competitive landscape with the United States ([Tech Xplore](https://techxplore.com/machine-learning-ai-news)).
+
+- **Anthropic deploys Claude Sonnet 5, Fable and Mythos restored**: Anthropic has released new AI models, including Claude Sonnet 5, which aims to enhance AI capabilities in various applications ([Artificial Intelligence News](https://www.artificialintelligence-news.com)).
+
+- **Google’s Gemini 3.6 Flash targets enterprise agent token costs**: Google has introduced updates to its Gemini platform, focusing on reducing costs associated with enterprise AI agents, enhancing efficiency for businesses ([Artificial Intelligence News](https://www.artificialintelligence-news.com)).
+
+- **AI Competition Accelerates with New Product Launches Across the Industry**: A summary of recent product launches and updates from leading AI companies, indicating a surge in innovation and competition within the sector ([AI by AI Weekly](https://champaignmagazine.com/2026/07/12/ai-by-ai-weekly-top-5-july-6-12-2026)).
+
+- **Zorronet Completes Transition to New Advanced Data Center Supporting Business Expansion and Enhanced AI Capabilities**: BiomX's Zorronet has upgraded its data center to improve its AI-driven command-and-control software for security operations ([BiomX](https://ir.biomx.com/news-releases/news-release-details/biomx-zorronet-completes-transition-new-advanced-data-center)).
+
+- **National Symposium on Effective and Ethical AI 2026**: An upcoming symposium focused on the themes of human-AI collaboration, empowerment, and ethical considerations in AI development ([Morgan State University](https://events.morgan.edu/event/national-symposium-on-effective-and-ethical-ai-2026)).
+
+- **MIT’s New Lidar Chip Could Give Self-driving Cars a Wider View**: MIT engineers have developed a new lidar chip designed to enhance the perception capabilities of self-driving vehicles, potentially improving safety and navigation ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence)).
+
+- **Major AI offerings at a glance**: A comprehensive overview of significant AI models and technologies currently available, showcasing advancements and competitive offerings in the market ([Reuters](https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08)).
+
+- **The future is now: latest AI updates and breakthroughs in machine learning**: An exploration of the anticipated advancements in multimodal AI, which aims to enhance interactions across various media formats, signaling a transformative shift in technology ([Medium](https://medium.com/@theuktimes/the-future-is-now-latest-ai-updates-and-breakthroughs-in-machine-learning-b32a4d0b8db4)).
