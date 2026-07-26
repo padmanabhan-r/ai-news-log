@@ -525,3 +525,24 @@
 - **Major AI offerings at a glance**: A comprehensive overview of significant AI models and technologies currently available, showcasing advancements and competitive offerings in the market ([Reuters](https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08)).
 
 - **The future is now: latest AI updates and breakthroughs in machine learning**: An exploration of the anticipated advancements in multimodal AI, which aims to enhance interactions across various media formats, signaling a transformative shift in technology ([Medium](https://medium.com/@theuktimes/the-future-is-now-latest-ai-updates-and-breakthroughs-in-machine-learning-b32a4d0b8db4)).
+
+## 2026-07-26
+- **AI Compute at Scale**: Descartes has launched Lucy 2.5, a model that allows for real-time editing of live video at 30 frames per second with minimal lag, transforming content dynamically as it streams. ([source](https://www.youtube.com/watch?v=gz5ztw_ro4Y))
+
+- **Leadership Changes in AI Governance**: The Center for AI Standards and Innovation has seen its third director in three months, raising concerns about the agency's stability during a critical period for AI governance. ([source](https://www.youtube.com/watch?v=_J-X9VkMUaE))
+
+- **Predictions on Open-Weight Models**: Nathan Lambert predicts that the U.S. may soon move to ban or stall open-weight AI models above certain thresholds, while a Chinese counterpart argues for keeping frontier AI open. ([source](https://aiweekly.co/ai-news-today/edition/2026-07-13))
+
+- **AI Writing Detection in Publishing**: Substack has partnered with Penguin Labs to integrate AI writing detection into its platform, marking a significant step in addressing the authenticity of content online. ([source](https://www.youtube.com/watch?v=l8n4GpT3rBc))
+
+- **China's AI Diplomacy**: Xi Jinping is promoting China as a partner for developing nations in AI, while cautioning against potential risks and security concerns associated with AI technologies. ([source](https://markmcneilly.substack.com/p/the-new-news-in-ai-72426-edition))
+
+- **AI in Financial Management**: AI is increasingly being used by asset managers for decision support, optimizing portfolio construction, and generating investment signals, rather than making autonomous decisions. ([source](https://www.ici.org/sites/default/files/2026-07/26-cl-fsb-consultation-ai-sound-practices.pdf))
+
+- **AI Impact Festival in India**: The deadline for submissions to the India AI Impact Festival 2026 has been extended, inviting innovations that demonstrate real-world impact in AI. ([source](https://www.facebook.com/INDIAai/posts/submission-deadline-extended-to-july-26-2026theres-still-time-to-showcase-your-a/1477270157750368))
+
+- **AI-Related Job Cuts**: Microsoft has announced the layoff of 4,800 employees as part of a broader trend of job reductions linked to AI advancements and restructuring. ([source](https://medium.com/@annie_7775/ai-updates-for-the-week-of-7-12-26-96aac5a792a1))
+
+- **Investment Surge in AI**: Significant funding has been reported in the AI sector, including $49 billion raised by Abu Dhabi's MGX for a new AI fund, highlighting the growing financial interest in AI technologies. ([source](https://www.youtube.com/watch?v=EPzT4ZmBFsQ))
+
+- **WhatsApp's New Feature**: WhatsApp is introducing username reservations, allowing users to chat without sharing phone numbers, reflecting ongoing innovations in communication technologies. ([source](https://www.youtube.com/watch?v=nj5ZOAXl5cA))
