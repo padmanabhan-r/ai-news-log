@@ -546,3 +546,24 @@
 - **Investment Surge in AI**: Significant funding has been reported in the AI sector, including $49 billion raised by Abu Dhabi's MGX for a new AI fund, highlighting the growing financial interest in AI technologies. ([source](https://www.youtube.com/watch?v=EPzT4ZmBFsQ))
 
 - **WhatsApp's New Feature**: WhatsApp is introducing username reservations, allowing users to chat without sharing phone numbers, reflecting ongoing innovations in communication technologies. ([source](https://www.youtube.com/watch?v=nj5ZOAXl5cA))
+
+## 2026-07-27
+- **Session 3: Applied Artificial Intelligence in Macro-Finance**: A discussion on new techniques for "brain scanning" large language models (LLMs) to understand their economic reasoning and predictions. ([source](https://economics.stanford.edu/events/site-2026/session-3-applied-artificial-intelligence-macro-finance))
+
+- **Welcome to AI-DataX 2026 – Artificial Intelligence, Data ...**: Announcement of the upcoming AI-DataX 2026 conference focusing on advancements in artificial intelligence and data science. ([source](https://www.instagram.com/reel/Da2opXhyPav))
+
+- **ARTIFICIAL Definition & Meaning**: Insights from Ashok Elluswamy of Tesla on the company's potential to expand AI operations on a state-wide level, reflecting investor concerns about AI valuations. ([source](https://www.dictionary.com/browse/artificial))
+
+- **Artificial Intelligence Solutions for Government | Carahsoft**: Overview of AI solutions tailored for government applications, highlighting recent events and training sessions related to AI. ([source](https://www.carahsoft.com/solve/ai))
+
+- **Artificial (2026 film)**: Information about the film "Artificial," exploring Hollywood's apprehension towards narratives criticizing tech giants. ([source](https://en.wikipedia.org/wiki/Artificial_(2026_film)))
+
+- **The Difference Between AI, ML, and Deep Learning | TDWI**: A resource explaining the distinctions between artificial intelligence, machine learning, and deep learning, aimed at enhancing understanding of these technologies. ([source](https://tdwi.org/blogs/ai-101/2025/09/ai-vs-ml-vs-deep-learning.aspx))
+
+- **What is Machine Learning? | IBM**: An overview of machine learning's evolution and its advantages over traditional rules-based models in handling complex tasks. ([source](https://www.ibm.com/think/topics/machine-learning))
+
+- **Supervised Machine Learning: Regression and Classification | Coursera**: A comprehensive course on modern machine learning techniques, focusing on supervised learning methods. ([source](https://www.coursera.org/learn/machine-learning))
+
+- **Machine Learning | Google for Developers**: Introduction to Google's Machine Learning Crash Course, covering essential concepts and techniques for building ML models. ([source](https://developers.google.com/machine-learning/crash-course))
+
+- **Center for Artificial Intelligence**: The Future of Privacy Forum (FPF) announces its Center for Artificial Intelligence, aimed at providing analysis and guidance on AI governance and policy. ([source](https://fpf.org/center-for-artificial-intelligence))
