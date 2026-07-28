@@ -567,3 +567,24 @@
 - **Machine Learning | Google for Developers**: Introduction to Google's Machine Learning Crash Course, covering essential concepts and techniques for building ML models. ([source](https://developers.google.com/machine-learning/crash-course))
 
 - **Center for Artificial Intelligence**: The Future of Privacy Forum (FPF) announces its Center for Artificial Intelligence, aimed at providing analysis and guidance on AI governance and policy. ([source](https://fpf.org/center-for-artificial-intelligence))
+
+## 2026-07-28
+- **Elephant-inspired cement tiles cool buildings without electricity**: New cement tiles inspired by elephants' cooling mechanisms have been developed to reduce building temperatures without the need for electricity. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Thwarting the hidden resume hacks that target AI hiring tools**: Strategies are being discussed to combat deceptive practices that exploit AI hiring algorithms, ensuring fairer recruitment processes. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Graphics advances preserve stretched textures and cut shape-computation costs tenfold**: Recent advancements in graphics technology have significantly reduced costs associated with shape computation while maintaining texture quality. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Meituan Technical Team participates in ICML 2026**: The team is presenting academic papers at the International Conference on Machine Learning, focusing on key challenges and future directions in the field. ([AIToolly](https://aitoolly.com/ai-news/2026-07-13))
+
+- **AI and Machine Learning Uses in Neuroscience Drug Discovery**: A webinar will explore how AI is being utilized to enhance drug discovery processes in neuroscience, emphasizing its role in improving quality management systems. ([Xtalks](https://xtalks.com/webinars/ai-and-machine-learning-uses-in-neuroscience-drug-discovery))
+
+- **What’s next in AI: 7 trends to watch in 2026**: An overview of emerging trends in AI indicates a shift towards collaboration between AI systems and human users, enhancing productivity across various sectors. ([Microsoft News](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Session on Applied Artificial Intelligence in Macro-Finance**: A session will discuss innovative techniques for analyzing large language models and their applications in economic forecasting. ([Stanford Economics](https://economics.stanford.edu/events/site-2026/session-3-applied-artificial-intelligence-macro-finance))
+
+- **2026 AI for Defense Summit**: This summit will address the integration of AI technologies in defense applications, highlighting advancements and future strategies in military contexts. ([Industry Events](https://www.industryevents.com/events/2026-ai-for-defense-summit))
+
+- **AAAI-27 deadlines are here**: The upcoming AAAI Conference on Artificial Intelligence has announced important submission deadlines for authors, focusing on advancements in AI research. ([AAAI](https://www.facebook.com/AAAIOrg/posts/aaai-27-deadlines-are-here-the-41st-aaai-conference-on-artificial-intelligence-w/1062708666433031))
+
+- **GEOINTeraction Tuesday: It’s About Automation, Not AI**: A discussion on the importance of automation in the future of geospatial intelligence, emphasizing its role in enhancing data analysis and insights. ([USGIF](https://usgif.org/event/geointeraction-tuesday-7))
