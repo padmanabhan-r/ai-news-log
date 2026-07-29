@@ -588,3 +588,24 @@
 - **AAAI-27 deadlines are here**: The upcoming AAAI Conference on Artificial Intelligence has announced important submission deadlines for authors, focusing on advancements in AI research. ([AAAI](https://www.facebook.com/AAAIOrg/posts/aaai-27-deadlines-are-here-the-41st-aaai-conference-on-artificial-intelligence-w/1062708666433031))
 
 - **GEOINTeraction Tuesday: It’s About Automation, Not AI**: A discussion on the importance of automation in the future of geospatial intelligence, emphasizing its role in enhancing data analysis and insights. ([USGIF](https://usgif.org/event/geointeraction-tuesday-7))
+
+## 2026-07-29
+- **Predictive Artificial Intelligence and Automation Tools**: This workshop session will cover machine learning and automation tools available for systematic reviews at the UNC Health Sciences Library. ([UNC Health Care](https://news.unchealthcare.org/events/2026-07-29))
+
+- **7th International Conference on Artificial Intelligence in Education Technology**: Scheduled for July 29-31, 2026, in Zagreb, Croatia, this conference aims to gather global participants to discuss advancements in AI in education. ([Eventbrite](https://www.eventbrite.com/e/7th-int-conf-on-artificial-intelligence-in-education-technology-tickets-1869156390079))
+
+- **AI and Work Insights from MIT Faculty**: MIT researchers share their focus areas regarding AI's impact on work as 2026 progresses, highlighting the evolving landscape of AI technologies. ([Instagram](https://www.instagram.com/p/DUYIurbCZyl))
+
+- **Sarvam: Building Sovereign AI for India**: A case study on Sarvam, which launched India's first large language models trained from local data, showcasing advancements in AI tailored for Indian contexts. ([Harvard Business Review](https://hbr.org/topic/subject/ai-and-machine-learning))
+
+- **Upcoming AI Events at University of Washington**: The university's IT department provides a calendar of AI-related events, workshops, and talks aimed at supporting education and research. ([University of Washington](https://it.uw.edu/guides/artificial-intelligence/ai-event-calendar?trumbaEmbed=view%3Devent%26eventid%3D204916403))
+
+- **Live AI Challenge for Indian Engineering Students**: A forthcoming live AI challenge will present real-world business problems for students to solve, enhancing practical learning experiences. ([Facebook - Hack2skill](https://www.facebook.com/hack2skill/posts/the-countdown-is-on-a-live-ai-challenge-is-coming-for-indias-engineering-student/1071809285348577))
+
+- **AI Adoption Challenges in Accounting**: Experts discuss that the main challenge for accounting teams is not AI adoption but AI readiness, emphasizing the need for trusted data and governance. ([Instagram](https://www.instagram.com/reel/DbJhtfaAFR3))
+
+- **MIT’s New Lidar Chip for Self-Driving Cars**: Engineers at MIT have developed a new lidar chip that enhances the perception capabilities of self-driving cars, potentially improving safety and navigation. ([ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence))
+
+- **AI Event Calendar at UNC Library**: The library offers a guide to upcoming AI events, including workshops on generative AI and bias mitigation, aimed at educating users on AI technologies. ([UNC Library](https://library.unc.edu/ai))
+
+- **AI Agenda Live SF 2026**: An upcoming event in San Francisco focusing on the latest developments and discussions in the field of artificial intelligence. ([The Information](https://www.theinformation.com))
