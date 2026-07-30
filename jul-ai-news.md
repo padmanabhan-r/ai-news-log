@@ -609,3 +609,24 @@
 - **AI Event Calendar at UNC Library**: The library offers a guide to upcoming AI events, including workshops on generative AI and bias mitigation, aimed at educating users on AI technologies. ([UNC Library](https://library.unc.edu/ai))
 
 - **AI Agenda Live SF 2026**: An upcoming event in San Francisco focusing on the latest developments and discussions in the field of artificial intelligence. ([The Information](https://www.theinformation.com))
+
+## 2026-07-30
+- **Artificial Intelligence Machine | 3rd International Conference on Artificial Intelligence in Healthcare and Industry**: A global conference is set for August 2026 in Toronto, focusing on the role of AI in healthcare. ([source](https://www.scitechseries.com/artificial-intelligence-machine))
+
+- **What’s next in AI: 7 trends to watch in 2026**: The article discusses how AI is evolving from a tool to a collaborative partner in various industries, emphasizing its real-world impact. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Five Trends in AI and Data Science for 2026**: This piece outlines key trends in AI and data science, including the rise of generative AI as an organizational tool. ([source](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026))
+
+- **The trends that will shape AI and tech in 2026**: The article highlights advancements in open-source AI and the shift towards smaller, more efficient models tailored for specific use cases. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **17 predictions for AI in 2026**: Predictions include increased computational resources and the emergence of large-scale AI development clusters, alongside caution regarding the pace of AI advancements. ([source](https://www.understandingai.org/p/17-predictions-for-ai-in-2026))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Experts anticipate a focus on understanding high-performing neural networks and the need to clarify AI's decision-making processes. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **AI Trends in 2026: Advancements and Breakthroughs Ahead**: The article discusses the complexity of AI advancements, including autonomous systems and ethical governance, which are expected to drive transformative growth. ([source](https://www.trigyn.com/insights/ai-trends-2026-new-era-ai-advancements-and-breakthroughs))
+
+- **The Future of AI: 7 Breakthrough Trends Redefining 2026**: Highlights include the emergence of physics-informed AI, which integrates physical laws into AI models, enhancing scientific and engineering applications. ([source](https://www.switas.com/articles/the-future-of-ai-7-breakthrough-trends-redefining-2026))
+
+- **8 Essential steps to preparing data for AI**: This article outlines key steps for data preparation, crucial for effective AI implementation in various sectors. ([source](https://www.cxnetwork.com/artificial-intelligence/articles/8-essential-steps-to-take-when-preparing-data-for-ai))
+
+- **Artificial Intelligence (AI) in HEOR**: AI is transforming health economics and outcomes research by enhancing the evaluation of healthcare interventions through advanced machine learning and natural language processing. ([source](https://www.ispor.org/strategic-initiatives/topics/artificial-intelligence))
