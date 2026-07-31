@@ -630,3 +630,24 @@
 - **8 Essential steps to preparing data for AI**: This article outlines key steps for data preparation, crucial for effective AI implementation in various sectors. ([source](https://www.cxnetwork.com/artificial-intelligence/articles/8-essential-steps-to-take-when-preparing-data-for-ai))
 
 - **Artificial Intelligence (AI) in HEOR**: AI is transforming health economics and outcomes research by enhancing the evaluation of healthcare interventions through advanced machine learning and natural language processing. ([source](https://www.ispor.org/strategic-initiatives/topics/artificial-intelligence))
+
+## 2026-07-31
+- **AI & Finance™ | News for the Week Ending 7/31/26**: Dr. Jackson, with over 20 years in AI and machine learning, has been appointed Chief AI Officer at G42, focusing on AI strategies for industry transformation in the UAE ([source](https://dwealth.news/2026/07/ai-finance-news-for-the-week-ending-7-31-26)).
+
+- **3rd International Conference on Artificial Intelligence in Healthcare and Industry**: Scheduled for August 19-20, 2026, in Toronto, this conference will explore the role of AI in healthcare, inviting global participation ([source](https://www.scitechseries.com/artificial-intelligence-machine)).
+
+- **Stowers Institute expands AI Initiative**: The Stowers Institute has appointed Dr. Charles McAnany as its second AI Fellow to enhance AI accessibility and implementation in genomic research ([source](https://www.stowers.org/news/stowers-institute-expands-ai-initiative-appoints-second-artificial-intelligence-fellow)).
+
+- **Machine learning algorithm sets Nvidia stock price for July 31, 2026**: Nvidia reported a record revenue of $81.6 billion for Q1 fiscal 2027, driven by its AI infrastructure segment, marking an 85% annual increase ([source](https://finbold.com/machine-learning-algorithm-sets-nvidia-stock-price-for-july-31-2026)).
+
+- **Center for Equitable Artificial Intelligence and Machine Learning**: This initiative offers a summer program for K-12 educators to enhance their skills in AI and STEM education, providing hands-on experience and a stipend ([source](https://www.morgan.edu/ceamls)).
+
+- **AAAI-27 deadlines are here!**: The 41st AAAI Conference on Artificial Intelligence will take place in Montréal from February 16-23, 2027, with key submission deadlines approaching ([source](https://www.facebook.com/AAAIOrg/posts/aaai-27-deadlines-are-here-the-41st-aaai-conference-on-artificial-intelligence-w/1062708666433031)).
+
+- **Dr. Sparks presents at Frontiers of GenAI in Science**: Dr. Sparks shared insights on reinforcement learning for scientific foundation models at a recent meeting in Minneapolis, highlighting advancements in AI applications in science ([source](https://my.eng.utah.edu/~sparks/news.html)).
+
+- **AI4I Engineering and Deployment Calls**: AI4I is seeking candidates for various positions, including HPC/AI specialists and service delivery managers, with application deadlines set for December 31, 2026 ([source](https://ai4i.it/work-with-us)).
+
+- **Artificial Intelligence and Machine Learning Applications in Financial Services**: A call for papers has been issued for a special issue focusing on AI and machine learning applications in the financial services sector ([source](https://www.emeraldgrouppublishing.com/calls-for-papers/artificial-intelligence-and-machine-learning-applications-financial-services)).
+
+- **UCLA AI Exploration Summer Camp**: This immersive program in Southern California offers hands-on AI projects and visits to technology companies, aimed at empowering students with AI knowledge ([source](https://www.innovedus.com/%E5%89%AF%E6%9C%AC-ucla-ai-camp)).
