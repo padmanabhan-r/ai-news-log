@@ -21,3 +21,24 @@
 - **AI News & Artificial Intelligence**: Meta's Mark Zuckerberg discusses the potential of enterprise AI beyond just agent-based systems, indicating a broader scope for AI applications in business. ([TechCrunch](https://techcrunch.com/category/artificial-intelligence))
 
 - **Advances in Artificial Intelligence and Machine Learning**: A new journal will focus on the intersection of AI and human well-being, publishing research on autonomous systems and cognitive technologies. ([Artificial Intelligence Journals](https://www.oajaiml.com))
+
+## 2026-08-02
+- **AI's Research Capability and Regulatory Concerns**: The rapid advancement of AI's research capabilities is raising both excitement for scientific acceleration and concerns regarding the need for regulatory oversight, as highlighted by the ongoing debate on accountability. ([source](https://www.buildfastwithai.com/blogs/ai-news-today-august-2-2026))
+
+- **EU AI Act Implementation**: As of August 2, 2026, the EU AI Act will enforce new regulations, including the requirement for AI systems to disclose their nature, marking a significant step in AI governance. ([source](https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026))
+
+- **Transparency Requirements for AI**: Starting August 2, 2026, the EU mandates that AI systems must introduce themselves before interacting with users, enhancing transparency in AI communications. ([source](https://genaisa.eu/starting-august-2-ai-must-introduce-itself-before-speaking))
+
+- **AI Labeling Requirements**: The EU AI Act now requires labeling for AI-generated content, including images and videos, to inform users about the artificial nature of the content. ([source](https://www.jdsupra.com/legalnews/missing-an-ai-label-understanding-your-3530872))
+
+- **Governance of AI Under the EU AI Act**: The newly established AI Office and member state authorities will oversee the implementation and enforcement of the EU AI Act, ensuring compliance and addressing non-compliance through fines. ([source](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai))
+
+- **AI's Role in Investment Decisions**: A discussion on the limitations of AI as a credible stock market expert emphasizes the necessity for human oversight and data verification in financial decision-making. ([source](https://www.youtube.com/watch?v=snpqSQnkggw))
+
+- **Geopolymer Mortar Development**: Innovations in AI have led to the creation of a waste-based geopolymer mortar, providing a greener and fire-resistant alternative to traditional concrete, showcasing AI's potential in sustainable construction. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **Insect-Inspired Olfactory Sensors**: Researchers have developed electronic noses inspired by insects, transforming semiconductor chips into olfactory sensors, which could have various applications in technology and environmental monitoring. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **Concerns Over AI and Youth Dependency**: Growing concerns are being raised about the reliance of children on AI technologies, prompting discussions on the implications for education and social development. ([source](https://www.youtube.com/watch?v=CUiOOY4fV2U))
+
+- **Future of AI Regulation**: As AI systems become more autonomous, there is a shift in focus from model training to real-world behavior, indicating that future regulations may include liability for harmful actions taken by AI. ([source](https://builtin.com/artificial-intelligence/artificial-intelligence-future))
