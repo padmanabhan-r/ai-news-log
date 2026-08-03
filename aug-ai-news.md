@@ -42,3 +42,24 @@
 - **Concerns Over AI and Youth Dependency**: Growing concerns are being raised about the reliance of children on AI technologies, prompting discussions on the implications for education and social development. ([source](https://www.youtube.com/watch?v=CUiOOY4fV2U))
 
 - **Future of AI Regulation**: As AI systems become more autonomous, there is a shift in focus from model training to real-world behavior, indicating that future regulations may include liability for harmful actions taken by AI. ([source](https://builtin.com/artificial-intelligence/artificial-intelligence-future))
+
+## 2026-08-03
+- **AI News Briefs BULLETIN BOARD for March 2026**: A roundup of significant AI developments and news, covering various topics including analytics, big data, and machine learning. ([Radical Data Science](https://radicaldatascience.wordpress.com/2026/03/31/ai-news-briefs-bulletin-board-for-march-2026))
+
+- **Professional Certificate Program in Machine Learning & Artificial Intelligence**: MIT offers a professional certificate program led by notable instructors, aimed at enhancing skills in AI and machine learning. ([MIT Professional Education](https://professional.mit.edu/course-catalog/professional-certificate-program-machine-learning-artificial-intelligence-0))
+
+- **AI News: Latest Artificial Intelligence Updates (2026)**: A comprehensive overview of the latest trends and foundational concepts in AI, including machine learning and reinforcement learning. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **Latest AI & ML News, Insights, and Trends**: Highlights upcoming AI-related events and conferences, including those focused on gaming, cybersecurity, and testing innovations. ([Times of AI](https://www.timesofai.com))
+
+- **Just AI News**: An AI news outlet providing updates on industry developments, funding news, and business directories for AI companies. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
+
+- **Artificial Intelligence Practitioner | College Credit Certificate**: A program designed to equip students with practical skills for careers in AI, emphasizing ethical considerations and real-world applications. ([Palm Beach State College](https://www.pbsc.edu/programs/artificial-intelligence-practitioner-ccc.php))
+
+- **10 Machine Learning Trends to Watch Out for in 2026 and Beyond**: An article discussing key trends in machine learning, including the importance of explainable AI (XAI) for model transparency. ([Softteco](https://softteco.com/blog/machine-learning-trends))
+
+- **Call for Papers: ECONDAT 2026 Fall Meeting (Tokyo)**: An announcement for a conference focused on macroeconomics and data, organized by leading financial institutions, aimed at fostering collaboration among researchers. ([CEBRA](https://cebra.org/call-for-papers-econdat-2026-fall-meeting-tokyo))
+
+- **Machine Learning/Deep Learning – Sandia National Laboratories**: A call for presenters for a workshop focusing on machine learning and deep learning, encouraging submissions that highlight innovative research. ([Sandia National Laboratories](https://www.sandia.gov/machine-and-deep-learning-workshop))
+
+- **The Evolution and Future of Artificial Intelligence | CMU**: An exploration of the misconceptions surrounding AI and machine learning, clarifying their distinct roles and the advancements in the field. ([Carnegie Mellon University](https://www.calmu.edu/news/future-of-artificial-intelligence))
