@@ -63,3 +63,24 @@
 - **Machine Learning/Deep Learning – Sandia National Laboratories**: A call for presenters for a workshop focusing on machine learning and deep learning, encouraging submissions that highlight innovative research. ([Sandia National Laboratories](https://www.sandia.gov/machine-and-deep-learning-workshop))
 
 - **The Evolution and Future of Artificial Intelligence | CMU**: An exploration of the misconceptions surrounding AI and machine learning, clarifying their distinct roles and the advancements in the field. ([Carnegie Mellon University](https://www.calmu.edu/news/future-of-artificial-intelligence))
+
+## 2026-08-04
+- **ChinaJoy 2026**: Upcoming events in Shanghai will focus on AI in gaming and e-sports, highlighting the growing intersection of AI and entertainment. ([Times of AI](https://www.timesofai.com))
+
+- **Datavault AI to Host First Analyst and Investor Day on August 4, 2026**: Datavault AI will present its platform's capabilities across various industries, emphasizing responsible AI and digital twins. ([Nasdaq](https://www.nasdaq.com/press-release/datavault-ai-host-first-analyst-and-investor-day-august-4-2026-2026-07-22))
+
+- **August 2026: Where AI Is Headed in Next 5 Years**: The EU's AI Act has begun implementation, requiring transparency in AI interactions and marking generative model outputs. ([ETC Journal](https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years))
+
+- **The Future of AI: How Artificial Intelligence Will Change the World**: The EU AI Act aims to set a global standard for high-risk AI systems, with a shift towards accountability for AI behavior in real-world applications. ([Built In](https://builtin.com/artificial-intelligence/artificial-intelligence-future))
+
+- **Latest AI Trends for 2026 & Beyond**: Quantum AI is expected to revolutionize industries by enhancing machine learning models and processing capabilities. ([App Inventiv](https://appinventiv.com/blog/ai-trends))
+
+- **What’s next in AI: 7 trends to watch in 2026**: A new approach to AI workload management is anticipated, optimizing computing resources for greater efficiency and sustainability. ([Microsoft News](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **AI In 2026: 10 Predictions On Automation And The Future**: Insights from AI experts suggest that the future of AGI will rely on World Models rather than solely on large language models. ([Forbes](https://www.forbes.com/sites/charlestowersclark/2025/12/10/ai-in-2026-10-predictions-on-automation-and-the-future-of-work))
+
+- **The Future of Artificial Intelligence**: Concerns are rising over the potential depletion of human-generated data for training AI models, prompting exploration of synthetic data sources. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **2026 AI Business Predictions**: Rapid AI adoption is outpacing governance models, necessitating new approaches to manage risks and improve AI outputs in business environments. ([PwC](https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html))
+
+- **Network for Collaborative Intelligence - Northwestern University**: Upcoming events will focus on how AI is reshaping industries and fostering innovation through collaboration. ([NNCI](https://nnci.northwestern.edu))
