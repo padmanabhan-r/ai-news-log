@@ -84,3 +84,24 @@
 - **2026 AI Business Predictions**: Rapid AI adoption is outpacing governance models, necessitating new approaches to manage risks and improve AI outputs in business environments. ([PwC](https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html))
 
 - **Network for Collaborative Intelligence - Northwestern University**: Upcoming events will focus on how AI is reshaping industries and fostering innovation through collaboration. ([NNCI](https://nnci.northwestern.edu))
+
+## 2026-08-05
+- **Reasoning Models**: OpenAI's o3 and Claude utilize chain-of-thought processing, marking a significant advancement in AI capabilities by enabling models to "think" before responding, rather than just pattern-matching. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **Machine Learning Trends 2026**: AI is increasingly integrated into daily workflows, focusing on context and trust rather than just computational power, allowing for a deeper understanding of tasks. ([Softteco](https://softteco.com/blog/machine-learning-trends))
+
+- **Large Tabular Models Excel Where LLMs Fail**: New research highlights the effectiveness of large tabular models in scenarios where traditional large language models (LLMs) struggle, showcasing a shift in AI application. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **EU AI Act Implementation**: As of August 2, 2026, the EU mandates that companies disclose when users are interacting with AI, enhancing transparency in AI-generated content. ([ETC Journal](https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years))
+
+- **Autonomous AI Agents in Commerce**: The rise of autonomous AI agents capable of conducting transactions is expected to transform machine-mediated commerce and necessitate new marketing strategies. ([MarketingProfs](https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week))
+
+- **AI for Travel Demand Modeling Seminar**: An upcoming seminar hosted by the IMPACTs Laboratory will feature Prof. Shenhao Wang discussing the application of AI in travel demand modeling. ([KAIST](https://mo.kaist.ac.kr/en/notice/seminar-notice-artificial-intelligence-for-travel-demand-modeling-prof-shenhao-wang-university-of-florida-august-5-2026))
+
+- **Ollama Series B Funding**: Ollama has secured $65 million in Series B funding to enhance its open-source AI platform, indicating strong investor confidence in open-source AI solutions. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
+
+- **AI Skills Program by Google**: The Google News Initiative has launched AI Skills Program 2.0 aimed at equipping youth with essential AI skills, reflecting a commitment to workforce development. ([Instagram](https://www.instagram.com/p/DbnTRe-jT93))
+
+- **AI in Emergency Management**: A detailed program on autonomous machine learning applications in emergency departments highlights the growing intersection of AI and healthcare resource management. ([IEEE CAI 2026](https://www.ieeesmc.org/cai-2026/detailed-schedule))
+
+- **Caris Life Sciences Financial Results**: Caris Life Sciences is set to report its Q2 2026 financial results, emphasizing its role in the TechBio sector through AI and machine learning advancements in healthcare. ([Caris Life Sciences](https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-second-quarter-2026-financial-results-on-august-5-2026))
