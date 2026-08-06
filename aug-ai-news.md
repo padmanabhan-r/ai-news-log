@@ -105,3 +105,24 @@
 - **AI in Emergency Management**: A detailed program on autonomous machine learning applications in emergency departments highlights the growing intersection of AI and healthcare resource management. ([IEEE CAI 2026](https://www.ieeesmc.org/cai-2026/detailed-schedule))
 
 - **Caris Life Sciences Financial Results**: Caris Life Sciences is set to report its Q2 2026 financial results, emphasizing its role in the TechBio sector through AI and machine learning advancements in healthcare. ([Caris Life Sciences](https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-second-quarter-2026-financial-results-on-august-5-2026))
+
+## 2026-08-06
+- **Fannie Mae Issues Governance Framework on Use of Artificial Intelligence and Machine Learning**: Fannie Mae has established a governance framework for its seller/servicers regarding the use of AI and machine learning in loan origination and servicing practices, emphasizing compliance and oversight. ([source](https://www.alstonconsumerfinance.com/fannie-mae-issues-governance-framework-on-use-of-artificial-intelligence-and-machine-learning))
+
+- **AI Quarterly | A Review of AI Law, Policy & Practice | 2026 Q2**: This publication reviews the implications of Fannie Mae's governance framework, highlighting the significant requirements for approved seller/servicers utilizing AI/ML technologies. ([source](https://www.alston.com/en/insights/publications/2026/06/ai-quarterly-2026-q2))
+
+- **What's next in AI: 7 trends to watch in 2026**: A report discusses upcoming trends in AI, including advancements in computing infrastructure that will enhance efficiency and adaptability in AI workloads. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Machine Learning**: An announcement for an upcoming seminar on developing small, open-source, multi-modal language model agents aimed at benefiting science and society. ([source](https://www.anl.gov/topic/science-technology/machine-learning))
+
+- **AI News & Articles - Artificial Intelligence Updates - IEEE Spectrum**: A call for readers to subscribe to a newsletter that provides biweekly updates on machine learning algorithms and applications, emphasizing the importance of staying informed. ([source](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **The Algorithmic Servicer – NMP**: Freddie Mac has updated its guidelines to require a comprehensive governance framework for AI and machine learning systems, following similar actions by Fannie Mae. ([source](https://nationalmortgageprofessional.com/news/algorithmic-servicer))
+
+- **Data Science, Machine Learning, and AI**: A webinar will cover key findings from TDWI's Q3 Blueprint Report focusing on next-generation analytics and the evolution of business intelligence. ([source](https://tdwi.org/pages/topics/data-science-machine-learning-ai.aspx))
+
+- **Join us for the August 6, 2026 KPN Webinar!**: This webinar will focus on collaborative platforms for biomedical data science, AI, and machine learning, showcasing the use of open-source tools for research. ([source](https://kp4cd.org/node/1767))
+
+- **Routine of middle east on Instagram: "BREAKING | BIG TECH ..."**: Major tech companies have announced significant investments in AI infrastructure, including advanced AI assistants and cloud computing expansions, indicating a robust future for AI technologies. ([source](https://www.instagram.com/routineofmiddle/reel/DbjxKOJqxW8))
+
+- **The Future of Artificial Intelligence**: A discussion on the potential shortage of human-generated data for training AI models by 2026, prompting exploration into synthetic data generation and alternative data sources. ([source](https://www.ibm.com/think/insights/artificial-intelligence-future))
