@@ -126,3 +126,24 @@
 - **Routine of middle east on Instagram: "BREAKING | BIG TECH ..."**: Major tech companies have announced significant investments in AI infrastructure, including advanced AI assistants and cloud computing expansions, indicating a robust future for AI technologies. ([source](https://www.instagram.com/routineofmiddle/reel/DbjxKOJqxW8))
 
 - **The Future of Artificial Intelligence**: A discussion on the potential shortage of human-generated data for training AI models by 2026, prompting exploration into synthetic data generation and alternative data sources. ([source](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+## 2026-08-07
+- **IEEE Course Teaches How to Use AI to Modernize Power Grids**: A new course offered by IEEE focuses on utilizing machine learning to enhance planning and emergency responses in power grid management. ([source](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **Reasoning Models Transform AI Capabilities**: The introduction of reasoning models, such as OpenAI's o3, marks a significant advancement in AI, enabling systems to process information more thoughtfully before generating responses. ([source](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **Midwest AI/Machine Learning Bootcamp for College Faculty**: An upcoming bootcamp aimed at college faculty will focus on agentic AI and machine learning, scheduled for August 7, 2026, in Chicago. ([source](https://colleges.ccc.edu/event/midwest-ai-machine-learning-agentic-ai-bootcamp-for-college-faculty))
+
+- **Curing Alert Fatigue with Embedded AI**: A blog post discusses how embedded AI is redefining troubleshooting processes in Red Hat OpenShift clusters, addressing the issue of alert fatigue. ([source](https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat))
+
+- **Bano Qabil AI Hackathon Registration Open**: Registration for the Bano Qabil AI Hackathon is open until August 7, 2026, encouraging participants to showcase their projects and skills. ([source](https://www.facebook.com/banoqabilbalochistan/posts/stop-showing-just-your-resume-start-showing-what-you-builtthe-ai-hackathon-is-th/122188917680923491))
+
+- **Self-Repairing Substrate for Soft Sensors**: Researchers have developed a self-repairing and recyclable substrate that enhances the durability of soft sensors, which could have significant implications for future technology. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **Spot Bitcoin ETFs Record Significant Inflows**: Recent data shows that US spot Bitcoin ETFs have seen substantial inflows, with BlackRock's IBIT ETF leading the way, indicating growing investor interest in cryptocurrency. ([source](https://www.youtube.com/watch?v=GLwkgapbfew))
+
+- **Google's AI Leadership Shake-Up**: Reports indicate that Google is expanding its AI initiatives but is facing challenges with employee retention, raising concerns about its future direction in AI development. ([source](https://recentai.news))
+
+- **Composite Catalyst for Lithium-Oxygen Batteries**: A new composite catalyst has been developed that could improve oxygen reactions in next-generation lithium-oxygen batteries, potentially enhancing energy storage solutions. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **TD SYNNEX Named NVIDIA EMEA Distributor of the Year**: TD SYNNEX has been recognized as NVIDIA's EMEA Distributor of the Year for 2026, highlighting its role in the AI hardware distribution landscape. ([source](https://newsflash.tdsynnex.co.uk/artificial-intelligence))
