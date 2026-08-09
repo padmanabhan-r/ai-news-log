@@ -168,3 +168,24 @@
 - **Scale with AI: Live + Labs [Irvine]**: An upcoming event focused on aligning AI strategy and delivery, emphasizing the importance of production readiness in scaling AI solutions within enterprises. ([source](https://www.66degrees.com/events/scale-with-ai-live-labs-irvine))
 
 - **AI Chatbots Are Liberal-Left ‘Biased’**: A discussion on the perceived biases in AI chatbots, particularly regarding their political leanings, raising concerns about the implications for AI in communication. ([source](https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years))
+
+## 2026-08-09
+- **Alibaba Takes on U.S. AI Giants with Qwen 3.8-Max**: Alibaba has launched its Qwen 3.8-Max AI model, claiming it can compete with leading American systems like Claude Fable 5 in coding and complex task handling. ([Medium](https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3))
+
+- **AI for Advanced Nuclear Reactors: Join the JRC Online Workshop**: An online workshop is being held to explore how AI and machine learning can enhance the engineering readiness of advanced nuclear reactors. ([CONNECT-NM](https://www.connect-nm.eu/event/ai-for-advanced-nuclear-reactors-join-the-jrc-online-workshop-on-engineering-readiness))
+
+- **Why R&D Waste Persists Despite Widespread AI Adoption**: A report discusses the ongoing challenges in research and development efficiency, even with the increasing adoption of AI technologies. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **City Colleges of Chicago Launches its First AI Degree Program**: The City Colleges of Chicago have introduced a new degree program focused on artificial intelligence, aiming to prepare students for future careers in the field. ([City Colleges of Chicago](https://colleges.ccc.edu/2026/08/05/city-colleges-of-chicago-launches-its-first-ai-degree-program))
+
+- **Artificial Intelligence and Machine Learning in Public Transit**: A report highlights the integration of AI and machine learning in public transit systems, focusing on operational improvements and efficiency. ([APTA](https://www.apta.com/news-research/policy-research/artificial-intelligence-and-machine-learning-in-public-transit))
+
+- **What's Next in AI: 7 Trends to Watch in 2026**: A Microsoft article outlines upcoming trends in AI, including advancements in computing power and infrastructure that will enhance AI applications globally. ([Microsoft](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **The Future of AI: How AI Is Changing the World**: The EU AI Act is set to be fully implemented, establishing new regulations for high-risk AI systems and shifting focus towards the behavior of AI models in real-world applications. ([Built In](https://builtin.com/artificial-intelligence/artificial-intelligence-future))
+
+- **Running Out of Data**: Research indicates that by 2026, the availability of human-generated data for training AI models may diminish, prompting the exploration of synthetic data and new data sources. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **Machine Learning to Identify Point-of-Care Ultrasound**: A study has developed a machine learning model to enhance the identification and evaluation of point-of-care ultrasound documentation in clinical settings. ([Smillin Healthcare Tech Briefing](https://smillin.tech/issues/87))
+
+- **Instagram Post on Photonic Chips for AI**: A recent investment of $312 million has been made in developing photonic chips that utilize light for AI inference, indicating a significant shift in AI hardware technology. ([Instagram](https://www.instagram.com/p/Dbjp_75AJks))
