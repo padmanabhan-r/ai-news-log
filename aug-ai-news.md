@@ -189,3 +189,24 @@
 - **Machine Learning to Identify Point-of-Care Ultrasound**: A study has developed a machine learning model to enhance the identification and evaluation of point-of-care ultrasound documentation in clinical settings. ([Smillin Healthcare Tech Briefing](https://smillin.tech/issues/87))
 
 - **Instagram Post on Photonic Chips for AI**: A recent investment of $312 million has been made in developing photonic chips that utilize light for AI inference, indicating a significant shift in AI hardware technology. ([Instagram](https://www.instagram.com/p/Dbjp_75AJks))
+
+## 2026-08-10
+- **AI framework rooted in cognitive science could complete tasks more efficiently**: Researchers have developed an AI framework inspired by cognitive science, aiming to enhance task completion efficiency in various applications. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **Stanford Evo 2 AI model generates phages against E. coli**: A new AI model from Stanford has successfully generated phages that target E. coli, showcasing the potential of AI in healthcare and microbiology. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Alibaba tests new business model for Qwen open-source AI**: Alibaba is experimenting with a new business model for its Qwen open-source AI, reflecting the ongoing evolution of AI commercialization strategies. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **The 10 Biggest Generative AI News Stories Of 2026 (So Far)**: A roundup of significant developments in generative AI, highlighting key trends and innovations that have emerged in 2026. ([CRN](https://www.crn.com/news/ai/2026/the-10-biggest-generative-ai-news-stories-of-2026-so-far))
+
+- **Europe Flips the Transparency Switch**: The EU's AI Act has come into effect, requiring companies to disclose AI interactions and ensure generative outputs are machine-readable, marking a significant regulatory shift. ([ETC Journal](https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years))
+
+- **Meta launches Muse Code, an AI agent for large code bases**: Meta has introduced Muse Code, an AI tool designed to assist developers in managing and navigating large codebases effectively. ([TechCrunch](https://techcrunch.com/category/artificial-intelligence))
+
+- **Jeff Dean and other top AI researchers are leaving Google to launch their own startup**: Prominent AI researchers, including Jeff Dean, are departing Google to establish a new startup, signaling a potential shift in the AI landscape. ([TechCrunch](https://techcrunch.com/category/artificial-intelligence))
+
+- **Conduent leverages AI for digital business solutions**: Conduent is set to report its financial results while emphasizing its use of AI and machine learning to enhance digital business solutions across various sectors. ([Conduent](https://www.news.conduent.com/news/conduent-to-report-second-quarter-2026-financial-results-on-august-10-2026))
+
+- **Strengthening Preparedness Against Novel Biological Threat Agents Enabled Through AI**: A committee is working on recommendations for improving preparedness against biological threats using AI and emerging technologies, highlighting the intersection of AI and public health. ([National Academies](https://www.nationalacademies.org/projects/CHPP-LSB-25-04/event/47072))
+
+- **The future of AI isn't just about using Large Language Models**: A discussion led by Suryansh Rana focuses on advancements in fine-tuning large language models, emphasizing the importance of enhancing AI capabilities beyond basic applications. ([Instagram](https://www.instagram.com/p/Db0HsshjDQc))
