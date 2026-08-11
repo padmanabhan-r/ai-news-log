@@ -210,3 +210,24 @@
 - **Strengthening Preparedness Against Novel Biological Threat Agents Enabled Through AI**: A committee is working on recommendations for improving preparedness against biological threats using AI and emerging technologies, highlighting the intersection of AI and public health. ([National Academies](https://www.nationalacademies.org/projects/CHPP-LSB-25-04/event/47072))
 
 - **The future of AI isn't just about using Large Language Models**: A discussion led by Suryansh Rana focuses on advancements in fine-tuning large language models, emphasizing the importance of enhancing AI capabilities beyond basic applications. ([Instagram](https://www.instagram.com/p/Db0HsshjDQc))
+
+## 2026-08-11
+- **Mind Lab's Macaron-V1 Model**: Mind Lab claims its new Macaron-V1 model outperforms GLM-5.2 by utilizing five LoRA expert modules, dynamically switching to the most suitable expert for each task. ([source](https://radicaldatascience.wordpress.com/2026/08/04/ai-news-briefs-bulletin-board-for-august-2026))
+
+- **AI Risk Summit 2026**: The upcoming AI Risk Summit will feature sessions on building advantages in an AI-first world, with Saloni Garg from Adobe as a speaker. ([source](https://www.airisksummit.com/speakers))
+
+- **AI Roadshow Event**: The NCW Tech Alliance is hosting an AI Roadshow on August 11, 2026, focusing on hands-on learning and real-world AI applications. ([source](https://www.facebook.com/ncwtech.org/posts/save-the-datejoin-ncw-tech-alliance-on-tuesday-august-11-2026-at-the-wenatchee-c/1497896345718440))
+
+- **AI-Designed Drugs Success Rates**: A report indicates that AI-designed drugs in phase one trials are achieving success rates of 80-90%, significantly higher than the historical average of 50%. ([source](https://www.youtube.com/watch?v=IjHIE2DMUNg))
+
+- **SURE-AI Discussion**: An event at Arendalsuka will explore the sustainability of AI, discussing its implications for energy, economy, and democracy on August 11, 2026. ([source](https://www.sure-ai.no/events/event-sure-ai-at-arendalsuka-2026))
+
+- **Future of AI in Biology Workshop**: A workshop titled "Preparing for a Future of AI-Enabled Biology" will take place on August 11-12, 2026, focusing on AI's transformative role in life sciences. ([source](https://www.nationalacademies.org/projects/CHPP-LSB-26-02/event/47123))
+
+- **AI Trends in 2026**: A report outlines seven key trends shaping AI in 2026, including dynamic computing power management to optimize resource use. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **AI Development Trends**: An article discusses the evolving landscape of AI technologies, emphasizing the shift towards generative models and their applications in various sectors. ([source](https://medium.com/@tombillings26/ai-development-in-2026-trends-benefits-and-business-impact-0eaf23b3efe9))
+
+- **AI Sovereignty and Security**: As skepticism around AI's ROI diminishes, enterprises are focusing on trust and security, with open-source reasoning models gaining traction. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **KI 2026 Conference**: The 49th German Conference on AI, KI 2026, will address recent advancements in artificial intelligence and their implications for various fields. ([source](https://link.springer.com/book/10.1007/978-3-032-32335-4))
