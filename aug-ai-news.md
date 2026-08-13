@@ -252,3 +252,24 @@
 - **SB24-205 Consumer Protections for Artificial Intelligence**: New consumer protection legislation for AI in Colorado goes into effect today, aimed at ensuring safety and accountability in AI technologies. ([source](https://leg.colorado.gov/bills/sb24-205))
 
 - **12 Best Tech SEO Tools for the AI Search Era: July 2026 Edition**: A roundup of essential SEO tools tailored for the evolving landscape influenced by AI technologies, highlighting their importance for digital marketing strategies. ([source](https://spacecoastdaily.com/2026/08/12-best-tech-seo-tools-for-the-ai-search-era-july-2026-edition))
+
+## 2026-08-13
+- **Research Track - AI & Machine Learning - BuiltWorlds**: BuiltWorlds is hosting an in-person working group session on AI and machine learning at their Construction Tech Conference in July 2026, facilitated by Candy Lau Pindrik from Swinerton. ([source](https://builtworlds.com/research-track-ai-ml))
+
+- **The 10 Biggest Generative AI News Stories Of 2026 (So Far)**: CRN highlights significant generative AI developments in 2026, focusing on emerging AI startups and their impact on enterprise sales. ([source](https://www.crn.com/news/ai/2026/the-10-biggest-generative-ai-news-stories-of-2026-so-far))
+
+- **AI Agent Security Risks Run Beneath the Model**: AIToday discusses the security risks associated with AI agents, emphasizing concerns beyond prompt injection and model behavior. ([source](https://www.aitoday.io))
+
+- **Faith Leaders and AI Policy Experts Say Education Must Protect What Machines Cannot Replace**: At the G20 Interfaith Forum, experts emphasize the need for education systems to focus on skills that AI cannot replicate, addressing the implications of AI in learning. ([source](https://www.desmoinesregister.com/press-release/story/109792/faith-leaders-and-ai-policy-experts-say-education-must-protect-what-machines-cannot-replace))
+
+- **What's next in AI: 7 trends to watch in 2026**: Microsoft outlines key trends in AI for 2026, including advancements in computing power and infrastructure that enhance AI workload management. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **The trends that will shape AI and tech in 2026**: IBM identifies three major trends in AI, focusing on the shift from individual usage to team and workflow orchestration in enterprise settings. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **4 Mindshifts for Teaching AI Agency**: An upcoming webinar will discuss necessary mindset shifts for educators to effectively teach about AI agency and its implications in the classroom. ([source](https://home.edweb.net/webinar/ai20260813))
+
+- **The AI Revolution in 2026: What's Happening Right Now**: Medium reports that 2026 marks a pivotal year for AI in healthcare, with advancements leading to faster and more accurate diagnoses. ([source](https://medium.com/@seun78911/the-ai-revolution-in-2026-whats-happening-right-now-600e92bb7f9f))
+
+- **AI News & Artificial Intelligence - TechCrunch**: TechCrunch covers various AI-related news, including a significant acquisition that fell through due to fraud allegations and updates from Google's latest product announcements. ([source](https://techcrunch.com/category/artificial-intelligence))
+
+- **15 New Things AI Can Do in 2026 That Were Impossible Last Year**: A YouTube video explores the latest capabilities of AI technologies, highlighting advancements that have emerged in 2026. ([source](https://www.youtube.com/watch?v=IjHIE2DMUNg))
