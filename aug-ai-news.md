@@ -273,3 +273,24 @@
 - **AI News & Artificial Intelligence - TechCrunch**: TechCrunch covers various AI-related news, including a significant acquisition that fell through due to fraud allegations and updates from Google's latest product announcements. ([source](https://techcrunch.com/category/artificial-intelligence))
 
 - **15 New Things AI Can Do in 2026 That Were Impossible Last Year**: A YouTube video explores the latest capabilities of AI technologies, highlighting advancements that have emerged in 2026. ([source](https://www.youtube.com/watch?v=IjHIE2DMUNg))
+
+## 2026-08-14
+- **AI Day 2026 – Call for presentations**: The Finnish Center for Artificial Intelligence is inviting submissions for presentations on various AI topics, including machine learning and human-computer interaction, for their upcoming AI Day event. ([source](https://fcai.fi/ai-day-2026-call-for-presentations))
+
+- **AI/ML in Primary Care Curriculum and Online Courses**: A series of webinars focused on integrating AI and machine learning into primary care education will take place in September and October 2026. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **Hackers hijacking corporate AI access**: A report from CrowdStrike reveals that attackers are exploiting stolen access to corporate AI systems, resulting in significant financial losses due to unauthorized API requests. ([source](https://www.business-standard.com/technology/artificial-intelligence))
+
+- **KI 2026: Advances in Artificial Intelligence**: The 49th German Conference on AI, KI 2026, is set to showcase advancements in artificial intelligence, with a focus on various research areas and applications. ([source](https://link.springer.com/book/10.1007/978-3-032-32335-4))
+
+- **UN report on AI and natural hazards**: Google has released information on how AI can enhance early warning systems for natural hazards, supporting crisis resilience efforts globally. ([source](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026))
+
+- **AI-Ready Malaysia Summit 2026**: An invitation-only summit focused on AI readiness will take place in Kuala Lumpur, emphasizing the importance of AI in various sectors. ([source](https://www.facebook.com/pepperlabssocialenterprise/posts/the-ai-ready-malaysia-summit-2026-is-comingjust-4-days-to-go-at-pepper-labs-we-b/1490038516503780))
+
+- **Discussion on AI and the Future**: A discussion event on the future of AI will be held at the Route 9 Library & Innovation Center, aimed at adults interested in technology and its implications. ([source](https://guides.lib.de.us/AI))
+
+- **International Conference on Big Data and Machine Learning**: The 2026 International Conference on Big Data, Machine Learning, and Intelligent Computing will take place in Shenzhen, focusing on the latest research and innovations in these fields. ([source](https://www.instagram.com/p/Da_6GiwFMFh))
+
+- **NAIRR Pilot allocations**: A proposal for a graduate-level course on generative AI has been approved, aiming to explore advanced topics in AI technology and its applications. ([source](https://nairrpilot.org/pilotallocations/q/awards))
+
+- **AI reshaping the future of work**: An upcoming career planning session at Columbia University will address how AI and recent immigration policy changes are impacting the job market. ([source](https://www.instagram.com/reel/Db2p08jRx_6))
