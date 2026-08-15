@@ -294,3 +294,24 @@
 - **NAIRR Pilot allocations**: A proposal for a graduate-level course on generative AI has been approved, aiming to explore advanced topics in AI technology and its applications. ([source](https://nairrpilot.org/pilotallocations/q/awards))
 
 - **AI reshaping the future of work**: An upcoming career planning session at Columbia University will address how AI and recent immigration policy changes are impacting the job market. ([source](https://www.instagram.com/reel/Db2p08jRx_6))
+
+## 2026-08-15
+- **Google AI health coach to use Abbott glucose data**: Google is developing an AI health coach that will utilize glucose data from Abbott to provide personalized health insights. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Okta targets AI agent token costs with MCP scoping**: Okta is focusing on reducing costs associated with AI agent tokens through a new MCP scoping strategy, aiming to enhance efficiency in identity management. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Google tests AMIE for clinical video consultations**: Google is piloting a new AI tool named AMIE designed to facilitate clinical video consultations, potentially improving telehealth services. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Novo Nordisk and AWS bring agentic AI into drug discovery**: Novo Nordisk collaborates with AWS to integrate agentic AI into drug discovery processes, enhancing the efficiency of pharmaceutical research. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Reasoning Models dominate AI trends in 2026**: The emergence of reasoning models, such as OpenAI's o3, marks a significant advancement in AI capabilities, enabling more logical and context-aware responses. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **AI works with humans, not replaces them**: The focus in machine learning has shifted towards collaboration with humans, emphasizing context and trust in AI systems rather than mere computational power. ([Softteco](https://softteco.com/blog/machine-learning-trends))
+
+- **NYSDS 2026 conference on Transformational AI**: The New York Scientific Data Summit will explore the impact of AI and machine learning on various sectors, including healthcare and scientific research. ([NYSDS](https://www.bnl.gov/nysds))
+
+- **AI innovations transforming healthcare and materials**: Recent advancements in AI are significantly impacting healthcare, chemistry, and materials science, showcasing the technology's broad applicability. ([TD SYNNEX](https://newsflash.tdsynnex.co.uk/artificial-intelligence))
+
+- **Ollama raises $65M for open-source AI platform**: Ollama has secured $65 million in Series B funding to further develop its open-source AI platform, signaling strong investor interest in collaborative AI solutions. ([Just AI News](https://www.linkedin.com/company/just-ai-news))
+
+- **AI maturity rises but investment needed**: A recent Gartner survey indicates that while AI maturity is increasing, organizations need to invest more in foundational technologies to fully leverage AI capabilities. ([TD SYNNEX](https://newsflash.tdsynnex.co.uk/artificial-intelligence))
