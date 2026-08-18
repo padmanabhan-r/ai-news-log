@@ -357,3 +357,24 @@
 - **AI Agents in Business Automation**: AI agents are increasingly being utilized to automate business processes, streamlining operations and improving efficiency across industries. ([Moltbook News](https://moltbooknews.net/recent-developments-in-venturebeat-ai-11))
 
 - **AI and Data Quality Automation**: An expert panel discusses the impact of AI-driven automation on data quality processes, emphasizing improvements in accuracy and anomaly detection. ([TDWI](https://tdwi.org/pages/topics/data-science-machine-learning-ai.aspx))
+
+## 2026-08-18
+- **Artificial Intelligence and Specialty Societies**: The CMSS is offering on-demand webinars focused on integrating AI technologies in healthcare, emphasizing the need for open-source accountability in AI applications. ([source](https://cmss.org/programs-and-resources/artificial-intelligence-and-specialty-societies))
+
+- **AI Learning Opportunities at TDL**: The TDL has made recordings of webinars on responsible AI practices and AI in data repositories available, with an upcoming panel discussion scheduled. ([source](https://tdl.org/2026/07/ai-learning-opportunities))
+
+- **Artificial Intelligence in Orthopedic Care**: AI and machine learning are being integrated into orthopedic practices, enhancing diagnosis and treatment planning through advanced data analysis. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **AI/ML in Primary Care Curriculum**: The Society of Teachers of Family Medicine is promoting a curriculum that incorporates AI and machine learning into primary care education, with various awards and opportunities announced for September. ([source](https://www.stfm.org/teachingresources/curriculum/aim-pc/aiml_curriculum))
+
+- **AI in Wealth Management**: A recent conference highlighted the evolution of AI in wealth management, discussing its impact on financial strategies and investment decisions. ([source](https://www.rebellionresearch.com/artificial-intelligence-machine-learning/page/2))
+
+- **Adelante Development Center AI Classes**: The center is offering a class on practical prompting techniques for popular AI systems, aimed at enhancing user interaction with AI technologies. ([source](https://www.facebook.com/GoAdelante/posts/upcoming-classes-at-diverseit-%EF%B8%8Fpractical-prompting-with-ai-tuesday-august-18-202/1649701803830127))
+
+- **Clipboard, August 18, 2026**: The Scranton Times-Tribune emphasizes the prohibition of using its content for training AI systems without consent, highlighting ongoing concerns about data usage in AI. ([source](https://www.thetimes-tribune.com/2026/08/17/clipboard-august-18-2026))
+
+- **AI-Assisted Big Data Tools Conference**: An upcoming conference will focus on AI-assisted tools for scientific discovery, showcasing the intersection of big data and artificial intelligence. ([source](https://dbworld.sigmod.org/browse.html))
+
+- **AI Projects and Perspectives Webinar**: TDL is hosting a webinar featuring discussions on various AI projects, aimed at sharing insights and experiences among members. ([source](https://tdl.org/2026/07/ai-learning-opportunities))
+
+- **ByteDance Developing Custom CPUs**: ByteDance is reportedly working on developing custom CPU chips to enhance its AI capabilities, indicating a significant investment in AI infrastructure. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
