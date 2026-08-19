@@ -378,3 +378,24 @@
 - **AI Projects and Perspectives Webinar**: TDL is hosting a webinar featuring discussions on various AI projects, aimed at sharing insights and experiences among members. ([source](https://tdl.org/2026/07/ai-learning-opportunities))
 
 - **ByteDance Developing Custom CPUs**: ByteDance is reportedly working on developing custom CPU chips to enhance its AI capabilities, indicating a significant investment in AI infrastructure. ([source](https://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+## 2026-08-19
+- **Tender News for AI and Machine Learning**: Recent tenders include a EUR 470,000 project for a mixed reality simulation solution for aeromedical training in Spain and a EUR 61,453 tender for education and training services in Ireland. ([Tender News](https://www.tendernews.com/tenders/latest-tender/ai--artificial-intelligence--machine-learning.html))
+
+- **The Security Lakehouse: Outpacing AI Zero-Days**: This article discusses strategies for closing vulnerability gaps in AI systems to enhance security against emerging threats. ([ITTech](https://ittech-news.com/the-security-lakehouse-outpacing-ai-zero-days-2))
+
+- **AI Learning Opportunities at TDL**: The TDL is hosting webinars focused on responsible AI practices and AI projects in libraries and archives, with recordings available on their YouTube channel. ([TDL](https://tdl.org/2026/07/ai-learning-opportunities))
+
+- **Artificial Intelligence in Orthopedic Care**: AI is transforming orthopedic diagnosis and treatment by analyzing large datasets to improve accuracy in detecting fractures and predicting disease progression. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Microsoft Foundry Blog**: A recent post discusses the limitations of AI demos, highlighting the gap between expectations and actual performance in procurement tasks. ([Microsoft Foundry](https://techcommunity.microsoft.com/category/azure-ai-foundry))
+
+- **AI for Wealth Management**: An article explores the evolving role of AI in wealth management, emphasizing quantitative strategies and the integration of machine learning in financial services. ([Rebellion Research](https://www.rebellionresearch.com/artificial-intelligence-machine-learning))
+
+- **Clipboard, August 19, 2026**: The Scranton Times-Tribune emphasizes the prohibition of using its content for training AI systems without explicit consent, reflecting ongoing concerns about data usage in AI. ([Scranton Times-Tribune](https://www.thetimes-tribune.com/2026/08/18/clipboard-august-19-2026))
+
+- **Upcoming IEEE Events**: The IEEE Robotics and Automation Society is promoting events related to artificial intelligence, focusing on industry standards and educational opportunities. ([IEEE RAS](https://www.ieee-ras.org/events/tag/artificial-intelligence/day/2026-08-19))
+
+- **Instagram Webinar on AI Literacy**: A webinar aimed at building AI literacy in K-12 STEM education is scheduled, focusing on resources for meaningful AI learning. ([Instagram](https://www.instagram.com/opel__ok/reel/DcJYcVRArtN))
+
+- **AI and Machine Learning News**: The Hans India provides ongoing updates and insights into the latest developments in artificial intelligence and machine learning. ([The Hans India](https://www.hansindia.com/tags/artificial-intelligence-and-machine-learning))
