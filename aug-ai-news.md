@@ -399,3 +399,24 @@
 - **Instagram Webinar on AI Literacy**: A webinar aimed at building AI literacy in K-12 STEM education is scheduled, focusing on resources for meaningful AI learning. ([Instagram](https://www.instagram.com/opel__ok/reel/DcJYcVRArtN))
 
 - **AI and Machine Learning News**: The Hans India provides ongoing updates and insights into the latest developments in artificial intelligence and machine learning. ([The Hans India](https://www.hansindia.com/tags/artificial-intelligence-and-machine-learning))
+
+## 2026-08-20
+- **Mind Lab's Macaron-V1 Model**: Mind Lab claims its new Macaron-V1 model outperforms GLM-5.2 by utilizing five LoRA expert modules, dynamically selecting the best model for each task. ([source](https://radicaldatascience.wordpress.com/2026/08/12/ai-news-briefs-bulletin-board-for-august-2026))
+
+- **Gemini 3.7 Flash Release**: Google has released Gemini 3.7 Flash, a lightweight proprietary AI model, as part of its ongoing updates in AI technology. ([source](https://llm-stats.com/llm-updates))
+
+- **AI Applications in Agriculture**: A call for papers has been issued for a special issue on AI applications in precision agriculture, with a submission deadline of September 20, 2026. ([source](https://www.mdpi.com/journal/applsci/sections/computing_artificial_intelligence))
+
+- **4th Tech Summit on AI & Robotics**: The upcoming 4th Tech Summit will focus on advancements in AI and robotics, scheduled for August 21-23, 2026, in Japan. ([source](https://www.industryevents.com/events/4th-tech-summit-on-artificial-intelligence-robotics-1))
+
+- **Samsung's Health AI Models**: Samsung has developed AI models that analyze biosignal data from wearables, enhancing health monitoring capabilities. ([source](https://www.artificialintelligence-news.com))
+
+- **North Park University AI Programs**: North Park University is launching new programs, including a Bachelor of Science in Computer Science and a minor in AI for business, in response to workforce demands. ([source](https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/north-park-university-launches-two-new-programs-responding-to-workforce-trends/2408709))
+
+- **YingLi Tian's Lecture on AI**: A distinguished lecture by YingLi Tian on knowledge distillation and model quantization for efficient AI will take place on August 20, 2026. ([source](https://www.ellisinstitute.fi/ellis-distinguished-lecture-yingli-tian))
+
+- **Limits of Human Oversight in AI**: A discussion on the challenges of maintaining human oversight in AI agent deployment will be held on August 20, 2026, highlighting the complexities of user control. ([source](https://datasociety.net/news-events/the-limits-of-human-oversight-in-the-age-of-ai-agents))
+
+- **AI Week 2026 Webinar**: A webinar focused on state and local government applications of AI will be part of AI Week 2026, emphasizing the integration of AI in public services. ([source](https://www.fedinsider.com/ai-week-2026-state-local))
+
+- **AI Agentic Engineering Certificate**: Johns Hopkins University is offering a 22-week online certificate program in AI and agentic AI engineering, with applications closing on August 20, 2026. ([source](https://online.lifelonglearning.jhu.edu/jhu-certificate-program-ai-agentic-engineering))
