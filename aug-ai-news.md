@@ -462,3 +462,24 @@
 - **AI to Advance Medicine | Weill Cornell Medicine**: A new AI system designed to function like a team of medical experts could significantly enhance the clinical trial design process, addressing a critical challenge in drug development. ([source](https://ai.weill.cornell.edu))
 
 - **AI: Is your board prepared? - The Institute of Directors in ...**: The emergence of AI as a key oversight area is prompting organizations to reassess their governance structures and ensure that boards are equipped to manage AI-related risks effectively. ([source](https://www.iodsa.co.za/news/637310/AI-Is-your-board-prepared.htm))
+
+## 2026-08-23
+- **AI NEWS: Week of August 17–23, 2026**: This week highlights the multifaceted advancements in AI, emphasizing the importance of geopolitics, infrastructure, and access to AI skills in the ongoing transformation of the field. ([source](https://medium.com/@davidakpovi/ai-news-week-of-august-17-23-2026-e21e45114051))
+
+- **Holographic laser printing makes 3D shapes—voids and all—in one shot**: A breakthrough in 3D printing technology allows for the creation of complex shapes in a single process, potentially revolutionizing manufacturing. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **Electronic skin improves temperature and pressure sensing for personalized prosthetics**: New developments in electronic skin technology enhance the sensory capabilities of prosthetics, paving the way for more personalized and responsive devices. ([source](https://techxplore.com/machine-learning-ai-news))
+
+- **Amazon’s Prime Air autonomous drones to reach 500 US cities**: Amazon expands its drone delivery service, aiming to cover a significant portion of the United States, which could transform logistics and delivery operations. ([source](https://www.artificialintelligence-news.com))
+
+- **Stripe agrees to buy OpenRouter as AI model routing expands**: Stripe's acquisition of OpenRouter signifies a strategic move to enhance AI model routing capabilities, reflecting the growing importance of AI in financial services. ([source](https://www.artificialintelligence-news.com))
+
+- **Reasoning models mark a significant shift in AI capabilities**: The emergence of reasoning models like OpenAI's o3 represents a major advancement in AI, enabling systems to "think" before responding, rather than merely predicting outcomes. ([source](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **EDOTCO builds Azure AI tool to speed up telecom tower planning**: EDOTCO's new Azure AI tool aims to streamline the planning process for telecom towers, showcasing the integration of AI in telecommunications infrastructure. ([source](https://www.artificialintelligence-news.com))
+
+- **The Future of Artificial Intelligence: Running out of data**: Researchers warn that the availability of human-generated data for training AI models may diminish, prompting exploration into synthetic data generation and alternative sources. ([source](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **Arrive AI's patent moat story and new Dan show**: Arrive AI discusses its strategy for building a strong patent portfolio, emphasizing the importance of intellectual property in the competitive AI landscape. ([source](https://www.facebook.com/ArriveAI/posts/interesting-becomes-exciting-the-story-of-how-arrive-ai-built-its-patent-moat-ne/1691925389610291))
+
+- **Artificial Intelligence Solutions for Government**: The White House has introduced directives to promote AI-enabled cybersecurity within federal agencies, highlighting the critical role of modern data engineering in government operations. ([source](https://www.carahsoft.com/solve/ai))
