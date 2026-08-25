@@ -504,3 +504,20 @@
 - **AI Innovation Club Launch**: MIT Arts Commerce & Science College is inaugurating its AI Innovation Club today, featuring a talk on the significance of the AI era. ([Facebook](https://www.facebook.com/MITACSCALANDI/posts/-the-ai-era-has-begun-are-you-readythe-ai-innovation-club-invites-all-ug-pg-stud/1560261579447903))
 
 - **Call for Papers - AIoT2026**: A call for papers has been issued for the AIoT2026 conference, focusing on the integration of AI technologies with IoT systems. ([IEEE AIoT](https://www.ieee-aiot.org/2026/cf-papers.php))
+
+## 2026-08-25
+- **Workshop on AIML**: Dronacharya Group of Institutions is organizing a workshop on Artificial Intelligence and Machine Learning on August 25, 2026, covering key concepts in modern AI/ML. ([source](https://www.facebook.com/DronacharyaGreaterNoida/posts/-workshop-on-aiml-artificial-intelligence-machine-learningdronacharya-group-of-i/1496223145869577))
+
+- **Global Summit on AI & ML Innovations**: The Global Summit on Artificial Intelligence & Machine Learning Innovations will take place on September 25-26, 2026, in Singapore, gathering leaders and innovators in the field. ([source](https://auctoresconferences.com/global-summit-on-artificial-intelligence-machine-learning-innovations-gsaim-2026))
+
+- **AI and Machine Learning in Forestry**: A webinar will explore how AI and machine learning are transforming the forestry industry through real-world examples and ongoing research initiatives. ([source](https://www.iufro.org/events/artificial-intelligence-and-machine-learning-in-forest-technology-webinar))
+
+- **Machine Learning and AI Developments in 2026**: The article discusses how AI and ML have become integral to global infrastructure, impacting governance, healthcare, and digital economies. ([source](https://edupaknews.com/machine-learning-and-artificial-intelligence))
+
+- **AI/ML Industry Insights Session**: Shohoj Coding is hosting a session on AI/ML industry insights aimed at helping participants transition from learning to building careers in the field. ([source](https://www.facebook.com/shohojcoding/posts/%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%9F-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%86-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%AC%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B3join-us-for-an-insightful-session-/1051103724440568))
+
+- **Manus AI Free Access**: Manus AI, one of the world's advanced AI systems, is offering free access until August 25, 2026, with no credit limits for users. ([source](https://www.linkedin.com/posts/omer-mohamed-a011192a4_manusai-artificialintelligence-agenticai-activity-7493938873647960064-omMG))
+
+- **Advances in AI Developments**: Analysts predict significant changes in enterprise and consumer technology due to AI advancements in 2026, including increased autonomy in AI systems and their role in cybersecurity and environmental preservation. ([source](https://www.tripuratime24.com/advances-in-artificial-intelligence-ai-developments))
+
+- **SPAI Innovation Day**: Safe Pro Group is set to host SPAI Innovation Day featuring live AI-powered drone field operations on August 25, 2026, and will ring the Nasdaq opening bell to celebrate advancements in AI. ([source](https://www.globenewswire.com/news-release/2026/07/28/3334220/0/en/safe-pro-group-to-host-spai-innovation-day-featuring-live-ai-powered-drone-field-operations-on
