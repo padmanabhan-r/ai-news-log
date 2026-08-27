@@ -542,3 +542,24 @@
 - **AI in Higher Education**: California State University is offering a certificate program focused on applied analytics and machine learning, aiming to integrate AI into higher education applications ([CSULB](https://www.cpace.csulb.edu/courses/applied-analytics-and-machine-learning-for-higher-education)).
 
 - **AI's Role in Pharma and Biotech**: An online course from MIT explores how AI and machine learning are transforming drug discovery and biological modeling in the pharmaceutical industry ([MIT Jameel Clinic](https://jclinic.mit.edu/education)).
+
+## 2026-08-27
+- **Machine Learning Trends 2026: What to Expect**: By 2026, machine learning is expected to enhance human workflows by focusing on context and trust, moving beyond mere computational power. The development of Agentic AI and domain-specific models will enable systems to understand the reasoning behind tasks. ([source](https://softteco.com/blog/machine-learning-trends))
+
+- **UK cinemas look at banning Meta smart glasses over piracy fears**: UK cinemas are considering a ban on Meta's smart glasses due to concerns that they could facilitate piracy. This highlights ongoing tensions between technology and intellectual property rights. ([source](https://www.theguardian.com/technology/artificialintelligenceai))
+
+- **Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist**: Patients in Yorkshire are experiencing difficulties with an AI receptionist that struggles to understand local accents, leading to frustration and hang-ups. This raises questions about the effectiveness of AI in diverse linguistic contexts. ([source](https://www.theguardian.com/technology/artificialintelligenceai))
+
+- **Artificial Intelligence: Promise & Price**: A discussion on the dual nature of AI, emphasizing its potential benefits alongside the ethical and practical challenges it presents. This highlights the need for balanced perspectives on AI's role in society. ([source](https://www.sehs.net/about-us/news/2026/08/27/artificial-intelligence-promise-price))
+
+- **The State of AI · Q2 2026**: A quarterly report detailing significant developments in AI, including a government decision to shut down an AI model and the performance of chipmakers in the market. The report outlines six key forces shaping the AI landscape. ([source](https://aiweekly.co))
+
+- **AI Optimization Subcore Discussion Forum Series August 27th**: A forum focused on innovative AI solutions in healthcare, addressing challenges such as access inequities and rising costs. This reflects the urgent need for advancements in AI applications within the healthcare sector. ([source](https://www.aim-ahead.net/complete-feed/ai-optimization-subcore-office-hours-and-discussion-forum-beyond-pathology-foundation-models))
+
+- **Study finds AI stories beat humans, but readers still want people**: A recent study indicates that AI-generated stories can outperform human-written ones in certain contexts, yet readers still prefer content created by humans, highlighting the ongoing debate about AI's role in creative fields. ([source](https://www.azfamily.com/2026/08/27/study-finds-ai-stories-beat-humans-readers-still-want-people))
+
+- **Johns Hopkins AI Course Online with Certificate in Applied AI**: Johns Hopkins University is offering an online certificate program aimed at equipping professionals with skills in machine learning, generative AI, and Agentic AI, catering to the growing demand for AI expertise. ([source](https://online.lifelonglearning.jhu.edu/jhu-certificate-program-applied-ai))
+
+- **AI meets Moodle Webinar**: A webinar hosted by UNISA will explore the integration of AI with Moodle, focusing on enhancing educational technology through intelligent reporting and seamless integration, showcasing AI's potential in educational settings. ([source](https://www.facebook.com/UniversityOfSouthAfrica/posts/-ai-meets-moodle-join-sean-marx-chief-technology-officer-at-ilite-for-a-unisa-ho/1523847686453378))
+
+- **Clipboard, August 27, 2026**: The Scranton Times-Tribune emphasizes the prohibition of using its content for training AI systems without consent, reflecting broader concerns about data usage and copyright in the context of AI development. ([source](https://www.thetimes-tribune.com/2026/08/27/clipboard-august-27-2026))
