@@ -563,3 +563,24 @@
 - **AI meets Moodle Webinar**: A webinar hosted by UNISA will explore the integration of AI with Moodle, focusing on enhancing educational technology through intelligent reporting and seamless integration, showcasing AI's potential in educational settings. ([source](https://www.facebook.com/UniversityOfSouthAfrica/posts/-ai-meets-moodle-join-sean-marx-chief-technology-officer-at-ilite-for-a-unisa-ho/1523847686453378))
 
 - **Clipboard, August 27, 2026**: The Scranton Times-Tribune emphasizes the prohibition of using its content for training AI systems without consent, reflecting broader concerns about data usage and copyright in the context of AI development. ([source](https://www.thetimes-tribune.com/2026/08/27/clipboard-august-27-2026))
+
+## 2026-08-28
+- **OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm**: Concerns have been raised regarding the potential threats posed by AI agents, highlighting the need for better oversight and management of AI technologies. ([The Guardian](https://www.theguardian.com/technology/artificialintelligenceai))
+
+- **AI Companion Robots Are Closing the Human Connection in Modern Homes**: Advances in AI and robotics are leading to the development of more personal and emotionally aware companion robots, raising questions about their impact on human relationships. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+- **Cleveland Clinic to Host Second Annual AI Summit for Health-Care Professionals**: The summit aims to explore the practical applications of AI in healthcare, shifting the conversation from potential capabilities to real-world implementation. ([ASCO Post](https://ascopost.com/news/august-2026/cleveland-clinic-to-host-second-annual-ai-summit-for-health-care-professionals))
+
+- **AI may miss the mark for older adults**: A study suggests that current AI technologies may not adequately address the needs of older adults, emphasizing the importance of inclusive design in AI development. ([Auckland University](https://www.auckland.ac.nz/en/news/2026/08/28/ai-may-miss-mark-older-adults.html))
+
+- **DeSantis administration moving to regulate AI from Pre-K to PhD**: Florida officials are implementing policies to regulate AI usage in educational settings, reflecting a growing trend toward governance in AI. ([Florida Phoenix](https://floridaphoenix.com/2026/08/28/desantis-administration-moving-to-regulate-ai-from-pre-k-to-phd))
+
+- **The Future of AI in 2026: Major Trends and Predictions**: A report outlines how AI is optimizing hospital operations and resource management, highlighting its transformative potential in healthcare. ([Gleecus](https://gleecus.com/blogs/ai-in-2026-trends-predictions))
+
+- **What's next in AI: 7 trends to watch in 2026**: A discussion on the future of AI infrastructure, focusing on dynamic computing power management to enhance efficiency and sustainability. ([Microsoft News](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Institute for Foundations of Machine Learning Highlights Major Achievements**: The institute announced significant advancements in AI research, including the establishment of a large talent pipeline and a prestigious award for a breakthrough in machine learning. ([Institute for Foundations of Machine Learning](https://www.ifml.institute))
+
+- **AI News: Top Stories, Ranked & Explained**: A quarterly report details significant developments in the AI sector, including a government decision to deactivate an AI model and the financial performance of chipmakers. ([AI Weekly](https://aiweekly.co))
+
+- **NISS Ai, Statistics and Data Science in Practice Webinar**: Upcoming webinar on "Causal Generalist Medical AI" aims to advance precision medicine through innovative AI applications in healthcare. ([National Institute of Statistical Sciences](https://www.niss.org))
