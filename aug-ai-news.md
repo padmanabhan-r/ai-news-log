@@ -584,3 +584,24 @@
 - **AI News: Top Stories, Ranked & Explained**: A quarterly report details significant developments in the AI sector, including a government decision to deactivate an AI model and the financial performance of chipmakers. ([AI Weekly](https://aiweekly.co))
 
 - **NISS Ai, Statistics and Data Science in Practice Webinar**: Upcoming webinar on "Causal Generalist Medical AI" aims to advance precision medicine through innovative AI applications in healthcare. ([National Institute of Statistical Sciences](https://www.niss.org))
+
+## 2026-08-29
+- **Tencent Hy3: New 770B Open AI Model for Coding**: Tencent has previewed a new open-source AI model designed for software engineering, research, and financial analysis, featuring 770 billion parameters. ([Tech Insider](https://tech-insider.org/tencent-hy3-open-source-ai-model-2026))
+
+- **Machine Learning Trends 2026: What to Expect**: The article discusses the evolution of machine learning into a collaborative partner for humans, emphasizing the importance of context and trust in AI systems. ([Softteco](https://softteco.com/blog/machine-learning-trends))
+
+- **AI in Action**: A report highlights the challenges faced by governments in implementing Agentic AI, particularly in determining the decision-making capabilities of machines. ([Artificial Intelligence News](https://www.artificialintelligence-news.com))
+
+- **Advancements Episode on AI**: A new episode of "Advancements with Ted Danson" will air, focusing on how AI is transforming software organizations and their operations. ([PR Newswire](https://www.prnewswire.com/news-releases/new-episode-of-advancements-airing-on-saturday-august-29-2026-302856696.html))
+
+- **Kaspersky's AI Malware Report**: Kaspersky researchers identified 92,000 malicious attacks disguised as AI services in 2026, primarily involving fake ChatGPT, Claude, and Gemini applications. ([Business Standard](https://www.business-standard.com/technology/artificial-intelligence))
+
+- **Skills Link Workshop Series**: An upcoming workshop will introduce participants to AI fundamentals, tools, and responsible usage, aimed at enhancing productivity and career preparation. ([Instagram](https://www.instagram.com/p/DcB0i-fHxJG))
+
+- **Biologically Plausible AI Seminar**: Grainger College of Engineering is hosting a seminar on Biologically Plausible AI, with the first session scheduled for August 29, 2026. ([NCSA](https://ai.ncsa.illinois.edu/2026/08))
+
+- **AI and Technology Integration Discussion**: A virtual event will explore the integration of AI, machine learning, and virtual/augmented reality, emphasizing collaboration between humans and technology. ([Facebook](https://www.facebook.com/afladng/posts/the-future-isnt-about-choosing-between-humans-and-technology-its-about-what-beco/1820468253015640))
+
+- **Ilma University AI Session**: Ilma University is hosting a session on the future of AI, featuring insights from Behroz Noorani on the transition from code to intelligent systems. ([Instagram](https://www.instagram.com/p/DcgWzzoNSe3))
+
+- **AIDaR Workshop at NeurIPS 2026**: An announcement for a workshop at NeurIPS 2026 in Paris focuses on AI-native research and data readiness for scientific discovery, with a submission deadline of August 29, 2026. ([LinkedIn](https://www.linkedin.com/posts/marianna-rapsomaniki_aidar-ai-data-readiness-for-scientific-discovery-activity-7493952453718130690-atqx))
