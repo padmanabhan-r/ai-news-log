@@ -605,3 +605,24 @@
 - **Ilma University AI Session**: Ilma University is hosting a session on the future of AI, featuring insights from Behroz Noorani on the transition from code to intelligent systems. ([Instagram](https://www.instagram.com/p/DcgWzzoNSe3))
 
 - **AIDaR Workshop at NeurIPS 2026**: An announcement for a workshop at NeurIPS 2026 in Paris focuses on AI-native research and data readiness for scientific discovery, with a submission deadline of August 29, 2026. ([LinkedIn](https://www.linkedin.com/posts/marianna-rapsomaniki_aidar-ai-data-readiness-for-scientific-discovery-activity-7493952453718130690-atqx))
+
+## 2026-08-30
+- **Artificial Intelligence News 2026: 15 Latest AI Updates, Trends & Innovations**: The AI landscape is rapidly evolving, with advancements in large language models that enhance reasoning and context understanding. ([source](https://kstechhub.com/blog/artificial-intelligence-news-latest-ai-updates))
+
+- **AI Job Disruption Is Moving From Forecasts to Hiring Plans**: A recent survey indicates that companies are beginning to implement hiring strategies that reflect the disruptive impact of AI on the job market. ([source](https://www.rebellionresearch.com/artificial-intelligence-machine-learning))
+
+- **Artificial Intelligence & Machine Learning in Orthopedic Conferences**: AI is transforming orthopedic care by improving diagnosis and treatment planning through data analysis, leading to enhanced surgical precision. ([source](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **3rd Symposium: Artificial Intelligence in Public Health Research**: This symposium will address the regulatory frameworks and ethical considerations surrounding AI and machine learning applications in public health. ([source](https://oncodaily.com/event/artificial-intelligence-545025))
+
+- **The trends that will shape AI and tech in 2026**: Experts predict a shift in AI usage from individual productivity to team and workflow orchestration, enhancing collaboration across departments. ([source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026))
+
+- **What's next in AI: 7 trends to watch in 2026**: AI is increasingly becoming integral in various fields, including medicine and software development, where it acts as a collaborative assistant. ([source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026))
+
+- **Stanford AI Experts Predict What Will Happen in 2026**: Researchers emphasize the need to understand the inner workings of neural networks to enhance AI performance and transparency in scientific applications. ([source](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026))
+
+- **Pharmacovigilance Workshop Announcement**: A new workshop will cover the fundamentals of AI and machine learning, focusing on their real-world applications for students and tech professionals. ([source](https://www.facebook.com/pharmacovigilancePV/posts/we-are-excited-to-announce-our-upcoming-2-hour-workshop-onintroduction-to-artifi/1612367977570649))
+
+- **AI Ethics and Regulatory Frameworks**: Discussions are ongoing regarding the establishment of binding guidelines for AI ethics, reflecting growing concerns over AI's societal impact. ([source](http://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+- **AI-Designed Vaccine Success**: The first AI-designed vaccine has successfully passed its initial trials, showcasing the potential of AI in pharmaceutical development. ([source](http://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
