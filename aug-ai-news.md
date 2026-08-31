@@ -626,3 +626,24 @@
 - **AI Ethics and Regulatory Frameworks**: Discussions are ongoing regarding the establishment of binding guidelines for AI ethics, reflecting growing concerns over AI's societal impact. ([source](http://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
 
 - **AI-Designed Vaccine Success**: The first AI-designed vaccine has successfully passed its initial trials, showcasing the potential of AI in pharmaceutical development. ([source](http://www.deccanherald.com/tags/artificial-intelligence-and-machine-learning))
+
+## 2026-08-31
+- **AI Codecon: Building with Open Source AI**: A virtual conference series focusing on how AI is transforming workflows and software development, featuring leading developers and technical experts. ([source](https://www.oreilly.com/AI-Codecon))
+
+- **Machine Learning Algorithm Predicts Nvidia Stock Price for August 31, 2026**: A machine learning model forecasts a 4.58% increase in Nvidia's stock price, driven by investments in AI infrastructure and rising demand. ([source](https://af.net/realtime/machine-learning-algorithm-predicts-nvidia-stock-price-for-august-31-2026))
+
+- **Machine Learning Algorithm Sets Nvidia Stock Price for August 31, 2026**: Another prediction indicates Nvidia's stock could rise, reflecting positive market sentiment and AI-driven growth. ([source](https://finbold.com/machine-learning-algorithm-sets-nvidia-stock-price-for-august-31-2026))
+
+- **Top 10 AI Trends to Watch in 2026**: Highlights transformative AI applications in daily life, including smart home systems and AI-based traffic management, emphasizing the growing integration of AI technologies. ([source](https://www.usaii.org/ai-insights/top-10-ai-trends-to-watch-in-2026))
+
+- **Transactions on Artificial Intelligence - Scilight Press**: A review article discusses the use of machine learning for predicting T-cell receptor repertoires in autoimmune diseases, showcasing AI's role in healthcare research. ([source](https://www.sciltp.com/journals/tai))
+
+- **Special Issues - Journal of Biomedical and Health Informatics (JBHI)**: A call for submissions on explainable AI and quantum-agentic systems aimed at personalized healthcare, highlighting ongoing research in AI and health. ([source](https://www.embs.org/jbhi/special-issues))
+
+- **Chancellor's AI Fellows Program**: California Community Colleges are seeking faculty and staff to advance responsible AI adoption, aiming to integrate equity-centered AI practices in education. ([source](https://www.instagram.com/p/Dbtk2CxjwiJ))
+
+- **Final Deadline for M.S. in Artificial General Intelligence**: The California Institute for Human Science is accepting applications for its master's program in Artificial General Intelligence, with a rolling review process. ([source](https://www.facebook.com/cihs.edu/posts/final-deadline-august-31-2026applications-for-our-ms-in-artificial-general-intel/1656910439698649))
+
+- **AI Workshops & Trainings at Yale**: Upcoming workshops on generative AI and data management are scheduled, reflecting Yale's commitment to advancing AI education and research. ([source](https://dissc.yale.edu/dissc-programs/artificial-intelligence-and-machine-learning))
+
+- **UNESCO and AI-Lab/CBPF's Call for Remote Access**: UNESCO is advocating for remote access to AI infrastructure, emphasizing the importance of equitable access to AI technologies for research and development. ([source](https://www.unesco.org/en/articles/unesco-and-ai-lab/cbpfs-call-remote-access-artificial-intelligence-infrastructure))
