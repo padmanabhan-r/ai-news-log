@@ -63,3 +63,24 @@
 - **The Future of Artificial Intelligence**: Researchers warn that the dominance of AI-generated content may lead to a shortage of human-generated data for training future AI models, prompting exploration of synthetic data solutions. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
 
 - **Mastering AI Agents for NGO Work**: The final session of a learning series will focus on the application of AI agents in non-governmental organizations, emphasizing practical strategies and peer learning. ([Facebook](https://www.facebook.com/Association.of.Foundations/posts/%F0%9D%97%9F%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB-%F0%9D%97%B3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%80-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%99-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B9%F
+
+## 2026-09-04
+- **MATS Fellowship for AI Researchers**: The MATS Fellowship is now accepting applications for its Autumn 2026 cohort, focusing on AI safety, alignment research, and governance. ([Instagram](https://www.instagram.com/reel/DZCOuC8IA4V))
+
+- **International Machine Learning Conference 2026**: Scheduled for September 3-4, 2026, in Amsterdam, this conference aims to bring together researchers in the field of machine learning. ([Scribd](https://www.scribd.com/document/970574701/International-Conference-on-Machine-Learning-IntelliSys-2026))
+
+- **Upcoming AI Seminars**: A list of forthcoming AI seminars for September 2026 includes topics like AI education and predictive models, featuring speakers from various institutions. ([AIhub](https://aihub.org/2026/09/02/forthcoming-machine-learning-and-ai-seminars-september-2026-edition))
+
+- **AI Weekly Trends**: Reasoning models are highlighted as a significant development in AI, marking a shift in capabilities since the launch of ChatGPT. ([AI Weekly](https://aiweekly.co/learning-ai/artificial-intelligence/artificial-intelligence-news))
+
+- **International Conference on AI and Machine Learning**: An upcoming conference in Singapore on June 2-3, 2026, will focus on artificial intelligence, deep learning, and machine learning. ([Conference Index](https://conferenceindex.org/event/international-conference-on-artificial-intelligence-deep-learning-and-machine-learning-icaidlml-2026-june-singapore-sg))
+
+- **Tusculum University AI Workshops**: Starting September 4, 2026, Tusculum University will host a series of workshops aimed at educating participants on AI fundamentals. ([Facebook](https://www.facebook.com/tusculum.univ/posts/continuing-our-delivery-of-beneficial-information-about-artificial-intelligence-/1686505176813253))
+
+- **Machine Learning Trends 2026**: The article discusses how machine learning is becoming a collaborative partner in daily workflows, focusing on context and trust rather than just computational power. ([SoftTeco](https://softteco.com/blog/machine-learning-trends))
+
+- **AI in Orthopedics Conference**: A hybrid event on AI and machine learning in orthopedics will take place from September 24-26, 2026, in London, UK. ([Magnus Conferences](https://orthopedics.magnusconferences.com/program/scientific-sessions/artificial-intelligence-ai-and-machine-learning-in-orthopedic))
+
+- **Fannie Mae AI Governance Framework**: Fannie Mae has released a governance framework for the use of AI and machine learning in its operations, emphasizing responsible practices. ([Fannie Mae](https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-04-governance-framework-use-artificial-intelligence-and-machine-learning))
+
+- **AI Companion Robots**: Advances in AI are making companion robots more personal and emotionally aware, enhancing human-robot interactions in modern homes. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
