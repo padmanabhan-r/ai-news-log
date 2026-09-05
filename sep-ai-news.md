@@ -84,3 +84,24 @@
 - **Fannie Mae AI Governance Framework**: Fannie Mae has released a governance framework for the use of AI and machine learning in its operations, emphasizing responsible practices. ([Fannie Mae](https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-04-governance-framework-use-artificial-intelligence-and-machine-learning))
 
 - **AI Companion Robots**: Advances in AI are making companion robots more personal and emotionally aware, enhancing human-robot interactions in modern homes. ([IEEE Spectrum](https://spectrum.ieee.org/topic/artificial-intelligence))
+
+## 2026-09-05
+- **Laser-printed PVC interface tracks finger direction and speed without wiring**: A new technology using laser-printed PVC can track finger movement, enhancing user interaction without the need for traditional wiring. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
+
+- **AI Community Days Shanghai 2026 is back!**: The second edition of AI Community Days in Shanghai will take place later this year, focusing on networking and learning for AI professionals and enthusiasts. ([Facebook](https://www.facebook.com/jamel.abed/posts/ai-community-days-shanghai-2026-is-backfollowing-the-success-of-the-first-editio/10244401420680914))
+
+- **Shift towards smaller, open-weight AI models**: The September 2026 edition of O'Reilly's Radar highlights a trend towards smaller AI models that can run efficiently on personal devices, emphasizing accessibility. ([Product Systems](https://productsystems.app/ai-news))
+
+- **AI works with humans, not replaces them**: In 2026, machine learning is increasingly integrated into daily workflows, focusing on context and trust rather than just computational power. ([SoftTeco](https://softteco.com/blog/machine-learning-trends))
+
+- **Teachers’ Day Special | The AI-Ready Classroom**: A discussion among six AI experts on how AI is transforming education by enhancing creativity and critical thinking in classrooms worldwide. ([Facebook](https://www.facebook.com/vishvasnews/posts/teachers-day-special-the-ai-ready-classroom-ai-is-transforming-the-way-we-learn-/1665607585572652))
+
+- **TechCrunch Disrupt 2026**: The event will feature practical strategies for scaling startups and highlight developments in AI and cybersecurity. ([TechCrunch](https://techcrunch.com/category/artificial-intelligence))
+
+- **The EU AI Act isn’t a buzzkill**: A new perspective on the EU AI Act suggests it serves as a stress test for AI systems rather than a hindrance to innovation. ([World Summit AI](https://www.facebook.com/WorldSummitAI/posts/-ai-hotlist-3-1-to-know-this-week-wednesday-2-september-2026three-stories-cuttin/1534593478706702))
+
+- **Running out of data for AI training**: Researchers predict a potential shortage of human-generated data for training AI models by 2026, prompting exploration into synthetic data and novel sources. ([IBM](https://www.ibm.com/think/insights/artificial-intelligence-future))
+
+- **Sarvam AI co-founder named among TIME's top AI leaders**: Vivek Raghavan, co-founder of Sarvam AI, has been recognized as one of TIME's most influential AI leaders, highlighting his contributions to the field. ([Business Standard](https://www.business-standard.com/technology/artificial-intelligence))
+
+- **Bleach and salt water boost power in grid batteries**: Research indicates that using bleach and salt water can enhance the performance of grid batteries, shifting these materials from a side reaction to a central role in energy storage. ([TechXplore](https://techxplore.com/machine-learning-ai-news))
